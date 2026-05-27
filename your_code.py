@@ -65,7 +65,7 @@ while True:
             print(cost_app)
         case "8":
             print("Descargas promedio entre todas aplicaciones",mean_downloadsapp)
-            print(, "Descargas el cual se acerca la mitad de aplicaciones", median_downloadsapp)
+            print("Descargas el cual se acerca la mitad de aplicaciones", median_downloadsapp)
         case "9":
             break
         case _:
