@@ -1,13 +1,23 @@
 import pandas as pd
-df = pd.read_csv('GooglePlayStore_wild.csv')
+
+df = pd.read_csv('GoogleApps.csv')
 # Imprimir información sobre todo el DataFrame para ver qué columnas hay que limpiar
 print(df.info())
 
+print(df["Installs"])
 
 # ¿Cuántas aplicaciones en el conjunto de datos no tienen ('NaN') clasificación ('Rating')?
-print(len(df[pd.isnull(df['Rating'])]))
+df_rating= df['Rating'] # Obteniendo serie Rating
+nulls_rating = pd.isnull(df_rating) # devuelve la serie de datos que son NaN
+df_empty_rating = df[nulls_rating]
+print(len(df_empty_rating))
+
+df_mean_rating = df_rating.median()
+
 # Reemplazar el valor nulo ('NaN') de la clasificación ('Rating') para tales aplicaciones con -1.
 df['Rating'].fillna(-1, inplace = True)
+
+# df['Rating'].fillna(df_mean_rating, inplace = True) si quieren de alguna manera salvar los datos sin que se vean afectados por un 0
 
 
 # Determinar qué otro valor de tamaño ('Size') se almacena en el conjunto de datos además de Kilobytes y Megabytes, y reemplazar por -1.
@@ -21,6 +31,7 @@ def set_size(size):
    elif size[-1] == 'k':
       return float(size[:-1]) / 1024
    return -1
+
 df['Size'] = df['Size'].apply(set_size)
 
 
@@ -36,6 +47,7 @@ def set_installs(installs):
    if installs == '0':
        return 0
    return int(installs[:-1].replace(',', ''))
+
 df['Installs'] = df['Installs'].apply(set_installs)
 
 
