@@ -1,0 +1,1238 @@
+NatDex,Pokemon,HP,Atk,Def,SpA,SpD,Spe,Total,Type I,Type II,Ability I,Ability II,Hidden Ability,EV Worth,Gender,Egg Group I,Egg Group II,Catch,Evolve
+1,Bulbasaur,45,49,49,65,65,45,318.0,Grass,Poison,Overgrow,N/A,Chlorophyll,1 SpA,M (87.5%),Monster,Grass,45,N/A
+2,Ivysaur,60,62,63,80,80,60,405.0,Grass,Poison,Overgrow,N/A,Chlorophyll,1 SpA/1 SpD,M (87.5%),Monster,Grass,45,Lv. 16
+3,Mega Venusaur,80,100,123,122,120,80,625.0,Grass,Poison,Thick Fat,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+3,Venusaur,80,82,83,100,100,80,525.0,Grass,Poison,Overgrow,N/A,Chlorophyll,2 SpA/1 SpD,M (87.5%),Monster,Grass,45,Lv. 32
+4,Charmander,39,52,43,60,50,65,309.0,Fire,N/A,Blaze,N/A,Solar Power,1 Spe,M (87.5%),Monster,Dragon,45,N/A
+5,Charmeleon,58,64,58,80,65,80,405.0,Fire,N/A,Blaze,N/A,Solar Power,1 SpA/1 Spe,M (87.5%),Monster,Dragon,45,Lv. 16
+6,Mega Charizard X,78,130,111,130,85,100,634.0,Fire,Dragon,Tough Claws,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6,Mega Charizard Y,78,104,78,159,115,100,634.0,Fire,Flying,Drought,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6,Charizard,78,84,78,109,85,100,534.0,Fire,Flying,Blaze,N/A,Solar Power,3 SpA,M (87.5%),Monster,Dragon,45,Lv. 36
+7,Squirtle,44,48,65,50,64,43,314.0,Water,N/A,Torrent,N/A,Rain Dish,1 Def,M (87.5%),Monster,Water 1,45,N/A
+8,Wartortle,59,63,80,65,80,58,405.0,Water,N/A,Torrent,N/A,Rain Dish,1 Def/1 SpD,M (87.5%),Monster,Water 1,45,Lv. 16
+9,Mega Blastoise,79,103,120,135,115,78,630.0,Water,N/A,Mega Launcher,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9,Blastoise,79,83,100,85,105,78,530.0,Water,N/A,Torrent,N/A,Rain Dish,3 SpD,M (87.5%),Monster,Water 1,45,Lv. 36
+10,Caterpie,45,30,35,20,20,45,195.0,Bug,N/A,Shield Dust,N/A,Run Away,1 HP,Neutral,Bug,N/A,255,N/A
+11,Metapod,50,20,55,25,25,30,205.0,Bug,N/A,Shed Skin,N/A,N/A,1 Def,Neutral,Bug,N/A,120,Lv. 7
+12,Butterfree,60,45,50,90,80,70,395.0,Bug,Flying,Compoundeyes,N/A,Tinted Lens,2 SpA/1 SpD,Neutral,Bug,N/A,45,Lv. 10
+13,Weedle,40,35,30,20,20,50,195.0,Bug,Poison,Shield Dust,N/A,Run Away,1 Spe,Neutral,Bug,N/A,255,N/A
+14,Kakuna,45,25,50,25,25,35,205.0,Bug,Poison,Shed Skin,N/A,N/A,2 Def,Neutral,Bug,N/A,120,Lv. 7
+15,Mega Beedrill,65,150,40,15,80,145,495.0,Bug,Poison,Adaptability,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+15,Beedrill,65,90,40,45,80,75,395.0,Bug,Poison,Swarm,N/A,Sniper,2 Atk/1 SpD,Neutral,Bug,N/A,45,Lv. 10
+16,Pidgey,40,45,40,35,35,56,251.0,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,1 Spe,Neutral,Flying,N/A,255,N/A
+17,Pidgeotto,63,60,55,50,50,71,349.0,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,2 Spe,Neutral,Flying,N/A,120,Lv. 18
+18,Mega Pidgeot,83,80,80,135,80,121,579.0,Normal,Flying,No Guard,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+18,Pidgeot,83,80,75,70,70,101,479.0,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,3 Spe,Neutral,Flying,N/A,45,Lv. 36
+19,Rattata,30,56,35,25,35,72,253.0,Normal,N/A,Run Away,Guts,Hustle,1 Spe,Neutral,Field,N/A,255,N/A
+19,Rattata-Alolan,30,56,35,25,35,72,253.0,Dark,Normal,Gluttony,Hustle,Thick Fat,1 Spd,Neutral,N/A,N/A,N/A,N/A
+20,Raticate,55,81,60,50,70,97,413.0,Normal,N/A,Run Away,Guts,Hustle,2 Spe,Neutral,Field,N/A,127,Lv. 20
+20,Raticate-Alolan,75,71,70,40,80,77,413.0,Dark,Normal,Gluttony,Hustle,Thick Fat,2 Spd,Neutral,N/A,N/A,N/A,Level 20 (At night)
+21,Spearow,40,60,30,31,31,70,262.0,Normal,Flying,Keen Eye,N/A,Sniper,1 Spe,Neutral,Flying,N/A,255,N/A
+22,Fearow,65,90,65,61,61,100,442.0,Normal,Flying,Keen Eye,N/A,Sniper,2 Spe,Neutral,Flying,N/A,90,Lv. 20
+23,Ekans,35,60,44,40,54,55,288.0,Poison,N/A,Intimidate,Shed Skin,Unnerve,1 Atk,Neutral,Field,Dragon,255,N/A
+24,Arbok,60,95,69,65,79,80,448.0,Poison,N/A,Intimidate,Shed Skin,Unnerve,2 Atk,Neutral,Field,Dragon,90,Lv. 22
+25,Partner Pikachu,45,80,50,75,60,120,430.0,Electric,N/A,N/A,N/A,N/A,2 Spd,Neutral,N/A,N/A,N/A,N
+25,Pikachu,35,55,40,50,50,90,320.0,Electric,N/A,Static,N/A,Lightningrod,2 Spe,Neutral,Field,Fairy,190,Friendship
+26,Mega Raichu X,60,135,95,90,95,110,585.0,Electric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+26,Mega Raichu Y,60,100,55,160,80,130,585.0,Electric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+26,Raichu,60,90,55,90,80,110,485.0,Electric,N/A,Static,N/A,Lightningrod,3 Spe,Neutral,Field,Fairy,75,Thunderstone
+26,Raichu-Alolan,60,85,50,95,85,110,485.0,Electric,Psychic,Surge Surfer,N/A,N/A,3 Spd,Neutral,N/A,N/A,N/A,Thunderstone (Alola Only)
+27,Sandshrew,50,75,85,20,30,40,300.0,Ground,N/A,Sand Veil,N/A,Sand Rush,1 Def,Neutral,Field,N/A,255,N/A
+27,Sandshrew-Alolan,50,75,90,10,35,40,300.0,Ice,Steel,Snow Cloak,N/A,Slush Rush,1 Def,Neutral,N/A,N/A,N/A,N/A
+28,Sandslash,75,100,110,45,55,65,450.0,Ground,N/A,Sand Veil,N/A,Sand Rush,2 Def,Neutral,Field,N/A,90,Lv. 22
+28,Sandslash-Alolan,75,100,120,25,65,65,450.0,Ice,Steel,Snow Cloak,N/A,Slush Rush,2 Def,Neutral,N/A,N/A,N/A,Ice Stone
+29,Nidoran ♀,55,47,52,40,40,41,275.0,Poison,N/A,Poison Point,Rivalry,Hustle,1 HP,F (100%),Monster,Field,235,N/A
+30,Nidorina,70,62,67,55,55,56,365.0,Poison,N/A,Poison Point,Rivalry,Hustle,2 HP,F (100%),-,N/A,120,Lv. 16
+31,Nidoqueen,90,92,87,75,85,76,505.0,Poison,Ground,Poison Point,Rivalry,Sheer Force,3 HP,F (100%),-,N/A,45,Moon Stone
+32,Nidoran ♂,46,57,40,40,40,50,273.0,Poison,N/A,Poison Point,Rivalry,Hustle,1 Atk,M (100%),Monster,Field,235,N/A
+33,Nidorino,61,72,57,55,55,65,365.0,Poison,N/A,Poison Point,Rivalry,Hustle,2 Atk,M (100%),Monster,Field,120,Lv. 16
+34,Nidoking,81,102,77,85,75,85,505.0,Poison,Ground,Poison Point,Rivalry,Sheer Force,3 Atk,M (100%),Monster,Field,45,Moon Stone
+35,Clefairy,70,45,48,60,65,35,323.0,Fairy,N/A,Cute Charm,Magic Guard,Friend Guard,2 HP,F (75%),Fairy,N/A,150,Friendship
+36,Mega Clefable,95,80,93,135,110,70,583.0,Fairy,Flying,Magic Bounce,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+36,Clefable,95,70,73,95,90,60,483.0,Fairy,N/A,Cute Charm,Magic Guard,Unaware,3 HP,F (75%),Fairy,N/A,25,Moon Stone
+37,Vulpix,38,41,40,50,65,65,299.0,Fire,N/A,Flash Fire,N/A,Drought,1 Spe,F (75%),Field,N/A,190,N/A
+37,Vulpix-Alolan,38,41,40,50,65,65,299.0,Ice,Fairy,Snow Cloak,N/A,Snow Warning,1 Spd,F (75%),N/A,N/A,N/A,N/A
+38,Ninetales,73,76,75,81,100,100,505.0,Fire,N/A,Flash Fire,N/A,Drought,1 SpD/1 Spe,F (75%),Field,N/A,75,Fire Stone
+38,Ninetales-Alolan,73,67,75,81,100,109,505.0,Ice,Fairy,Snow Cloak,N/A,Snow Warning,2 Spd,F (75%),N/A,N/A,N/A,Ice Stone
+39,Jigglypuff,115,45,20,45,25,20,270.0,Normal,Fairy,Cute Charm,N/A,Friend Guard,2 HP,F (75%),Fairy,N/A,170,Friendship
+40,Wigglytuff,140,70,45,85,50,45,435.0,Normal,Fairy,Cute Charm,N/A,Frisk,3 HP,F (75%),Fairy,N/A,50,Moon Stone
+41,Zubat,40,45,35,30,40,55,245.0,Poison,Flying,Inner Focus,N/A,Infiltrator,1 Spe,Neutral,Flying,N/A,255,N/A
+42,Golbat,75,80,70,65,75,90,455.0,Poison,Flying,Inner Focus,N/A,Infiltrator,2 Spe,Neutral,Flying,N/A,90,Lv. 22
+43,Oddish,45,50,55,75,65,30,320.0,Grass,Poison,Chlorophyll,N/A,Run Away,1 SpA,Neutral,Grass,N/A,255,N/A
+44,Gloom,60,65,70,85,75,40,395.0,Grass,Poison,Chlorophyll,N/A,Stench,2 SpA/1 SpD,Neutral,Grass,N/A,120,Lv. 22
+45,Vileplume,75,80,85,110,90,50,490.0,Grass,Poison,Chlorophyll,N/A,Effect Spore,3 SpA,Neutral,Grass,N/A,45,Leaf Stone
+46,Paras,35,70,55,45,55,25,285.0,Bug,Grass,Effect Spore,Dry Skin,Damp,1 Atk,Neutral,Bug,Grass,190,N/A
+47,Parasect,60,95,80,60,80,30,405.0,Bug,Grass,Effect Spore,Dry Skin,Damp,2 Atk/1 Def,Neutral,Bug,Grass,75,Lv. 24
+48,Venonat,60,55,50,40,55,45,305.0,Bug,Poison,Compoundeyes,Tinted Lens,Run Away,1 SpD,Neutral,Bug,N/A,190,N/A
+49,Venomoth,70,65,60,90,75,90,450.0,Bug,Poison,Shield Dust,Tinted Lens,Wonderskin,1 SpA/1 Spe,Neutral,Bug,N/A,75,Lv. 31
+50,Diglett,10,55,25,35,45,95,265.0,Ground,N/A,Sand Veil,Arena Trap,Sand Force,1 Spe,Neutral,Field,N/A,255,N/A
+50,Diglett-Alolan,10,55,30,35,45,90,265.0,Ground,Steel,Sand Veil,Tangling Hair,Sand Force,2 Spd,Neutral,N/A,N/A,N/A,N/A
+51,Dugtrio,35,100,50,50,70,120,425.0,Ground,N/A,Sand Veil,Arena Trap,Sand Force,2 Spe,Neutral,Field,N/A,50,Lv. 26
+51,Dugtrio-Alolan,35,100,60,50,70,110,425.0,Ground,Steel,Sand Veil,Tangling Hair,Sand Force,2 Atk,Neutral,N/A,N/A,N/A,Level 26
+52,Meowth,40,45,35,40,40,90,290.0,Normal,N/A,Pickup,Technician,Unnerve,1 Spe,Neutral,Field,N/A,255,N/A
+52,Meowth-Alolan,40,35,35,50,40,90,290.0,Dark,N/A,Pickup,Technician,Rattled,1 Spd,Neutral,N/A,N/A,N/A,N/A
+52,Meowth-Galarian,50,65,55,40,40,40,290.0,Steel,N/A,Pickup,Tough Claws,Unnerve,1 Atk,Neutral,N/A,N/A,N/A,N/A
+53,Persian,65,70,60,65,65,115,440.0,Normal,N/A,Limber,Technician,Unnerve,2 Spe,Neutral,Field,N/A,90,Lv. 28
+53,Persian-Alolan,65,60,60,75,65,115,440.0,Dark,N/A,Fur Coat,Technician,Rattled,2 Spd,Neutral,N/A,N/A,N/A,Level 26
+54,Psyduck,50,52,48,65,50,55,320.0,Water,N/A,Damp,Cloud Nine,Swift Swim,1 SpA,Neutral,Water 1,Field,190,N/A
+55,Golduck,80,82,78,95,80,85,500.0,Water,N/A,Damp,Cloud Nine,Swift Swim,2 SpA,Neutral,Water 1,Field,75,Lv. 33
+56,Mankey,40,80,35,35,45,70,305.0,Fighting,N/A,Vital Spirit,Anger Point,Defiant,1 Atk,Neutral,Field,N/A,190,N/A
+57,Primeape,65,105,60,60,70,95,455.0,Fighting,N/A,Vital Spirit,Anger Point,Defiant,2 Atk,Neutral,Field,N/A,75,Lv. 28
+58,Growlithe,55,70,45,70,50,60,350.0,Fire,N/A,Intimidate,Flash Fire,Justified,1 Atk,M (75%),Field,N/A,190,N/A
+58,Growlithe-Hisuian,60,75,45,65,50,55,350.0,Fire,Rock,Intimidate,Flash Fire,Justified,1 Atk,M (75%),N/A,N/A,N/A,N/A
+59,Arcanine,90,110,80,100,80,95,555.0,Fire,N/A,Intimidate,Flash Fire,Justified,2 Atk,M (75%),Field,N/A,75,Fire Stone
+59,Arcanine-Hisuian,95,115,80,95,80,90,555.0,Fire,Rock,Intimidate,Flash Fire,Justified,2 Atk,M (75%),N/A,N/A,N/A,Fire Stone
+60,Poliwag,40,50,40,40,40,90,300.0,Water,N/A,Water Absorb,Damp,Swift Swim,1 Spe,Neutral,Water 1,N/A,255,N/A
+61,Poliwhirl,65,65,65,50,50,90,385.0,Water,N/A,Water Absorb,Damp,Swift Swim,2 Spe,Neutral,Water 1,N/A,120,Lv. 25
+62,Poliwrath,90,95,95,70,90,70,510.0,Water,Fighting,Water Absorb,Damp,Swift Swim,3 Def,Neutral,Water 1,N/A,45,Water Stone
+63,Abra,25,20,15,105,55,90,310.0,Psychic,N/A,Synchronize,Inner Focus,Magic Guard,1 SpA,M (75%),Human-Like,N/A,200,N/A
+64,Kadabra,40,35,30,120,70,105,400.0,Psychic,N/A,Synchronize,Inner Focus,Magic Guard,2 SpA,M (75%),Human-Like,N/A,100,Lv. 16
+65,Mega Alakazam,55,50,65,175,105,150,600.0,Psychic,N/A,Trace,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+65,Alakazam,55,50,45,135,95,120,500.0,Psychic,N/A,Synchronize,Inner Focus,Magic Guard,3 SpA,M (75%),Human-Like,N/A,50,Trade
+66,Machop,70,80,50,35,35,35,305.0,Fighting,N/A,Guts,No Guard,Steadfast,1 Atk,M (75%),Human-Like,N/A,180,N/A
+67,Machoke,80,100,70,50,60,45,405.0,Fighting,N/A,Guts,No Guard,Steadfast,2 Atk,M (75%),Human-Like,N/A,90,Lv. 28
+68,Machamp,90,130,80,65,85,55,505.0,Fighting,N/A,Guts,No Guard,Steadfast,3 Atk,M (75%),Human-Like,N/A,45,Trade
+69,Bellsprout,50,75,35,70,30,40,300.0,Grass,Poison,Chlorophyll,N/A,Gluttony,1 Atk,Neutral,Grass,N/A,255,N/A
+70,Weepinbell,65,90,50,85,45,55,390.0,Grass,Poison,Chlorophyll,N/A,Gluttony,2 Atk,Neutral,Grass,N/A,120,Lv. 21
+71,Mega Victreebel,80,125,85,135,95,70,590.0,Grass,Poison,Innards Out,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+71,Victreebel,80,105,65,100,70,70,490.0,Grass,Poison,Chlorophyll,N/A,Gluttony,3 Atk,Neutral,Grass,N/A,45,Leaf Stone
+72,Tentacool,40,40,35,50,100,70,335.0,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,1 SpD,Neutral,Water 3,N/A,190,N/A
+73,Tentacruel,80,70,65,80,120,100,515.0,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,2 SpD,Neutral,Water 3,N/A,60,Lv. 30
+74,Geodude,40,80,100,30,30,20,300.0,Rock,Ground,Rock Head,Sturdy,Sand Veil,1 Def,Neutral,Mineral,N/A,255,N/A
+74,Geodude-Alolan,40,80,100,30,30,20,300.0,Rock,Electric,Magnet Pull,Sturdy,Galvanize,1 Def,Neutral,N/A,N/A,N/A,N/A
+75,Graveler,55,95,115,45,45,35,390.0,Rock,Ground,Rock Head,Sturdy,Sand Veil,2 Def,Neutral,Mineral,N/A,120,Lv. 25
+75,Graveler-Alolan,55,95,115,45,45,35,390.0,Rock,Electric,Magnet Pull,Sturdy,Galvanize,2 Def,Neutral,N/A,N/A,N/A,Level 25
+76,Golem,80,120,130,55,65,45,495.0,Rock,Ground,Rock Head,Sturdy,Sand Veil,3 Def,Neutral,Mineral,N/A,45,Trade
+76,Golem-Alolan,80,120,130,55,65,45,495.0,Rock,Electric,Magnet Pull,Sturdy,Galvanize,3 Def,Neutral,N/A,N/A,N/A,Trade
+77,Ponyta,50,85,55,65,65,90,410.0,Fire,N/A,Run Away,Flash Fire,Flame Body,1 Spe,Neutral,Field,N/A,190,N/A
+77,Ponyta-Galarian,50,85,55,65,65,90,410.0,Psychic,Fairy,Run Away,Pastel Veil,Anticipation,1 Spd,Neutral,N/A,N/A,N/A,N/A
+78,Rapidash,65,100,70,80,80,105,500.0,Fire,N/A,Run Away,Flash Fire,Flame Body,1 Spe,Neutral,Field,N/A,60,Lv. 40
+78,Rapidash-Galarian,65,100,70,80,80,105,500.0,Psychic,Fairy,Run Away,Pastel Veil,Anticipation,2 Spd,Neutral,N/A,N/A,N/A,Level 40
+79,Slowpoke,90,65,65,40,40,15,315.0,Water,Psychic,Oblivious,Own Tempo,Regenerator,1 HP,Neutral,Monster,Water 1,190,N/A
+79,Slowpoke-Galarian,90,65,65,40,40,15,315.0,Psychic,N/A,Gluttony,Own Tempo,Regenerator,1 HP,Neutral,N/A,N/A,N/A,N/A
+80,Mega Slowbro,95,75,180,130,80,30,590.0,Water,Psychic,Shell Armor,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+80,Slowbro,95,75,110,100,80,30,490.0,Water,Psychic,Oblivious,Own Tempo,Regenerator,2 Def,Neutral,Monster,Water 1,75,Lv. 37
+80,Slowbro-Galarian,95,100,95,100,70,30,490.0,Poison,Psychic,Quick Draw,Own Tempo,Regenerator,2 Atk,Neutral,N/A,N/A,N/A,Galarian Cuff
+81,Magnemite,25,35,70,95,55,45,325.0,Electric,Steel,Magnet Pull,Sturdy,Analytic,1 SpA,N/A,Mineral,N/A,190,N/A
+82,Magneton,50,60,95,120,70,70,465.0,Electric,Steel,Magnet Pull,Sturdy,Analytic,2 SpA,N/A,Mineral,N/A,60,Lv. 30
+83,Farfetch'd,52,90,55,58,62,60,377.0,Normal,Flying,Keen Eye,Inner Focus,Defiant,1 Atk,Neutral,Flying,Field,45,N
+83,Farfetch'd-Galarian,52,95,55,58,62,55,377.0,Fighting,N/A,Steadfast,N/A,Scrappy,1 Atk,Neutral,N/A,N/A,N/A,N/A
+84,Doduo,35,85,45,35,35,75,310.0,Normal,Flying,Run Away,Early Bird,Tangled Feet,1 Atk,Neutral,Flying,N/A,190,N/A
+85,Dodrio,60,110,70,60,60,110,470.0,Normal,Flying,Run Away,Early Bird,Tangled Feet,2 Atk,Neutral,Flying,N/A,45,Lv. 31
+86,Seel,65,45,55,45,70,45,325.0,Water,N/A,Thick Fat,Hydration,Ice Body,1 SpD,Neutral,Water 1,Field,190,N/A
+87,Dewgong,90,70,80,70,95,70,475.0,Water,Ice,Thick Fat,Hydration,Ice Body,2 SpD,Neutral,Water 1,Field,75,Lv. 34
+88,Grimer,80,80,50,40,50,25,325.0,Poison,N/A,Stench,Sticky Hold,Poison Touch,1 HP,Neutral,Amorphous,N/A,190,N/A
+88,Grimer-Alolan,80,80,50,40,50,25,325.0,Poison,Dark,Poison Touch,Gluttony,Power of Alchemy,1 HP,Neutral,N/A,N/A,N/A,N/A
+89,Muk,105,105,75,65,100,50,500.0,Poison,N/A,Stench,Sticky Hold,Poison Touch,1 HP/1 Atk,Neutral,Amorphous,N/A,75,Lv. 38
+89,Muk-Alolan,105,105,75,65,100,50,500.0,Poison,Dark,Poison Touch,Gluttony,Power of Alchemy,"1 HP, 1 Atk",Neutral,N/A,N/A,N/A,Level 38
+90,Shellder,30,65,100,45,25,40,305.0,Water,N/A,Shell Armor,Skill Link,Overcoat,1 Def,Neutral,Water 3,N/A,190,N/A
+91,Cloyster,50,95,180,85,45,70,525.0,Water,Ice,Shell Armor,Skill Link,Overcoat,2 Def,Neutral,Water 3,N/A,60,Water Stone
+92,Gastly,30,35,30,100,35,80,310.0,Ghost,Poison,Levitate,N/A,N/A,1 SpA,Neutral,Amorphous,N/A,190,N/A
+93,Haunter,45,50,45,115,55,95,405.0,Ghost,Poison,Levitate,N/A,N/A,2 SpA,Neutral,Amorphous,N/A,90,Lv. 25
+94,Mega Gengar,60,65,80,170,95,130,600.0,Ghost,Poison,Shadow Tag,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+94,Gengar,60,65,60,130,75,110,500.0,Ghost,Poison,Cursed Body,N/A,N/A,3 SpA,Neutral,Amorphous,N/A,45,Trade
+95,Onix,35,45,160,30,45,70,385.0,Rock,Ground,Rock Head,Sturdy,Weak Armor,1 Def,Neutral,Mineral,N/A,45,N/A
+96,Drowzee,60,48,45,43,90,42,328.0,Psychic,N/A,Insomnia,Forewarn,Inner Focus,1 SpD,Neutral,Human-Like,N/A,190,N/A
+97,Hypno,85,73,70,73,115,67,483.0,Psychic,N/A,Insomnia,Forewarn,Inner Focus,2 SpD,Neutral,Human-Like,N/A,75,Lv. 26
+98,Krabby,30,105,90,25,25,50,325.0,Water,N/A,Hyper Cutter,Shell Armor,Sheer Force,1 Atk,Neutral,Water 3,N/A,225,N/A
+99,Kingler,55,130,115,50,50,75,475.0,Water,N/A,Hyper Cutter,Shell Armor,Sheer Force,2 Atk,Neutral,Water 3,N/A,60,Lv. 28
+100,Voltorb,40,30,50,55,55,100,330.0,Electric,N/A,Soundproof,Static,Aftermath,1 Spe,N/A,Mineral,N/A,190,N/A
+100,Voltorb-Hisuian,40,30,50,55,55,100,330.0,Electric,Grass,Soundproof,Static,Aftermath,1 Spd,N/A,N/A,N/A,N/A,N/A
+101,Electrode,60,50,70,80,80,150,490.0,Electric,N/A,Soundproof,Static,Aftermath,2 Spe,N/A,Mineral,N/A,60,Lv. 30
+101,Electrode-Hisuian,60,50,70,80,80,150,490.0,Electric,Grass,Soundproof,Static,Aftermath,2 Spd,N/A,Leaf Stone,N/A,N/A,Leaf Stone
+102,Exeggcute,60,40,80,60,45,40,325.0,Grass,Psychic,Chlorophyll,N/A,Harvest,1 Def,Neutral,Grass,N/A,90,N/A
+103,Exeggutor,95,95,85,125,75,55,530.0,Grass,Psychic,Chlorophyll,N/A,Harvest,2 SpA,Neutral,Grass,N/A,45,Leaf Stone
+103,Exeggutor-Alolan,95,105,85,125,75,45,530.0,Grass,N/A,Frisk,N/A,Harvest,2 SpA,Neutral,N/A,N/A,N/A,Leaf Stone (Alola Only)
+104,Cubone,50,50,95,40,50,35,320.0,Ground,N/A,Rock Head,Lightningrod,Battle Armor,1 Def,Neutral,Monster,N/A,190,N/A
+105,Marowak,60,80,110,50,80,45,425.0,Ground,N/A,Rock Head,Lightningrod,Battle Armor,2 Def,Neutral,Monster,N/A,75,Lv. 28
+105,Marowak-Alolan,60,80,110,50,80,45,425.0,Ghost,Fire,Cursed Body,Lightning Rod,Rock Head,2 Def,Neutral,N/A,N/A,N/A,"Level 28 (Night, Alola Only)"
+106,Hitmonlee,50,120,53,35,110,87,455.0,Fighting,N/A,Limber,Reckless,Unburden,2 Atk,M (100%),Human-Like,N/A,45,Lv. 20 (Atk>Def)
+107,Hitmonchan,50,105,79,35,110,76,455.0,Fighting,N/A,Keen Eye,Iron Fist,Inner Focus,2 SpD,M (100%),Human-Like,N/A,45,Lv. 20 (Atk<Def)
+108,Lickitung,90,55,75,60,75,30,385.0,Normal,N/A,Own Tempo,Oblivious,Cloud Nine,2 HP,Neutral,Monster,N/A,45,N/A
+109,Koffing,40,65,95,60,45,35,340.0,Poison,N/A,Levitate,Neutralizing Gas,Stench,1 Def,Neutral,Amorphous,N/A,190,N/A
+110,Weezing,65,90,120,85,70,60,490.0,Poison,N/A,Levitate,Neutralizing Gas,Stench,2 Def,Neutral,Amorphous,N/A,60,Lv. 35
+110,Weezing-Galarian,65,90,120,85,70,60,490.0,Poison,Fairy,Levitate,Neutralizing Gas,Misty Surge,2 Def,Neutral,N/A,N/A,N/A,Level 35 (Galar Only)
+111,Rhyhorn,80,85,95,30,30,25,345.0,Ground,Rock,Lightningrod,Rock Head,Reckless,1 Def,Neutral,Monster,Field,120,N/A
+112,Rhydon,105,130,120,45,45,40,485.0,Ground,Rock,Lightningrod,Rock Head,Reckless,2 Atk,Neutral,Monster,Field,60,Lv. 42
+113,Chansey,250,5,5,35,105,50,450.0,Normal,N/A,Natural Cure,Serene Grace,Healer,2 HP,F (100%),Fairy,N/A,30,Morn/Day Fr. h/ Oval Stone
+114,Tangela,65,55,115,100,40,60,435.0,Grass,N/A,Chlorophyll,Leaf Guard,Regenerator,1 Def,Neutral,Grass,N/A,45,N/A
+115,Mega Kangaskhan,105,125,100,60,100,100,590.0,Normal,N/A,Parental Bond,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+115,Kangaskhan,105,95,80,40,80,90,490.0,Normal,N/A,Early Bird,Scrappy,Inner Focus,2 HP,F (100%),Monster,N/A,45,N
+116,Horsea,30,40,70,70,25,60,295.0,Water,N/A,Swift Swim,Sniper,Damp,1 SpA,Neutral,Water 1,Dragon,225,N/A
+117,Seadra,55,65,95,95,45,85,440.0,Water,N/A,Poison Point,Sniper,Damp,1 Def/1 SpA,Neutral,Water 1,Dragon,75,Lv. 32
+118,Goldeen,45,67,60,35,50,63,320.0,Water,N/A,Swift Swim,Water Veil,Lightningrod,1 Atk,Neutral,Water 2,N/A,225,N/A
+119,Seaking,80,92,65,65,80,68,450.0,Water,N/A,Swift Swim,Water Veil,Lightningrod,2 Atk,Neutral,Water 2,N/A,60,Lv. 33
+120,Staryu,30,45,55,70,55,85,340.0,Water,N/A,Illuminate,Natural Cure,Analytic,1 Spe,N/A,Water 3,N/A,225,N/A
+121,Mega Starmie,60,100,105,130,105,120,620.0,Water,Psychic,Huge Power,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+121,Starmie,60,75,85,100,85,115,520.0,Water,Psychic,Illuminate,Natural Cure,Analytic,2 Spe,N/A,Water 3,N/A,60,Water Stone
+122,Mr. Mime,40,45,65,100,120,90,460.0,Psychic,Fairy,Soundproof,Filter,Technician,2 SpD,Neutral,Human-Like,N/A,45,Level w/ Mimic
+122,Mr. Mime-Galarian,50,65,65,90,90,100,460.0,Ice,Fairy,Vital Spirit,Screen Cleaner,Ice Body,2 Spd,Neutral,N/A,N/A,N/A,Knowing Mimic (Galar Only)
+123,Scyther,70,110,80,55,80,105,500.0,Bug,Flying,Swarm,Technician,Steadfast,1 Atk,Neutral,Bug,N/A,45,N/A
+124,Jynx,65,50,35,115,95,95,455.0,Ice,Psychic,Oblivious,Forewarn,Dry Skin,2 SpA,F (100%),Human-Like,N/A,45,Lv. 30
+125,Electabuzz,65,83,57,95,85,105,490.0,Electric,N/A,Static,N/A,Vital Spirit,2 Spe,M (75%),Human-Like,N/A,45,Lv. 30
+126,Magmar,65,95,57,100,85,93,495.0,Fire,N/A,Flame Body,N/A,Vital Spirit,2 SpA,M (75%),Human-Like,N/A,45,Lv. 30
+127,Mega Pinsir,65,155,120,65,90,105,600.0,Bug,Flying,Aerilate,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+127,Pinsir,65,125,100,55,70,85,500.0,Bug,N/A,Hyper Cutter,Mold Breaker,Moxie,2 Atk,Neutral,Bug,N/A,45,N
+128,Tauros,75,100,95,40,70,110,490.0,Normal,N/A,Intimidate,Anger Point,Sheer Force,1 Atk/1 Spe,M (100%),Field,N/A,45,N
+128,Tauros-Aqua,75,110,105,30,70,100,490.0,Fighting,Water,Intimidate,Anger Point,Cud Chew,"1 Atk, 1 Spd",M (100%),N/A,N/A,N/A,N/A
+128,Tauros-Blaze,75,110,105,30,70,100,490.0,Fighting,Fire,Intimidate,Anger Point,Cud Chew,"1 Atk, 1 Spd",M (100%),N/A,N/A,N/A,N/A
+128,Tauros-Combat,75,110,105,30,70,100,490.0,Fighting,N/A,Intimidate,Anger Point,Cud Chew,"1 Atk, 1 Spd",M (100%),N/A,N/A,N/A,N/A
+129,Magikarp,20,10,55,15,20,80,200.0,Water,N/A,Swift Swim,N/A,Rattled,1 Spe,Neutral,Water 2,Dragon,255,N/A
+130,Mega Gyarados,95,155,109,70,130,81,640.0,Water,Dark,Mold Breaker,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+130,Gyarados,95,125,79,60,100,81,540.0,Water,Flying,Intimidate,N/A,Moxie,2 Atk,Neutral,Water 2,Dragon,45,Lv. 20
+131,Lapras,130,85,80,85,95,60,535.0,Water,Ice,Water Absorb,Shell Armor,Hydration,2 HP,Neutral,Monster,Water 1,45,N
+132,Ditto,48,48,48,48,48,48,288.0,Normal,N/A,Limber,N/A,Imposter,1 HP,N/A,Ditto,N/A,35,N
+133,Partner Eevee,65,75,70,65,85,75,435.0,Normal,N/A,N/A,N/A,N/A,1 SpD,M (87.5%),N/A,N/A,N/A,N
+133,Eevee,55,55,50,45,65,55,325.0,Normal,N/A,Run Away,Adaptability,Anticipation,1 SpD,M (87.5%),Field,N/A,45,N/A
+134,Vaporeon,130,65,60,110,95,65,525.0,Water,N/A,Water Absorb,N/A,Hydration,2 HP,M (87.5%),Field,N/A,45,Water Stone
+135,Jolteon,65,65,60,110,95,130,525.0,Electric,N/A,Volt Absorb,N/A,Quick Feet,2 Spe,M (87.5%),Field,N/A,45,Thunderstone
+136,Flareon,65,130,60,95,110,65,525.0,Fire,N/A,Flash Fire,N/A,Guts,2 Atk,M (87.5%),Field,N/A,45,Fire Stone
+137,Porygon,65,60,70,85,75,40,395.0,Normal,N/A,Trace,Download,Analytic,1 SpA,N/A,Mineral,N/A,45,N/A
+138,Omanyte,35,40,100,90,55,35,355.0,Rock,Water,Swift Swim,Shell Armor,Weak Armor,1 Def,M (87.5%),Water 1,Water 3,45,N/A
+139,Omastar,70,60,125,115,70,55,495.0,Rock,Water,Swift Swim,Shell Armor,Weak Armor,2 Def,M (87.5%),Water 1,Water 3,45,Lv. 40
+140,Kabuto,30,80,90,55,45,55,355.0,Rock,Water,Swift Swim,Battle Armor,Weak Armor,1 Def,M (87.5%),Water 1,Water 3,45,N/A
+141,Kabutops,60,115,105,65,70,80,495.0,Rock,Water,Swift Swim,Battle Armor,Weak Armor,2 Atk,M (87.5%),Water 1,Water 3,45,Lv. 40
+142,Mega Aerodactyl,80,135,85,70,95,150,615.0,Rock,Flying,Tough Claws,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+142,Aerodactyl,80,105,65,60,75,130,515.0,Rock,Flying,Rock Head,Pressure,Unnerve,2 Spe,M (87.5%),Flying,N/A,45,N
+143,Snorlax,160,110,65,65,110,30,540.0,Normal,N/A,Immunity,Thick Fat,Gluttony,2 HP,M (87.5%),Monster,N/A,25,Friendship
+144,Articuno,90,85,100,95,125,85,580.0,Ice,Flying,Pressure,N/A,Snow Cloak,3 SpD,N/A,-,N/A,3,N
+144,Articuno-Galarian,90,85,85,125,100,95,580.0,Psychic,Flying,Competitive,N/A,N/A,3 SpA,N/A,N,N/A,N/A,N
+145,Zapdos,90,90,85,125,90,100,580.0,Electric,Flying,Pressure,N/A,Static,3 SpA,N/A,-,N/A,3,N
+145,Zapdos-Galarian,90,125,90,85,90,100,580.0,Fighting,Flying,Defiant,N/A,N/A,3 Atk,N/A,N,N/A,N/A,N
+146,Moltres,90,100,90,125,85,90,580.0,Fire,Flying,Pressure,N/A,Flame Body,3 SpA,N/A,-,N/A,3,N
+146,Moltres-Galarian,90,85,90,100,125,90,580.0,Dark,Flying,Berserk,N/A,N/A,3 SpD,N/A,N,N/A,N/A,N
+147,Dratini,41,64,45,50,50,50,300.0,Dragon,N/A,Shed Skin,N/A,Marvel Scale,1 Atk,Neutral,Water 1,Dragon,45,N/A
+148,Dragonair,61,84,65,70,70,70,420.0,Dragon,N/A,Shed Skin,N/A,Marvel Scale,2 Atk,Neutral,Water 1,Dragon,45,Lv. 30
+149,Mega-Dragonite,91,124,115,145,125,100,700.0,Dragon,Flying,Multiscale,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+149,Dragonite,91,134,95,100,100,80,600.0,Dragon,Flying,Inner Focus,N/A,Multiscale,3 Atk,Neutral,Water 1,Dragon,45,Lv. 55
+150,Mega Mewtwo X,106,190,100,154,100,130,780.0,Psychic,Fighting,Steadfast,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+150,Mega Mewtwo Y,106,150,70,194,120,140,780.0,Psychic,N/A,Insomnia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+150,Mewtwo,106,110,90,154,90,130,680.0,Psychic,N/A,Pressure,N/A,Unnerve,3 SpA,N/A,-,N/A,3,N
+151,Mew,100,100,100,100,100,100,600.0,Psychic,N/A,Synchronize,N/A,N/A,3 HP,N/A,-,N/A,45,N
+152,Chikorita,45,49,65,49,65,45,318.0,Grass,N/A,Overgrow,N/A,Leaf Guard,1 SpD,M (87.5%),Monster,Grass,45,N/A
+153,Bayleef,60,62,80,63,80,60,405.0,Grass,N/A,Overgrow,N/A,Leaf Guard,1 Def/1 SpD,M (87.5%),Monster,Grass,45,Lv. 16
+154,Mega-Meganium,80,92,115,143,115,80,625.0,Grass,Fairy,Mega-Sol,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+154,Meganium,80,82,100,83,100,80,525.0,Grass,N/A,Overgrow,N/A,Leaf Guard,1 Def/2 SpD,M (87.5%),Monster,Grass,45,Lv. 32
+155,Cyndaquil,39,52,43,60,50,65,309.0,Fire,N/A,Blaze,N/A,Flash Fire,1 Spe,M (87.5%),Field,N/A,45,N/A
+156,Quilava,58,64,58,80,65,80,405.0,Fire,N/A,Blaze,N/A,Flash Fire,1 SpA/1 Spe,M (87.5%),Field,N/A,45,Lv. 14
+157,Typhlosion,78,84,78,109,85,100,534.0,Fire,N/A,Blaze,N/A,Flash Fire,3 SpA,M (87.5%),Field,N/A,45,Lv. 36
+157,Typhlosion-Hisuian,73,84,78,119,85,95,534.0,Ghost,Fire,Blaze,N/A,Flash Fire,3 SpA,M (87.5%),N/A,N/A,N/A,Level 36 (Hisui Only)
+158,Totodile,50,65,64,44,48,43,314.0,Water,N/A,Torrent,N/A,Sheer Force,1 Atk,M (87.5%),Monster,Water 1,45,N/A
+159,Croconaw,65,80,80,59,63,58,405.0,Water,N/A,Torrent,N/A,Sheer Force,1 Atk/1 Def,M (87.5%),Monster,Water 1,45,Lv. 18
+160,Mega-Feraligatr,85,160,125,89,93,78,630.0,Water,Dragon,Dragonize,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+160,Feraligatr,85,105,100,79,83,78,530.0,Water,N/A,Torrent,N/A,Sheer Force,2 Atk/1 Def,M (87.5%),Monster,Water 1,45,Lv. 30
+161,Sentret,35,46,34,35,45,20,215.0,Normal,N/A,Run Away,Keen Eye,Frisk,1 Atk,Neutral,Field,N/A,255,N/A
+162,Furret,85,76,64,45,55,90,415.0,Normal,N/A,Run Away,Keen Eye,Frisk,2 Spe,Neutral,Field,N/A,90,Lv. 15
+163,Hoothoot,60,30,30,36,56,50,262.0,Normal,Flying,Insomnia,Keen Eye,Tinted Lens,1 HP,Neutral,Flying,N/A,255,N/A
+164,Noctowl,100,50,50,86,96,70,452.0,Normal,Flying,Insomnia,Keen Eye,Tinted Lens,2 HP,Neutral,Flying,N/A,90,Lv. 20
+165,Ledyba,40,20,30,40,80,55,265.0,Bug,Flying,Swarm,Early Bird,Rattled,1 SpD,Neutral,Bug,N/A,255,N/A
+166,Ledian,55,35,50,55,110,85,390.0,Bug,Flying,Swarm,Early Bird,Iron Fist,2 SpD,Neutral,Bug,N/A,90,Lv. 18
+167,Spinarak,40,60,40,40,40,30,250.0,Bug,Poison,Swarm,Insomnia,Sniper,1 Atk,Neutral,Bug,N/A,255,N/A
+168,Ariados,70,90,70,60,70,40,400.0,Bug,Poison,Swarm,Insomnia,Sniper,2 Atk,Neutral,Bug,N/A,90,Lv. 22
+169,Crobat,85,90,80,70,80,130,535.0,Poison,Flying,Inner Focus,N/A,Infiltrator,3 Spe,Neutral,Flying,N/A,90,Friendship
+170,Chinchou,75,38,38,56,56,67,330.0,Water,Electric,Volt Absorb,Illuminate,Water Absorb,1 HP,Neutral,Water 2,N/A,190,N/A
+171,Lanturn,125,58,58,76,76,67,460.0,Water,Electric,Volt Absorb,Illuminate,Water Absorb,2 HP,Neutral,Water 2,N/A,75,Lv. 27
+172,Pichu,20,40,15,35,35,60,205.0,Electric,N/A,Static,N/A,Lightningrod,1 Spe,Neutral,-,N/A,190,N/A
+173,Cleffa,50,25,28,45,55,15,218.0,Fairy,N/A,Cute Charm,Magic Guard,Friend Guard,2 SpD,F (75%),-,N/A,150,N/A
+174,Igglybuff,90,30,15,40,20,15,210.0,Normal,Fairy,Cute Charm,N/A,Friend Guard,1 HP,F (75%),-,N/A,170,N/A
+175,Togepi,35,20,65,40,65,20,245.0,Fairy,N/A,Hustle,Serene Grace,Super Luck,1 SpD,M (87.5%),-,N/A,190,N/A
+176,Togetic,55,40,85,80,105,40,405.0,Fairy,Flying,Hustle,Serene Grace,Super Luck,2 SpD,M (87.5%),Flying,Fairy,75,Friendship
+177,Natu,40,50,45,70,45,70,320.0,Psychic,Flying,Synchronize,Early Bird,Magic Bounce,1 SpA,Neutral,Flying,N/A,190,N/A
+178,Xatu,65,75,70,95,70,95,470.0,Psychic,Flying,Synchronize,Early Bird,Magic Bounce,1 SpA/1 Spe,Neutral,Flying,N/A,75,Lv. 25
+179,Mareep,55,40,40,65,45,35,280.0,Electric,N/A,Static,N/A,Plus,1 SpA,Neutral,Monster,Field,235,N/A
+180,Flaaffy,70,55,55,80,60,45,365.0,Electric,N/A,Static,N/A,Plus,2 SpA,Neutral,Monster,Field,120,Lv. 15
+181,Mega Ampharos,90,95,105,165,110,45,610.0,Electric,Dragon,Mold Breaker,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+181,Ampharos,90,75,85,115,90,55,510.0,Electric,N/A,Static,N/A,Plus,3 SpA,Neutral,Monster,Field,45,Lv. 30
+182,Bellossom,75,80,95,90,100,50,490.0,Grass,N/A,Chlorophyll,N/A,Healer,3 SpD,Neutral,Grass,N/A,45,Sun Stone
+183,Marill,70,20,50,20,50,40,250.0,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,2 HP,Neutral,Water 1,Fairy,190,Friendship
+184,Azumarill,100,50,80,60,80,50,420.0,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,3 HP,Neutral,Water 1,Fairy,75,Lv. 18
+185,Sudowoodo,70,100,115,30,65,30,410.0,Rock,N/A,Sturdy,Rock Head,Rattled,2 Def,Neutral,Mineral,N/A,65,Level w/ Mimic
+186,Politoed,90,75,75,90,100,70,500.0,Water,N/A,Water Absorb,Damp,Drizzle,3 SpD,Neutral,Water 1,N/A,45,Trade h/ Kings Rock
+187,Hoppip,35,35,40,35,55,50,250.0,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,1 SpD,Neutral,Fairy,Grass,255,N/A
+188,Skiploom,55,45,50,45,65,80,340.0,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,2 Spe,Neutral,Fairy,Grass,120,Lv. 18
+189,Jumpluff,75,55,70,55,95,110,460.0,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,3 Spe,Neutral,Fairy,Grass,45,Lv. 27
+190,Aipom,55,70,55,40,55,85,360.0,Normal,N/A,Run Away,Pickup,Skill Link,1 Spe,Neutral,Field,N/A,45,N/A
+191,Sunkern,30,30,30,30,30,30,180.0,Grass,N/A,Chlorophyll,Solar Power,Early Bird,1 SpA,Neutral,Grass,N/A,235,N/A
+192,Sunflora,75,75,55,105,85,30,425.0,Grass,N/A,Chlorophyll,Solar Power,Early Bird,2 SpA,Neutral,Grass,N/A,120,Sun Stone
+193,Yanma,65,65,45,75,45,95,390.0,Bug,Flying,Speed Boost,Compoundeyes,Frisk,2 Spe,Neutral,Bug,N/A,75,N/A
+194,Wooper,55,45,45,25,25,15,210.0,Water,Ground,Damp,Water Absorb,Unaware,1 HP,Neutral,Water 1,Field,255,N/A
+194,Wooper-Paldean,55,45,45,25,25,15,N/A,Poison,Ground,Poison Point,Water Absorb,Unaware,1 HP,Neutral,N/A,N/A,N/A,N/A
+195,Quagsire,95,85,85,65,65,35,430.0,Water,Ground,Damp,Water Absorb,Unaware,2 HP,Neutral,Water 1,Field,90,Lv. 20
+196,Espeon,65,65,60,130,95,110,525.0,Psychic,N/A,Synchronize,N/A,Magic Bounce,2 SpA,M (87.5%),Field,N/A,45,Morn/Day Friendship
+197,Umbreon,95,65,110,60,130,65,525.0,Dark,N/A,Synchronize,N/A,Inner Focus,2 SpD,M (87.5%),Field,N/A,45,Nite Friendship
+198,Murkrow,60,85,42,85,42,91,405.0,Dark,Flying,Insomnia,Super Luck,Prankster,1 Spe,Neutral,Flying,N/A,30,N/A
+199,Slowking,95,75,80,100,110,30,490.0,Water,Psychic,Oblivious,Own Tempo,Regenerator,3 SpD,Neutral,Monster,Water 1,70,Trade h/ Kings Rock
+199,Slowking-Galarian,95,65,80,110,110,30,490.0,Poison,Psychic,Curious Medicine,Own Tempo,Regenerator,2 SpD,Neutral,N/A,N/A,N/A,Galarian Wreath
+200,Misdreavus,60,60,60,85,85,85,435.0,Ghost,N/A,Levitate,N/A,N/A,1 SpD,Neutral,Amorphous,N/A,45,N/A
+201,Unown,48,72,48,72,48,48,336.0,Psychic,N/A,Levitate,N/A,N/A,1 Atk/1 SpA,N/A,-,N/A,225,N
+202,Wobbuffet,190,33,58,33,58,33,405.0,Psychic,N/A,Shadow Tag,N/A,Telepathy,2 HP,Neutral,Amorphous,N/A,45,Lv. 15
+203,Girafarig,70,80,65,90,65,85,455.0,Normal,Psychic,Inner Focus,Early Bird,Sap Sipper,2 SpA,Neutral,Field,N/A,60,N
+204,Pineco,50,65,90,35,35,15,290.0,Bug,N/A,Sturdy,N/A,Overcoat,1 Def,Neutral,Bug,N/A,190,N/A
+205,Forretress,75,90,140,60,60,40,465.0,Bug,Steel,Sturdy,N/A,Overcoat,2 Def,Neutral,Bug,N/A,75,Lv. 31
+206,Dunsparce,100,70,70,65,65,45,415.0,Normal,N/A,Serene Grace,Run Away,Rattled,1 HP,Neutral,Field,N/A,190,N
+207,Gligar,65,75,105,35,65,85,430.0,Ground,Flying,Hyper Cutter,Sand Veil,Immunity,1 Def,Neutral,Bug,N/A,60,N/A
+208,Mega Steelix,75,125,230,55,95,30,610.0,Steel,Ground,Sand Force,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+208,Steelix,75,85,200,55,65,30,510.0,Steel,Ground,Rock Head,Sturdy,Sheer Force,2 Def,Neutral,Mineral,N/A,25,Trade h/ Metal Coat
+209,Snubbull,60,80,50,40,40,30,300.0,Fairy,N/A,Intimidate,Run Away,Rattled,1 Atk,F (75%),Field,Fairy,190,N/A
+210,Granbull,90,120,75,60,60,45,450.0,Fairy,N/A,Intimidate,Quick Feet,Rattled,2 Atk,F (75%),Field,Fairy,75,Lv. 23
+211,Qwilfish,65,95,85,55,55,85,440.0,Water,Poison,Poison Point,Swift Swim,Intimidate,1 Atk,Neutral,Water 2,N/A,45,N
+211,Qwilfish-Hisuian,65,95,85,55,55,85,440.0,Poison,Dark,Poison Point,Swift Swim,Intimidate,1 Atk,Neutral,N/A,N/A,N/A,N/A
+212,Mega Scizor,70,150,140,65,100,75,600.0,Bug,Steel,Technician,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+212,Scizor,70,130,100,55,80,65,500.0,Bug,Steel,Swarm,Technician,Light Metal,2 Atk,Neutral,Bug,N/A,25,Trade h/ Metal Coat
+213,Shuckle,20,10,230,10,230,5,505.0,Bug,Rock,Sturdy,Gluttony,Contrary,1 Def/1 SpD,Neutral,Bug,N/A,190,N
+214,Mega Heracross,80,185,115,40,105,75,600.0,Bug,Fighting,Skill Link,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+214,Heracross,80,125,75,40,95,85,500.0,Bug,Fighting,Swarm,Guts,Moxie,2 Atk,Neutral,Bug,N/A,45,N
+215,Sneasel,55,95,55,35,75,115,430.0,Dark,Ice,Inner Focus,Keen Eye,Pickpocket,1 Spe,Neutral,Field,N/A,60,N/A
+215,Sneasel-Hisuian,55,95,55,35,75,115,430.0,Poison,Fighting,Inner Focus,Keen Eye,Poison Touch,1 Spd,Neutral,N/A,N/A,N/A,N/A
+216,Teddiursa,60,80,50,50,50,40,330.0,Normal,N/A,Pickup,Quick Feet,Honey Gather,1 Atk,Neutral,Field,N/A,120,N/A
+217,Ursaring,90,130,75,75,75,55,500.0,Normal,N/A,Guts,Quick Feet,Unnerve,2 Atk,Neutral,Field,N/A,60,Lv. 30
+218,Slugma,40,40,40,70,40,20,250.0,Fire,N/A,Magma Armor,Flame Body,Weak Armor,1 SpA,Neutral,Amorphous,N/A,190,N/A
+219,Magcargo,60,50,120,90,80,30,430.0,Fire,Rock,Magma Armor,Flame Body,Weak Armor,2 Def,Neutral,Amorphous,N/A,75,Lv. 38
+220,Swinub,50,50,40,30,30,50,250.0,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,1 Atk,Neutral,Field,N/A,225,N/A
+221,Piloswine,100,100,80,60,60,50,450.0,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,1 HP/1 Atk,Neutral,Field,N/A,75,Lv. 33
+222,Corsola,65,55,95,65,95,35,410.0,Water,Rock,Hustle,Natural Cure,Regenerator,1 Def/1 SpD,F (75%),Water 1,Water 3,60,N
+223,Remoraid,35,65,35,65,35,65,300.0,Water,N/A,Hustle,Sniper,Moody,1 SpA,Neutral,Water 1,Water 2,190,N/A
+224,Octillery,75,105,75,105,75,45,480.0,Water,N/A,Suction Cups,Sniper,Moody,1 Atk/1 SpA,Neutral,Water 1,Water 2,75,Lv. 25
+225,Delibird,45,55,45,65,45,75,330.0,Ice,Flying,Vital Spirit,Hustle,Insomnia,1 Spe,Neutral,Water 1,Field,45,N
+226,Mantine,85,40,70,80,140,70,485.0,Water,Flying,Swift Swim,Water Absorb,Water Veil,2 SpD,Neutral,Water 1,N/A,25,Level t/ Remoraid
+227,Mega Skarmory,65,140,110,40,100,110,565.0,Steel,Flying,Stalwart,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+227,Skarmory,65,80,140,40,70,70,465.0,Steel,Flying,Keen Eye,Sturdy,Weak Armor,2 Def,Neutral,Flying,N/A,25,N
+228,Houndour,45,60,30,80,50,65,330.0,Dark,Fire,Early Bird,Flash Fire,Unnerve,1 SpA,Neutral,Field,N/A,120,N/A
+229,Mega Houndoom,75,90,90,140,90,115,600.0,Dark,Fire,Solar Power,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+229,Houndoom,75,90,50,110,80,95,500.0,Dark,Fire,Early Bird,Flash Fire,Unnerve,2 SpA,Neutral,Field,N/A,45,Lv. 24
+230,Kingdra,75,95,95,95,95,85,540.0,Water,Dragon,Swift Swim,Sniper,Damp,1 Atk/1 SpA/1 SpD,Neutral,Water 1,Dragon,45,Trade h/ Dragon Scale
+231,Phanpy,90,60,60,40,40,40,330.0,Ground,N/A,Pickup,N/A,Sand Veil,1 HP,Neutral,Field,N/A,120,N/A
+232,Donphan,90,120,120,60,60,50,500.0,Ground,N/A,Sturdy,N/A,Sand Veil,1 Atk/1 Def,Neutral,Field,N/A,60,Lv. 25
+233,Porygon2,85,80,90,105,95,60,515.0,Normal,N/A,Trace,Download,Analytic,2 SpA,N/A,Mineral,N/A,45,Trade w/ Up-Grade
+234,Stantler,73,95,62,85,65,85,465.0,Normal,N/A,Intimidate,Frisk,Sap Sipper,1 Atk,Neutral,Field,N/A,45,N
+235,Smeargle,55,20,35,20,45,75,250.0,Normal,N/A,Own Tempo,Technician,Moody,1 Spe,Neutral,Field,N/A,45,N
+236,Tyrogue,35,35,35,35,35,35,210.0,Fighting,N/A,Guts,Steadfast,Vital Spirit,1Atk,M (100%),-,N/A,75,N/A
+237,Hitmontop,50,95,95,35,110,70,455.0,Fighting,N/A,Intimidate,Technician,Steadfast,2 SpD,M (100%),Human-Like,N/A,45,Lv. 20 (Atk=Def)
+238,Smoochum,45,30,15,85,65,65,305.0,Ice,Psychic,Oblivious,Forewarn,Hydration,1 SpA,F (100%),-,N/A,45,N/A
+239,Elekid,45,63,37,65,55,95,360.0,Electric,N/A,Static,N/A,Vital Spirit,1 Spe,M (75%),-,N/A,45,N/A
+240,Magby,45,75,37,70,55,83,365.0,Fire,N/A,Flame Body,N/A,Vital Spirit,1 Spe,M (75%),-,N/A,45,N/A
+241,Miltank,95,80,105,40,70,100,490.0,Normal,N/A,Thick Fat,Scrappy,Sap Sipper,2 Def,F (100%),Field,N/A,45,N
+242,Blissey,255,10,10,75,135,55,540.0,Normal,N/A,Natural Cure,Serene Grace,Healer,3 HP,F (100%),Fairy,N/A,30,Friendship
+243,Raikou,90,85,75,115,100,115,580.0,Electric,N/A,Pressure,N/A,Inner Focus,1 SpA/2 Spe,N/A,-,N/A,3,N
+244,Entei,115,115,85,90,75,100,580.0,Fire,N/A,Pressure,N/A,Inner Focus,1 HP/2 Atk,N/A,-,N/A,3,N
+245,Suicune,100,75,115,90,115,85,580.0,Water,N/A,Pressure,N/A,Inner Focus,1 Def/2 SpD,N/A,-,N/A,3,N
+246,Larvitar,50,64,50,45,50,41,300.0,Rock,Ground,Guts,N/A,Sand Veil,1 Atk,Neutral,Monster,N/A,45,N/A
+247,Pupitar,70,84,70,65,70,51,410.0,Rock,Ground,Shed Skin,N/A,N/A,2 Atk,Neutral,Monster,N/A,45,Lv. 30
+248,Mega Tyranitar,100,164,150,95,120,71,700.0,Rock,Dark,Sand Stream,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+248,Tyranitar,100,134,110,95,100,61,600.0,Rock,Dark,Sand Stream,N/A,Unnerve,3 Atk,Neutral,Monster,N/A,45,Lv. 55
+249,Lugia,106,90,130,90,154,110,680.0,Psychic,Flying,Pressure,N/A,Multiscale,3 SpD,N/A,-,N/A,3,N
+250,Ho-oh,106,130,90,110,154,90,680.0,Fire,Flying,Pressure,N/A,Regenerator,3 SpD,N/A,-,N/A,3,N
+251,Celebi,100,100,100,100,100,100,600.0,Psychic,Grass,Natural Cure,N/A,N/A,3 HP,N/A,-,N/A,45,N
+252,Treecko,40,45,35,65,55,70,310.0,Grass,N/A,Overgrow,N/A,Unburden,1 Spe,M (87.5%),Monster,Dragon,45,N/A
+253,Grovyle,50,65,45,85,65,95,405.0,Grass,N/A,Overgrow,N/A,Unburden,2 Spe,M (87.5%),Monster,Dragon,45,Lv. 16
+254,Mega Sceptile,70,110,75,145,85,145,630.0,Grass,Dragon,Lightning Rod,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+254,Sceptile,70,85,65,105,85,120,530.0,Grass,N/A,Overgrow,N/A,Unburden,3 Spe,M (87.5%),Monster,Dragon,45,Lv. 36
+255,Torchic,45,60,40,70,50,45,310.0,Fire,N/A,Blaze,N/A,Speed Boost,1 SpA,M (87.5%),Field,N/A,45,N/A
+256,Combusken,60,85,60,85,60,55,405.0,Fire,Fighting,Blaze,N/A,Speed Boost,1 Atk/1 SpA,M (87.5%),Field,N/A,45,Lv. 16
+257,Mega Blaziken,80,160,80,130,80,100,630.0,Fire,Fighting,Speed Boost,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+257,Blaziken,80,120,70,110,70,80,530.0,Fire,Fighting,Blaze,N/A,Speed Boost,3 Atk,M (87.5%),Field,N/A,45,Lv. 36
+258,Mudkip,50,70,50,50,50,40,310.0,Water,N/A,Torrent,N/A,Damp,1 Atk,M (87.5%),Monster,Water 1,45,N/A
+259,Marshtomp,70,85,70,60,70,50,405.0,Water,Ground,Torrent,N/A,Damp,2 Atk,M (87.5%),Monster,Water 1,45,Lv. 16
+260,Mega Swampert,100,150,110,95,110,70,635.0,Water,Ground,Swift Swim,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+260,Swampert,100,110,90,85,90,60,535.0,Water,Ground,Torrent,N/A,Damp,3 Atk,M (87.5%),Monster,Water 1,45,Lv. 36
+261,Poochyena,35,55,35,30,30,35,220.0,Dark,N/A,Run Away,Quick Feet,Rattled,1 Atk,Neutral,Field,N/A,255,N/A
+262,Mightyena,70,90,70,60,60,70,420.0,Dark,N/A,Intimidate,Quick Feet,Moxie,2 Atk,Neutral,Field,N/A,127,Lv. 18
+263,Zigzagoon,38,30,41,30,41,60,240.0,Normal,N/A,Pickup,Gluttony,Quick Feet,1 Spe,Neutral,Field,N/A,255,N/A
+263,Zigzagoon-Galarian,38,30,41,30,41,60,240.0,Dark,Normal,Pickup,Gluttony,Quick Feet,1 Spd,Neutral,N/A,N/A,N/A,N/A
+264,Linoone,78,70,61,50,61,100,420.0,Normal,N/A,Pickup,Gluttony,Quick Feet,2 Spe,Neutral,Field,N/A,90,Lv. 20
+264,Linoone-Galarian,78,70,61,50,61,100,420.0,Dark,Normal,Pickup,Gluttony,Quick Feet,2 Spd,Neutral,N/A,N/A,N/A,Level 20
+265,Wurmple,45,45,35,20,30,20,195.0,Bug,N/A,Shield Dust,N/A,Run Away,1 HP,Neutral,Bug,N/A,255,N/A
+266,Silcoon,50,35,55,25,25,15,205.0,Bug,N/A,Shed Skin,N/A,N/A,2 Def,Neutral,Bug,N/A,120,Lv. 7
+267,Beautifly,60,70,50,100,50,65,395.0,Bug,Flying,Swarm,N/A,Rivalry,3 SpA,Neutral,Bug,N/A,45,Lv. 10
+268,Cascoon,50,35,55,25,25,15,205.0,Bug,N/A,Shed Skin,N/A,N/A,2 Def,Neutral,Bug,N/A,120,Lv. 7
+269,Dustox,60,50,70,50,90,65,385.0,Bug,Poison,Shield Dust,N/A,Compound Eyes,3 SpD,Neutral,Bug,N/A,45,Lv. 10
+270,Lotad,40,30,30,40,50,30,220.0,Water,Grass,Swift Swim,Rain Dish,Own Tempo,1 SpD,Neutral,Water 1,Grass,255,N/A
+271,Lombre,60,50,50,60,70,50,340.0,Water,Grass,Swift Swim,Rain Dish,Own Tempo,2 SpD,Neutral,Water 1,Grass,120,Lv. 14
+272,Ludicolo,80,70,70,90,100,70,480.0,Water,Grass,Swift Swim,Rain Dish,Own Tempo,3 SpD,Neutral,Water 1,Grass,45,Water Stone
+273,Seedot,40,40,50,30,30,30,220.0,Grass,N/A,Chlorophyll,Early Bird,Pickpocket,1 Def,Neutral,Field,Grass,255,N/A
+274,Nuzleaf,70,70,40,60,40,60,340.0,Grass,Dark,Chlorophyll,Early Bird,Pickpocket,2 Atk,Neutral,Field,Grass,120,Lv. 14
+275,Shiftry,90,100,60,90,60,80,480.0,Grass,Dark,Chlorophyll,Early Bird,Pickpocket,3 Atk,Neutral,Field,Grass,45,Leaf Stone
+276,Taillow,40,55,30,30,30,85,270.0,Normal,Flying,Guts,N/A,Scrappy,1 Spe,Neutral,Flying,N/A,200,N/A
+277,Swellow,60,85,60,75,50,125,455.0,Normal,Flying,Guts,N/A,Scrappy,2 Spe,Neutral,Flying,N/A,45,Lv. 22
+278,Wingull,40,30,30,55,30,85,270.0,Water,Flying,Keen Eye,N/A,Rain Dish,1 Spe,Neutral,Water 1,Flying,190,N/A
+279,Pelipper,60,50,100,95,70,65,440.0,Water,Flying,Keen Eye,N/A,Rain Dish,2 Def,Neutral,Water 1,Flying,45,Lv. 25
+280,Ralts,28,25,25,45,35,40,198.0,Psychic,Fairy,Synchronize,Trace,Pixilate,1 SpA,Neutral,Human-Like,Amorphous,235,N/A
+281,Kirlia,38,35,35,65,55,50,278.0,Psychic,Fairy,Synchronize,Trace,Pixilate,2 SpA,Neutral,Human-Like,Amorphous,120,Lv. 20
+282,Mega Gardevoir,68,85,65,165,135,100,618.0,Psychic,Fairy,Pixilate,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+282,Gardevoir,68,65,65,125,115,80,518.0,Psychic,Fairy,Synchronize,Trace,Pixilate,3 SpA,Neutral,Human-Like,Amorphous,45,Lv. 30
+283,Surskit,40,30,32,50,52,65,269.0,Bug,Water,Swift Swim,N/A,Rain Dish,1 Spe,Neutral,Water 1,Bug,200,N/A
+284,Masquerain,70,60,62,100,82,80,454.0,Bug,Flying,Intimidate,N/A,Unnerve,1 SpA/1 SpD,Neutral,Water 1,Bug,75,Lv. 22
+285,Shroomish,60,40,60,40,60,35,295.0,Grass,N/A,Effect Spore,Poison Heal,Quick Feet,1 HP,Neutral,Fairy,Grass,255,N/A
+286,Breloom,60,130,80,60,60,70,460.0,Grass,Fighting,Effect Spore,Poison Heal,Technician,2 Atk,Neutral,Fairy,Grass,90,Lv. 23
+287,Slakoth,60,60,60,35,35,30,280.0,Normal,N/A,Truant,N/A,N/A,1 HP,Neutral,Field,N/A,255,N/A
+288,Vigoroth,80,80,80,55,55,90,440.0,Normal,N/A,Vital Spirit,N/A,N/A,2 Spe,Neutral,Field,N/A,120,Lv. 18
+289,Slaking,150,160,100,95,65,100,670.0,Normal,N/A,Truant,N/A,N/A,3 HP,Neutral,Field,N/A,45,Lv. 36
+290,Nincada,31,45,90,30,30,40,266.0,Bug,Ground,Compoundeyes,N/A,Run Away,1 Def,Neutral,Bug,N/A,255,N/A
+291,Ninjask,61,90,45,50,50,160,456.0,Bug,Flying,Speed Boost,N/A,Infiltrator,2 Spe,Neutral,Bug,N/A,120,Lv. 20
+292,Shedinja,1,90,45,30,30,40,236.0,Bug,Ghost,Wonder Guard,N/A,N/A,2 HP,N/A,Mineral,N/A,45,Lv. 20 t/ Empty Space
+293,Whismur,64,51,23,51,23,28,240.0,Normal,N/A,Soundproof,N/A,Rattled,1 HP,Neutral,Monster,Field,190,N/A
+294,Loudred,84,71,43,71,43,48,360.0,Normal,N/A,Soundproof,N/A,Scrappy,2 HP,Neutral,Monster,Field,120,Lv. 20
+295,Exploud,104,91,63,91,73,68,490.0,Normal,N/A,Soundproof,N/A,Scrappy,3 HP,Neutral,Monster,Field,45,Lv. 40
+296,Makuhita,72,60,30,20,30,25,237.0,Fighting,N/A,Thick Fat,Guts,Sheer Force,1 HP,M (75%),Human-Like,N/A,180,N/A
+297,Hariyama,144,120,60,40,60,50,474.0,Fighting,N/A,Thick Fat,Guts,Sheer Force,2 HP,M (75%),Human-Like,N/A,200,Lv. 24
+298,Azurill,50,20,40,20,40,20,190.0,Normal,Fairy,Thick Fat,Huge Power,Sap Sipper,1 HP,Neutral,-,N/A,150,N/A
+299,Nosepass,30,45,135,45,90,30,375.0,Rock,N/A,Sturdy,Magnet Pull,Sand Force,1 Def,Neutral,Mineral,N/A,255,N/A
+300,Skitty,50,45,45,35,35,50,260.0,Normal,N/A,Cute Charm,Normalize,Wonder Skin,1 Spe,F (75%),Field,Fairy,255,N/A
+301,Delcatty,70,65,65,55,55,90,400.0,Normal,N/A,Cute Charm,Normalize,Wonder Skin,1 HP/1 Spe,F (75%),Field,Fairy,60,Moon Stone
+302,Mega Sableye,50,85,125,85,115,20,480.0,Dark,Ghost,Magic Bounce,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+302,Sableye,50,75,75,65,65,50,380.0,Dark,Ghost,Keen Eye,Stall,Prankster,1 Atk/1 Def,Neutral,Human-Like,N/A,45,N
+303,Mega Mawile,50,105,125,55,95,50,480.0,Steel,Fairy,Huge Power,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+303,Mawile,50,85,85,55,55,50,380.0,Steel,Fairy,Hyper Cutter,Intimidate,Sheer Force,1 Atk/1 Def,Neutral,Field,Fairy,45,N
+304,Aron,50,70,100,40,40,30,330.0,Steel,Rock,Sturdy,Rock Head,Heavy Metal,1 Def,Neutral,Monster,N/A,180,N/A
+305,Lairon,60,90,140,50,50,40,430.0,Steel,Rock,Sturdy,Rock Head,Heavy Metal,2 Def,Neutral,Monster,N/A,90,Lv. 32
+306,Mega Aggron,70,140,230,60,80,50,630.0,Steel,N/A,Filter,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+306,Aggron,70,110,180,60,60,50,530.0,Steel,Rock,Sturdy,Rock Head,Heavy Metal,3 Def,Neutral,Monster,N/A,45,Lv. 42
+307,Meditite,30,40,55,40,55,60,280.0,Fighting,Psychic,Pure Power,N/A,Telepathy,1 Spe,Neutral,Human-Like,N/A,180,N/A
+308,Mega Medicham,60,100,85,80,85,100,510.0,Fighting,Psychic,Pure Power,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+308,Medicham,60,60,75,60,75,80,410.0,Fighting,Psychic,Pure Power,N/A,Telepathy,2 Spe,Neutral,Human-Like,N/A,90,Lv. 37
+309,Electrike,40,45,40,65,40,65,295.0,Electric,N/A,Static,Lightningrod,Minus,1 Spe,Neutral,Field,N/A,120,N/A
+310,Mega Manectric,70,75,80,135,80,135,575.0,Electric,N/A,Intimidate,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+310,Manectric,70,75,60,105,60,105,475.0,Electric,N/A,Static,Lightningrod,Minus,2 Spe,Neutral,Field,N/A,45,Lv. 26
+311,Plusle,60,50,40,85,75,95,405.0,Electric,N/A,Plus,N/A,Lightning Rod,1 Spe,Neutral,Fairy,N/A,200,N
+312,Minun,60,40,50,75,85,95,405.0,Electric,N/A,Minus,N/A,Volt Absorb,1 Spe,Neutral,Fairy,N/A,200,N
+313,Volbeat,65,73,75,47,85,85,430.0,Bug,N/A,Illuminate,Swarm,Prankster,1 Spe,M (100%),Bug,Human-Like,150,N
+314,Illumise,65,47,75,73,85,85,430.0,Bug,N/A,Oblivious,Tinted Lens,Prankster,1 Spe,F (100%),Bug,Human-Like,150,N
+315,Roselia,50,60,45,100,80,65,400.0,Grass,Poison,Natural Cure,Poison Point,Leaf Guard,2 SpA,Neutral,Fairy,Grass,150,Morn/Day Friendship
+316,Gulpin,70,43,53,43,53,40,302.0,Poison,N/A,Liquid Ooze,Sticky Hold,Gluttony,1 HP,Neutral,Amorphous,N/A,225,N/A
+317,Swalot,100,73,83,73,83,55,467.0,Poison,N/A,Liquid Ooze,Sticky Hold,Gluttony,2 HP,Neutral,Amorphous,N/A,75,Lv. 26
+318,Carvanha,45,90,20,65,20,65,305.0,Water,Dark,Rough Skin,N/A,Speed Boost,1 Atk,Neutral,Water 2,N/A,225,N/A
+319,Mega Sharpedo,70,140,70,110,65,105,560.0,Water,Dark,Strong Jaw,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+319,Sharpedo,70,120,40,95,40,95,460.0,Water,Dark,Rough Skin,N/A,Speed Boost,2 Atk,Neutral,Water 2,N/A,60,Lv. 30
+320,Wailmer,130,70,35,70,35,60,400.0,Water,N/A,Water Veil,Oblivious,Pressure,1 HP,Neutral,Field,Water 2,125,N/A
+321,Wailord,170,90,45,90,45,60,500.0,Water,N/A,Water Veil,Oblivious,Pressure,2 HP,Neutral,Field,Water 2,60,Lv. 40
+322,Numel,60,60,40,65,45,35,305.0,Fire,Ground,Oblivious,Simple,Own Tempo,1 SpA,Neutral,Field,N/A,255,N/A
+323,Mega Camerupt,70,120,100,145,105,20,560.0,Fire,Ground,Sheer Force,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+323,Camerupt,70,100,70,105,75,40,460.0,Fire,Ground,Magma Armor,Solid Rock,Anger Point,1 Atk/1 SpA,Neutral,Field,N/A,150,Lv. 33
+324,Torkoal,70,85,140,85,70,20,470.0,Fire,N/A,White Smoke,Drought,Shell Armor,2 Def,Neutral,Field,N/A,90,N
+325,Spoink,60,25,35,70,80,60,330.0,Psychic,N/A,Thick Fat,Own Tempo,Gluttony,1 SpD,Neutral,Field,N/A,255,N/A
+326,Grumpig,80,45,65,90,110,80,470.0,Psychic,N/A,Thick Fat,Own Tempo,Gluttony,2 SpD,Neutral,Field,N/A,60,Lv. 32
+327,Spinda,60,60,60,60,60,60,360.0,Normal,N/A,Own Tempo,Tangled Feet,Contrary,1 SpA,Neutral,Field,Human-Like,255,N
+328,Trapinch,45,100,45,45,45,10,290.0,Ground,N/A,Hyper Cutter,Arena Trap,Sheer Force,1 Atk,Neutral,Bug,Dragon,255,N/A
+329,Vibrava,50,70,50,50,50,70,340.0,Ground,Dragon,Levitate,N/A,N/A,1 Atk/1 Spe,Neutral,Bug,Dragon,120,Lv. 35
+330,Flygon,80,100,80,80,80,100,520.0,Ground,Dragon,Levitate,N/A,N/A,1 Atk/2 Spe,Neutral,Bug,Dragon,45,Lv. 45
+331,Cacnea,50,85,40,85,40,35,335.0,Grass,N/A,Sand Veil,N/A,Water Absorb,1 SpA,Neutral,Grass,Human-Like,190,N/A
+332,Cacturne,70,115,60,115,60,55,475.0,Grass,Dark,Sand Veil,N/A,Water Absorb,1 Atk/1 SpA,Neutral,Grass,Human-Like,60,Lv. 32
+333,Swablu,45,40,60,40,75,50,310.0,Normal,Flying,Natural Cure,N/A,Cloud Nine,1 SpD,Neutral,Flying,Dragon,255,N/A
+334,Mega Altaria,75,110,110,110,105,80,590.0,Dragon,Fairy,Pixilate,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+334,Altaria,75,70,90,70,105,80,490.0,Dragon,Flying,Natural Cure,N/A,Cloud Nine,2 SpD,Neutral,Flying,Dragon,45,Lv. 35
+335,Zangoose,73,115,60,60,60,90,458.0,Normal,N/A,Immunity,N/A,Toxic Boost,2 Atk,Neutral,Field,N/A,90,N
+336,Seviper,73,100,60,100,60,65,458.0,Poison,N/A,Shed Skin,N/A,Infiltrator,1 Atk/1 SpA,Neutral,Field,Dragon,90,N
+337,Lunatone,90,55,65,95,85,70,460.0,Rock,Psychic,Levitate,N/A,N/A,2 SpA,N/A,Mineral,N/A,45,N
+338,Solrock,90,95,85,55,65,70,460.0,Rock,Psychic,Levitate,N/A,N/A,2 Atk,N/A,Mineral,N/A,45,N
+339,Barboach,50,48,43,46,41,60,288.0,Water,Ground,Oblivious,Anticipate,Hydration,1 HP,Neutral,Water 2,N/A,190,N/A
+340,Whiscash,110,78,73,76,71,60,468.0,Water,Ground,Oblivious,Anticipate,Hydration,2 HP,Neutral,Water 2,N/A,75,Lv. 30
+341,Corphish,43,80,65,50,35,35,308.0,Water,N/A,Hyper Cutter,Shell Armor,Adaptability,1 Atk,Neutral,Water 1,Water 3,205,N/A
+342,Crawdaunt,63,120,85,90,55,55,468.0,Water,Dark,Hyper Cutter,Shell Armor,Adaptability,2 Atk,Neutral,Water 1,Water 3,155,Lv. 30
+343,Baltoy,40,40,55,40,70,55,300.0,Ground,Psychic,Levitate,N/A,N/A,1 SpD,N/A,Mineral,N/A,255,N/A
+344,Claydol,60,70,105,70,120,75,500.0,Ground,Psychic,Levitate,N/A,N/A,2 SpD,N/A,Mineral,N/A,90,Lv. 36
+345,Lileep,66,41,77,61,87,23,355.0,Rock,Grass,Suction Cups,N/A,Storm Drain,1 SpD,M (87.5%),Water 3,N/A,45,N/A
+346,Cradily,86,81,97,81,107,43,495.0,Rock,Grass,Suction Cups,N/A,Storm Drain,2 SpD,M (87.5%),Water 3,N/A,45,Lv. 40
+347,Anorith,45,95,50,40,50,75,355.0,Rock,Bug,Battle Armor,N/A,Swift Swim,1 Atk,M (87.5%),Water 3,N/A,45,N/A
+348,Armaldo,75,125,100,70,80,45,495.0,Rock,Bug,Battle Armor,N/A,Swift Swim,2 Atk,M (87.5%),Water 3,N/A,45,Lv. 40
+349,Feebas,20,15,20,10,55,80,200.0,Water,N/A,Swift Swim,N/A,Adaptability,1 Spe,Neutral,Water 1,Dragon,255,N/A
+350,Milotic,95,60,79,100,125,81,540.0,Water,N/A,Marvel Scale,N/A,Cute Charm,2 SpD,Neutral,Water 1,Dragon,60,Level w/ Max Beauty
+351,Castform,70,70,70,70,70,70,420.0,Normal,N/A,Forecast,N/A,N/A,1 HP,Neutral,Fairy,Amorphous,45,N
+351,Hail Castform,70,70,70,70,70,70,420.0,Ice,N/A,Forecast,N/A,N/A,1 HP,Neutral,N/A,N/A,N/A,N
+351,Rain Castform,70,70,70,70,70,70,420.0,Water,N/A,Forecast,N/A,N/A,1 HP,Neutral,N/A,N/A,N/A,N
+351,Sun Castform,70,70,70,70,70,70,420.0,Fire,N/A,Forecast,N/A,N/A,1 HP,Neutral,N/A,N/A,N/A,N
+352,Kecleon,60,90,70,60,120,40,440.0,Normal,N/A,Color Change,N/A,Protean,1 SpD,Neutral,Field,N/A,200,N
+353,Shuppet,44,75,35,63,33,45,295.0,Ghost,N/A,Insomnia,Frisk,Cursed Body,1 Atk,Neutral,Amorphous,N/A,225,N/A
+354,Mega Banette,64,165,75,93,83,75,555.0,Ghost,N/A,Prankster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+354,Banette,64,115,65,83,63,65,455.0,Ghost,N/A,Insomnia,Frisk,Cursed Body,2 Atk,Neutral,Amorphous,N/A,45,Lv. 37
+355,Duskull,20,40,90,30,90,25,295.0,Ghost,N/A,Levitate,N/A,Frisk,1 SpD,Neutral,Amorphous,N/A,190,N/A
+356,Dusclops,40,70,130,60,130,25,455.0,Ghost,N/A,Pressure,N/A,Frisk,1 Def/1 SpD,Neutral,Amorphous,N/A,90,Lv. 37
+357,Tropius,99,68,83,72,87,51,460.0,Grass,Flying,Chlorophyll,Solar Power,Harvest,2 HP,Neutral,Monster,Grass,200,N
+358,Mega Chimecho,75,50,110,135,120,65,555.0,Psychic,Steel,Levitate,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+358,Chimecho,75,50,80,95,90,65,455.0,Psychic,N/A,Levitate,N/A,N/A,1 SpA/1 SpD,Neutral,Amorphous,N/A,45,Nite Friendship
+359,Mega Absol,65,150,60,115,60,115,565.0,Dark,N/A,Magic Bounce,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+359,Mega Absol Z,65,154,60,75,60,151,565.0,Dark,Ghost,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+359,Absol,65,130,60,75,60,75,465.0,Dark,N/A,Pressure,Super Luck,Justified,2 Atk,Neutral,Field,N/A,30,N
+360,Wynaut,95,23,48,23,48,23,260.0,Psychic,N/A,Shadow Tag,N/A,Telepathy,1 HP,Neutral,-,N/A,125,N/A
+361,Snorunt,50,50,50,50,50,50,300.0,Ice,N/A,Inner Focus,Ice Body,Moody,1 HP,Neutral,Fairy,Mineral,190,N/A
+362,Mega Glalie,80,120,80,120,80,100,580.0,Ice,N/A,Refrigerate,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+362,Glalie,80,80,80,80,80,80,480.0,Ice,N/A,Inner Focus,Ice Body,Moody,2 HP,Neutral,Fairy,Mineral,75,Lv. 42
+363,Spheal,70,40,50,55,50,25,290.0,Ice,Water,Thick Fat,Ice Body,Oblivious,1 HP,Neutral,Water 1,Field,255,N/A
+364,Sealeo,90,60,70,75,70,45,410.0,Ice,Water,Thick Fat,Ice Body,Oblivious,2 HP,Neutral,Water 1,Field,120,Lv. 32
+365,Walrein,110,80,90,95,90,65,530.0,Ice,Water,Thick Fat,Ice Body,Oblivious,3 HP,Neutral,Water 1,Field,45,Lv. 44
+366,Clamperl,35,64,85,74,55,32,345.0,Water,N/A,Shell Armor,N/A,Rattled,1 Def,Neutral,Water 1,N/A,255,N/A
+367,Huntail,55,104,105,94,75,52,485.0,Water,N/A,Swift Swim,N/A,Water Veil,1 Atk/1 Def,Neutral,Water 1,N/A,60,Trade w/ Deepseatooth
+368,Gorebyss,55,84,105,114,75,52,485.0,Water,N/A,Swift Swim,N/A,Hydration,2 SpA,Neutral,Water 1,N/A,60,Trade w/ Deepseascale
+369,Relicanth,100,90,130,45,65,55,485.0,Water,Rock,Swift Swim,Rock Head,Sturdy,1 HP/1 Def,M (87.5%),Water 1,Water 2,25,N
+370,Luvdisc,43,30,55,40,65,97,330.0,Water,N/A,Swift Swim,N/A,Hydration,1 Spe,F (75%),Water 2,N/A,225,N
+371,Bagon,45,75,60,40,30,50,300.0,Dragon,N/A,Rock Head,N/A,Sheer Force,1 Atk,Neutral,Dragon,N/A,45,N/A
+372,Shelgon,65,95,100,60,50,50,420.0,Dragon,N/A,Rock Head,N/A,Overcoat,2 Def,Neutral,Dragon,N/A,45,Lv. 30
+373,Mega Salamence,95,145,130,120,90,120,700.0,Dragon,Flying,Aerilate,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+373,Salamence,95,135,80,110,80,100,600.0,Dragon,Flying,Intimidate,N/A,Moxie,3 Atk,Neutral,Dragon,N/A,45,Lv. 50
+374,Beldum,40,55,80,35,60,30,300.0,Steel,Psychic,Clear Body,N/A,Light Metal,1 Def,N/A,Mineral,N/A,3,N/A
+375,Metang,60,75,100,55,80,50,420.0,Steel,Psychic,Clear Body,N/A,Light Metal,2 Def,N/A,Mineral,N/A,3,Lv. 20
+376,Mega Metagross,80,145,150,105,110,110,700.0,Steel,Psychic,Tough Claws,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+376,Metagross,80,135,130,95,90,70,600.0,Steel,Psychic,Clear Body,N/A,Light Metal,3 Def,N/A,Mineral,N/A,3,Lv. 45
+377,Regirock,80,100,200,50,100,50,580.0,Rock,N/A,Clear Body,N/A,Sturdy,3 Def,N/A,-,N/A,3,N
+378,Regice,80,50,100,100,200,50,580.0,Ice,N/A,Clear Body,N/A,Ice Body,3 SpD,N/A,-,N/A,3,N
+379,Registeel,80,75,150,75,150,50,580.0,Steel,N/A,Clear Body,N/A,Light Metal,2 Def/1 SpD,N/A,-,N/A,3,N
+380,Mega Latias,80,100,120,140,150,110,700.0,Dragon,Psychic,Levitate,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+380,Latias,80,80,90,110,130,110,600.0,Dragon,Psychic,Levitate,N/A,N/A,3 SpD,F (100%),-,N/A,3,N
+381,Mega Latios,80,130,100,160,120,110,700.0,Dragon,Psychic,Levitate,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+381,Latios,80,90,80,130,110,110,600.0,Dragon,Psychic,Levitate,N/A,N/A,3 SpA,M (100%),-,N/A,3,N
+382,Primal Kyogre,100,150,90,180,160,90,770.0,Water,N/A,Primordial Sea,N/A,N/A,3 SpA,N/A,N/A,N/A,N/A,N
+382,Kyogre,100,100,90,150,140,90,670.0,Water,N/A,Drizzle,N/A,N/A,3 SpA,N/A,-,N/A,3,N
+383,Primal Groudon,100,180,160,150,90,90,770.0,Fire,Ground,Desolate Land,N/A,N/A,3 Atk,N/A,N/A,N/A,N/A,N
+383,Groudon,100,150,140,100,90,90,670.0,Ground,N/A,Drought,N/A,N/A,3 Atk,N/A,-,N/A,3,N
+384,Mega Rayquaza,105,180,100,180,100,115,780.0,Dragon,Flying,Delta Stream,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+384,Rayquaza,105,150,90,150,90,95,680.0,Dragon,Flying,Air Lock,N/A,N/A,2 Atk/1 SpA,N/A,-,N/A,45,N
+385,Jirachi,100,100,100,100,100,100,600.0,Steel,Psychic,Serene Grace,N/A,N/A,3 HP,N/A,-,N/A,3,N
+386,Deoxys (N),50,150,50,150,50,150,600.0,Psychic,N/A,Pressure,N/A,N/A,1 Atk/1 SpA/1 Spe,N/A,-,N/A,3,N
+386.1,Deoxys (A),50,180,20,180,20,150,600.0,Psychic,N/A,Pressure,N/A,N/A,"2 Atk, 1 SpA",N/A,N/A,N/A,N/A,N
+386.2,Deoxys (D),50,70,160,70,160,90,600.0,Psychic,N/A,Pressure,N/A,N/A,"2 Def, 1 SpD",N/A,N/A,N/A,N/A,N
+386.3,Deoxys (S),50,95,90,95,90,180,600.0,Psychic,N/A,Pressue,N/A,N/A,3 Spd,N/A,N/A,N/A,N/A,N
+387,Turtwig,55,68,64,45,55,31,318.0,Grass,N/A,Overgrow,N/A,Shell Armor,1 Atk,M (87.5%),Monster,Grass,45,N/A
+388,Grotle,75,89,85,55,65,36,405.0,Grass,N/A,Overgrow,N/A,Shell Armor,1 Atk/1 Def,M (87.5%),Monster,Grass,45,Lv. 18
+389,Torterra,95,109,105,75,85,56,525.0,Grass,Ground,Overgrow,N/A,Shell Armor,2 Atk/1 Def,M (87.5%),Monster,Grass,45,Lv. 32
+390,Arboliva,78,69,90,125,109,39,510.0,Grass,Normal,Seed Sower,N/A,Harvest,3 SpA,Neutral,Grass,N/A,45,Level 35
+390,Chimchar,44,58,44,58,44,61,309.0,Fire,N/A,Blaze,N/A,Iron Fist,1 Spe,M (87.5%),Field,Human-Like,45,N/A
+391,Monferno,64,78,52,78,52,81,405.0,Fire,Fighting,Blaze,N/A,Iron Fist,1 Spe/1 SpA,M (87.5%),Field,Human-Like,45,Lv. 14
+392,Infernape,76,104,71,104,71,108,534.0,Fire,Fighting,Blaze,N/A,Iron Fist,1 Atk/1 SpA/1 Spe,M (87.5%),Field,Human-Like,45,Lv. 36
+393,Piplup,53,51,53,61,56,40,314.0,Water,N/A,Torrent,N/A,Defiant,1 SpA,M (87.5%),Water 1,Field,45,N/A
+394,Prinplup,64,66,68,81,76,50,405.0,Water,N/A,Torrent,N/A,Defiant,2 SpA,M (87.5%),Water 1,Field,45,Lv. 16
+395,Empoleon,84,86,88,111,101,60,530.0,Water,Steel,Torrent,N/A,Defiant,3 SpA,M (87.5%),Water 1,Field,45,Lv. 36
+396,Starly,40,55,30,30,30,60,245.0,Normal,Flying,Keen Eye,N/A,Reckless,1 Spe,Neutral,Flying,N/A,255,N/A
+397,Staravia,55,75,50,40,40,80,340.0,Normal,Flying,Intimidate,N/A,Reckless,2 Spe,Neutral,Flying,N/A,120,Lv. 14
+398,Staraptor,85,120,70,50,60,100,485.0,Normal,Flying,Intimidate,N/A,Reckless,3 Atk,Neutral,Flying,N/A,45,Lv. 34
+399,Bidoof,59,45,40,35,40,31,250.0,Normal,N/A,Simple,Unaware,Moody,1 HP,Neutral,Water 1,Field,255,N/A
+400,Bibarel,79,85,60,55,60,71,410.0,Normal,Water,Simple,Unaware,Moody,2 Atk,Neutral,Water 1,Field,127,Lv. 15
+401,Kricketot,37,25,41,25,41,25,194.0,Bug,N/A,Shed Skin,N/A,Run Away,1 Def,Neutral,Bug,N/A,255,N/A
+402,Kricketune,77,85,51,55,51,65,384.0,Bug,N/A,Swarm,N/A,Technician,2 Atk,Neutral,Bug,N/A,45,Lv. 10
+403,Shinx,45,65,34,40,34,45,263.0,Electric,N/A,Rivalry,Intimidate,Guts,1Atk,Neutral,Field,N/A,235,N/A
+404,Luxio,60,85,49,60,49,60,363.0,Electric,N/A,Rivalry,Intimidate,Guts,2 Atk,Neutral,Field,N/A,120,Lv. 15
+405,Luxray,80,120,79,95,79,70,523.0,Electric,N/A,Rivalry,Intimidate,Guts,3 Atk,Neutral,Field,N/A,45,Lv. 30
+406,Budew,40,30,35,50,70,55,280.0,Grass,Poison,Natural Cure,Poison Point,Leaf Guard,1 SpA,Neutral,-,N/A,255,N/A
+407,Roserade,60,70,65,125,105,90,515.0,Grass,Poison,Natural Cure,Poison Point,Technician,3 SpA,Neutral,Fairy,Grass,75,Shiny Stone
+408,Cranidos,67,125,40,30,30,58,350.0,Rock,N/A,Mold Breaker,N/A,Sheer Force,1 Atk,M (87.5%),Monster,N/A,45,N/A
+409,Rampardos,97,165,60,65,50,58,495.0,Rock,N/A,Mold Breaker,N/A,Sheer Force,2 Atk,M (87.5%),Monster,N/A,45,Lv. 30
+410,Shieldon,30,42,118,42,88,30,350.0,Rock,Steel,Sturdy,N/A,Soundproof,1 Def,M (87.5%),Monster,N/A,45,N/A
+411,Bastiodon,60,52,168,47,138,30,495.0,Rock,Steel,Sturdy,N/A,Soundproof,2 Def,M (87.5%),Monster,N/A,45,Lv. 30
+412,Burmy,40,29,45,29,45,36,224.0,Bug,N/A,Shed Skin,N/A,Overcoat,1 SpD,Neutral,Bug,N/A,120,N/A
+413,Wormadam (P),60,59,85,79,105,36,424.0,Bug,Grass,Anticipate,N/A,Overcoat,2 SpD,F (100%),Bug,N/A,45,Lv. 20F Plant Cloak
+413.1,Wormadam (S),60,79,105,59,85,36,424.0,Bug,Ground,Anticipation,N/A,Overcoat,2 Def,F (100%),N/A,N/A,N/A,Lv. 20F Sand Cloak
+413.2,Wormadam (T),60,69,95,69,95,36,424.0,Bug,Steel,Anticipation,N/A,Overcoat,"1 Def, 1 SpD",F (100%),N/A,N/A,N/A,Lv. 20F Trash Cloak
+414,Mothim,70,94,50,94,50,66,424.0,Bug,Flying,Swarm,N/A,Tinted Lens,1 Atk/1 SpA,M (100%),Bug,N/A,45,Lv. 20M
+415,Combee,30,30,42,30,42,70,244.0,Bug,Flying,Honey Gather,N/A,Hustle,1 Spe,M (87.5%),Bug,N/A,120,N/A
+416,Vespiquen,70,80,102,80,102,40,474.0,Bug,Flying,Pressure,N/A,Unnerve,1 Def/1 SpD,F (100%),Bug,N/A,45,Lv. 21F
+417,Pachirisu,60,45,70,45,90,95,405.0,Electric,N/A,Run Away,Pickup,Volt Absorb,1 Spe,Neutral,Field,Fairy,200,N
+418,Buizel,55,65,35,60,30,85,330.0,Water,N/A,Swift Swim,N/A,Water Veil,1 Spe,Neutral,Water 1,Field,190,N/A
+419,Floatzel,85,105,55,85,50,115,495.0,Water,N/A,Swift Swim,N/A,Water Veil,2 Spe,Neutral,Water 1,Field,75,Lv. 26
+420,Cherubi,45,35,45,62,53,35,275.0,Grass,N/A,Chlorophyll,N/A,N/A,1 SpA,Neutral,Fairy,Grass,190,N/A
+421,Cherrim,70,60,70,87,78,85,450.0,Grass,N/A,Flower Gift,N/A,N/A,2 SpA,Neutral,Fairy,Grass,75,Lv. 25
+422,Shellos,76,48,48,57,62,34,325.0,Water,N/A,Sticky Hold,Storm Drain,Sand Force,1 HP,Neutral,Water 1,Amorphous,190,N/A
+423,Gastrodon,111,83,68,92,82,39,475.0,Water,Ground,Sticky Hold,Storm Drain,Sand Force,2 HP,Neutral,Water 1,Amorphous,75,Lv. 30
+424,Ambipom,75,100,66,60,66,115,482.0,Normal,N/A,Technician,Pickup,Skill Link,2 Spe,Neutral,Field,N/A,45,Level w/ Double Hit
+425,Drifloon,90,50,34,60,44,70,348.0,Ghost,Flying,Aftermath,Unburden,Flare Boost,1 HP,Neutral,Amorphous,N/A,125,N/A
+426,Drifblim,150,80,44,90,54,80,498.0,Ghost,Flying,Aftermath,Unburden,Flare Boost,2 HP,Neutral,Amorphous,N/A,60,Lv. 28
+427,Buneary,55,66,44,44,56,85,350.0,Normal,N/A,Run Away,Klutz,Limber,1 Spe,Neutral,Field,Human-Like,190,N/A
+428,Mega Lopunny,65,136,94,54,96,135,580.0,Normal,Fighting,Scrappy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+428,Lopunny,65,76,84,54,96,105,480.0,Normal,N/A,Cute Charm,Klutz,Limber,2 Spe,Neutral,Field,Human-Like,60,Friendship
+429,Mismagius,60,60,60,105,105,105,495.0,Ghost,N/A,Levitate,N/A,N/A,1 SpA/1 SpD,Neutral,Amorphous,N/A,45,Dusk Stone
+430,Honchkrow,100,125,52,105,52,71,505.0,Dark,Flying,Insomnia,Super Luck,Moxie,2 Atk,Neutral,Flying,N/A,30,Dusk Stone
+431,Glameow,49,55,42,42,37,85,310.0,Normal,N/A,Limber,Own Tempo,Keen Eye,1 Spe,F (75%),Field,N/A,190,N/A
+432,Purugly,71,82,64,64,59,112,452.0,Normal,N/A,Thick Fat,Own Tempo,Defiant,2 Spe,F (75%),Field,N/A,75,Lv. 38
+433,Chingling,45,30,50,65,50,45,285.0,Psychic,N/A,Levitate,N/A,N/A,1 SpA,Neutral,-,N/A,120,N/A
+434,Stunky,63,63,47,41,41,74,329.0,Poison,Dark,Stench,Aftermath,Keen Eye,1 Spe,Neutral,Field,N/A,225,N/A
+435,Skuntank,103,93,67,71,61,84,479.0,Poison,Dark,Stench,Aftermath,Keen Eye,2 HP,Neutral,Field,N/A,60,Lv. 34
+436,Bronzor,57,24,86,24,86,23,300.0,Steel,Psychic,Levitate,Heatproof,Heavy Metal,1 Def,N/A,Mineral,N/A,255,N/A
+437,Bronzong,67,89,116,79,116,33,500.0,Steel,Psychic,Levitate,Heatproof,Heavy Metal,1 Def/1 SpD,N/A,Mineral,N/A,90,Lv. 33
+438,Bonsly,50,80,95,10,45,10,290.0,Rock,N/A,Sturdy,Rock Head,Rattled,1 Def,Neutral,-,N/A,255,N/A
+439,Mime Jr.,20,25,45,70,90,60,310.0,Psychic,Fairy,Soundproof,Filter,Technician,1 SpD,Neutral,-,N/A,145,N/A
+440,Happiny,100,5,5,15,65,30,220.0,Normal,N/A,Natural Cure,Serene Grace,Friend Guard,1 HP,F (100%),-,N/A,130,N/A
+441,Chatot,76,65,45,92,42,91,411.0,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,1 Atk,Neutral,Flying,N/A,30,N
+442,Spiritomb,50,92,108,92,108,35,485.0,Ghost,Dark,Pressure,N/A,Infiltrator,1 Def/1 SpD,Neutral,Amorphous,N/A,100,N
+443,Gible,58,70,45,40,45,42,300.0,Dragon,Ground,Sand Veil,N/A,Rough Skin,1 Atk,Neutral,Monster,Dragon,45,N/A
+444,Gabite,68,90,65,50,55,82,410.0,Dragon,Ground,Sand Veil,N/A,Rough Skin,2 Atk,Neutral,Monster,Dragon,45,Lv. 24
+445,Mega Garchomp,108,170,115,120,95,92,700.0,Dragon,Ground,Sand Force,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+445,Garchomp,108,130,95,80,85,102,600.0,Dragon,Ground,Sand Veil,N/A,Rough Skin,3 Atk,Neutral,Monster,Dragon,45,Lv. 48
+446,Munchlax,135,85,40,40,85,5,390.0,Normal,N/A,Pickup,Thick Fat,Gluttony,1 HP,M (87.5%),-,N/A,50,N/A
+447,Riolu,40,70,40,35,40,60,285.0,Fighting,N/A,Steadfast,Inner Focus,Prankster,1 Atk,M (87.5%),-,N/A,75,N/A
+448,Mega Lucario,70,145,88,140,70,112,625.0,Fighting,Steel,Adaptability,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+448,Mega Lucario Z,70,100,70,164,70,151,625.0,Fighting,Steel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+448,Lucario,70,110,70,115,70,90,525.0,Fighting,Steel,Steadfast,Inner Focus,Justified,1 Atk/1 SpA,M (87.5%),Field,Human-Like,45,Morn/Day Friendship
+449,Hippopotas,68,72,78,38,42,32,330.0,Ground,N/A,Sand Stream,N/A,Sand Force,1 Def,Neutral,Field,N/A,140,N/A
+450,Hippowdon,108,112,118,68,72,47,525.0,Ground,N/A,Sand Stream,N/A,Sand Force,2 Def,Neutral,Field,N/A,60,Lv. 34
+451,Skorupi,40,50,90,30,55,65,330.0,Poison,Bug,Battle Armor,Sniper,Keen Eye,1 Def,Neutral,Bug,Water 3,120,N/A
+452,Drapion,70,90,110,60,75,95,500.0,Poison,Dark,Battle Armor,Sniper,Keen Eye,2 Def,Neutral,Bug,Water 3,45,Lv. 40
+453,Croagunk,48,61,40,61,40,50,300.0,Poison,Fighting,Anticipate,Dry Skin,Poison Touch,1 Atk,Neutral,Human-Like,N/A,140,N/A
+454,Toxicroak,83,106,65,86,65,85,490.0,Poison,Fighting,Anticipate,Dry Skin,Poison Touch,2 Atk,Neutral,Human-Like,N/A,75,Lv. 37
+455,Carnivine,74,100,72,90,72,46,454.0,Grass,N/A,Levitate,N/A,N/A,2 Atk,Neutral,Grass,N/A,200,N
+456,Finneon,49,49,56,49,61,66,330.0,Water,N/A,Swift Swim,Storm Drain,Water Veil,1 Spe,Neutral,Water 2,N/A,190,N/A
+457,Lumineon,69,69,76,69,86,91,460.0,Water,N/A,Swift Swim,Storm Drain,Water Veil,2 Spe,Neutral,Water 2,N/A,75,Lv. 31
+458,Mantyke,45,20,50,60,120,50,345.0,Water,Flying,Swift Swim,Water Absorb,N/A,1 SpD,Neutral,-,N/A,25,N/A
+459,Snover,60,62,50,62,60,40,334.0,Ice,Grass,Snow Warning,N/A,Soundproof,1 Atk,Neutral,Monster,Grass,120,N/A
+460,Mega Abomasnow,90,132,105,132,105,30,594.0,Ice,Grass,Snow Warning,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+460,Abomasnow,90,92,75,92,85,60,494.0,Ice,Grass,Snow Warning,N/A,Soundproof,1 Atk/1 SpA,Neutral,Monster,Grass,60,Lv. 40
+461,Weavile,70,120,65,45,85,125,510.0,Dark,Ice,Pressure,N/A,Pickpocket,1 Atk/1 Spe,Neutral,Field,N/A,45,Nite Level h/ Razor Claw
+462,Magnezone,70,70,115,130,90,60,535.0,Electric,Steel,Magnet Pull,Sturdy,Analytic,3 SpA,N/A,Mineral,N/A,30,Level a/ Mt. Coronet
+463,Lickilicky,110,85,95,80,95,50,515.0,Normal,N/A,Own Tempo,Oblivious,Cloud Nine,3 HP,Neutral,Monster,N/A,30,Level w/ Rollout
+464,Rhyperior,115,140,130,55,55,40,535.0,Ground,Rock,Lightningrod,Solid Rock,Regenerator,3 Atk,Neutral,Monster,Field,30,Trade h/ Protector
+465,Tangrowth,100,100,125,110,50,50,535.0,Grass,N/A,Chlorophyll,Leaf Guard,Regenerator,2 Def,Neutral,Grass,N/A,30,Level w/ Ancientpower
+466,Electivire,75,123,67,95,85,95,540.0,Electric,N/A,Motor Drive,N/A,Vital Spirit,3 Atk,M (75%),Human-Like,N/A,30,Trade h/ Electrizer
+467,Magmortar,75,95,67,125,95,83,540.0,Fire,N/A,Flame Body,N/A,Vital Spirit,3 SpA,M (75%),Human-Like,N/A,30,Trade h/ Magmarizer
+468,Togekiss,85,50,95,120,115,80,545.0,Fairy,Flying,Hustle,Serene Grace,Super Luck,2 SpA/1 SpD,M (87.5%),Flying,Fairy,30,Shiny Stone
+469,Yanmega,86,76,86,116,56,95,515.0,Bug,Flying,Speed Boost,Tinted Lens,Frisk,2 Atk,Neutral,Bug,N/A,30,Level w/ Ancientpower
+470,Leafeon,65,110,130,60,65,95,525.0,Grass,N/A,Leaf Guard,N/A,Chlorophyll,2 Def,M (87.5%),Field,N/A,45,Level a/ Moss Rock
+471,Glaceon,65,60,110,130,95,65,525.0,Ice,N/A,Snow Cloak,N/A,Ice Body,2 SpA,M (87.5%),Field,N/A,45,Level a/ Ice Rock
+472,Gliscor,75,95,125,45,75,95,510.0,Ground,Flying,Hyper Cutter,Sand Veil,Poison Heal,2 Def,Neutral,Bug,N/A,30,Nite Level h/ Razor Fang
+473,Mamoswine,110,130,80,70,60,80,530.0,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,3 Atk,Neutral,Field,N/A,50,Level w/ Ancientpower
+474,Porygon-Z,85,80,70,135,75,90,535.0,Normal,N/A,Adaptability,Download,Analytic,3 SpA,N/A,Mineral,N/A,30,Trade w/ Dubious Disc
+475,Mega Gallade,68,165,95,65,115,110,618.0,Psychic,Fighting,Inner Focus,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+475,Gallade,68,125,65,65,115,80,518.0,Psychic,Fighting,Steadfast,N/A,Justified,3 Atk,M (100%),Human-Like,Amorphous,45,Dawn StoneM
+476,Probopass,60,55,145,75,150,40,525.0,Rock,Steel,Sturdy,Magnet Pull,Sand Force,1 Def/2 SpD,Neutral,Mineral,N/A,60,Level a/ Mt. Coronet
+477,Dusknoir,45,100,135,65,135,45,525.0,Ghost,N/A,Pressure,N/A,Frisk,1 Def/2 SpD,Neutral,Amorphous,N/A,45,Trade w/ Reaper Cloth
+478,Mega Froslass,70,80,70,140,100,120,580.0,Ice,Ghost,Snow Warning,N/A,N/A,N/A,F (100%),N/A,N/A,N/A,N/A
+478,Froslass,70,80,70,80,70,110,480.0,Ice,Ghost,Snow Cloak,N/A,Cursed Body,2 Spe,F (100%),Fairy,Mineral,75,Dawn StoneF
+479,Rotom,50,50,77,95,77,91,440.0,Electric,Ghost,Levitate,N/A,N/A,1 SpA/1 Spe,N/A,Amorphous,N/A,45,N
+479.1,Rotom (Heat),50,65,107,105,107,86,520.0,Electric,Fire,Levitate,N/A,N/A,"1 SpA, 1 Spd",N/A,N/A,N/A,N/A,N
+479.2,Rotom (Wash),50,65,107,105,107,86,520.0,Electric,Water,Levitate,N/A,N/A,"1 SpA, 1 Spd",N/A,N/A,N/A,N/A,N
+479.3,Rotom (Frost),50,65,107,105,107,86,520.0,Electric,Ice,Levitate,N/A,N/A,"1 SpA, 1 Spd",N/A,N/A,N/A,N/A,N
+479.4,Rotom (Spin),50,65,107,105,107,86,520.0,Electric,Flying,Levitate,N/A,N/A,"1 SpA, 1 Spd",N/A,N/A,N/A,N/A,N
+479.5,Rotom (Cut),50,65,107,105,107,86,520.0,Electric,Grass,Levitate,N/A,N/A,"1 SpA, 1 Spd",N/A,N/A,N/A,N/A,N
+480,Uxie,75,75,130,75,130,95,580.0,Psychic,N/A,Levitate,N/A,N/A,2 Def/1 SpD,N/A,-,N/A,3,N
+481,Mesprit,80,105,105,105,105,80,580.0,Psychic,N/A,Levitate,N/A,N/A,1 Atk/1 SpA/1 SpD,N/A,-,N/A,3,N
+482,Azelf,75,125,70,125,70,115,580.0,Psychic,N/A,Levitate,N/A,N/A,2 Atk/1 SpA,N/A,-,N/A,3,N
+483,Dialga,100,120,120,150,100,90,680.0,Steel,Dragon,Pressure,N/A,Telepathy,3 SpA,N/A,-,N/A,3,N
+483,Origin Dialga,100,100,120,150,120,90,680.0,Steel,Dragon,N/A,N/A,N/A,3 SpA,N/A,N/A,N/A,N/A,N
+484,Origin Palkia,90,100,100,150,120,120,680.0,Water,Dragon,N/A,N/A,N/A,3 SpA,N/A,N/A,N/A,N/A,N
+484,Palkia,90,120,100,150,120,100,680.0,Water,Dragon,Pressure,N/A,Telepathy,3 SpA,N/A,-,N/A,3,N
+485,Mega Heatran,91,120,106,175,141,67,700.0,Fire,Steel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+485,Heatran,91,90,106,130,106,77,600.0,Fire,Steel,Flash Fire,N/A,Flame Body,3 SpA,Neutral,-,N/A,3,N
+486,Regigigas,110,160,110,80,110,100,670.0,Normal,N/A,Slow Start,N/A,N/A,3 Atk,N/A,-,N/A,3,N
+487,Giratina,150,100,120,100,120,90,680.0,Ghost,Dragon,Pressure,N/A,Telepathy,3 HP,N/A,-,N/A,3,N
+487.1,Origin Giratina,150,120,100,120,100,90,680.0,Ghost,Dragon,Levitate,N/A,N/A,3 HP,N/A,N/A,N/A,N/A,N
+488,Cresselia,120,70,110,75,120,85,580.0,Psychic,N/A,Levitate,N/A,N/A,3 SpD,F (100%),-,N/A,3,N
+489,Phione,80,80,80,80,80,80,480.0,Water,N/A,Hydration,N/A,N/A,1 HP,N/A,-,N/A,30,N
+490,Manaphy,100,100,100,100,100,100,600.0,Water,N/A,Hydration,N/A,N/A,3 HP,N/A,-,N/A,3,N
+491,Mega Darkrai,70,120,130,165,130,85,700.0,Dark,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+491,Darkrai,70,90,90,135,90,125,600.0,Dark,N/A,Bad Dreams,N/A,N/A,1 Spe/2 SpA,N/A,-,N/A,3,N
+492,Shaymin,100,100,100,100,100,100,600.0,Grass,N/A,Natural Cure,N/A,N/A,3 HP,N/A,-,N/A,45,N
+492.1,Shaymin (S),100,103,75,120,75,127,600.0,Grass,Flying,Serene Grace,N/A,N/A,3 Spd,N/A,N/A,N/A,N/A,N
+493,Arceus,120,120,120,120,120,120,720.0,Normal,N/A,Multitype,N/A,N/A,3 HP,N/A,-,N/A,3,N
+494,Victini,100,100,100,100,100,100,600.0,Psychic,Fire,Victory Star,N/A,N/A,3 HP,N/A,-,N/A,3,N
+495,Snivy,45,45,55,45,55,63,308.0,Grass,N/A,Overgrow,N/A,Contrary,1 Spe,M (87.5%),Field,Grass,45,N/A
+496,Servine,60,60,75,60,75,83,413.0,Grass,N/A,Overgrow,N/A,Contrary,2 Spe,M (87.5%),Field,Grass,45,Lv. 17
+497,Serperior,75,75,95,75,95,113,528.0,Grass,N/A,Overgrow,N/A,Contrary,3 Spe,M (87.5%),Field,Grass,45,Lv. 36
+498,Tepig,65,63,45,45,45,45,308.0,Fire,N/A,Blaze,N/A,Thick Fat,1 HP,M (87.5%),Field,N/A,45,N/A
+499,Pignite,90,93,55,70,55,55,418.0,Fire,Fighting,Blaze,N/A,Thick Fat,2 Atk,M (87.5%),Field,N/A,45,Lv. 17
+500,Mega Emboar,110,148,75,110,110,75,628.0,Fire,Fighting,Mold Breaker,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+500,Emboar,110,123,65,100,65,65,528.0,Fire,Fighting,Blaze,N/A,Reckless,3 Atk,M (87.5%),Field,N/A,45,Lv. 36
+501,Oshawott,55,55,45,63,45,45,308.0,Water,N/A,Torrent,N/A,Shell Armor,1 SpA,M (87.5%),Field,N/A,45,N/A
+502,Dewott,75,75,60,83,60,60,413.0,Water,N/A,Torrent,N/A,Shell Armor,2 SpA,M (87.5%),Field,N/A,45,Lv. 17
+503,Samurott,95,100,85,108,70,70,528.0,Water,N/A,Torrent,N/A,Shell Armor,3 SpA,M (87.5%),Field,N/A,45,Lv. 36
+503,Samurott-Hisuian,90,108,80,100,65,85,528.0,Water,Dark,Torrent,N/A,Shell Armor,3 SpA,M (87.5%),N/A,N/A,N/A,Level 36 (Hisui Only)
+504,Patrat,45,55,39,35,39,42,255.0,Normal,N/A,Run Away,Keen Eye,Analytic,1 Atk,Neutral,Field,N/A,255,N/A
+505,Watchog,60,85,69,60,69,77,420.0,Normal,N/A,Illuminate,Keen Eye,Analytic,1 Atk,Neutral,Field,N/A,255,Lv. 20
+506,Lillipup,45,60,45,25,45,55,275.0,Normal,N/A,Vital Spirit,Pickup,Run Away,1 Atk,Neutral,Field,N/A,255,N/A
+507,Herdier,65,80,65,35,65,60,370.0,Normal,N/A,Intimidate,Sand Rush,Scrappy,2 Atk,Neutral,Field,N/A,120,Lv. 16
+508,Stoutland,85,110,90,45,90,80,500.0,Normal,N/A,Intimidate,Sand Rush,Scrappy,3 Atk,Neutral,Field,N/A,45,Lv. 32
+509,Purrloin,41,50,37,50,37,66,281.0,Dark,N/A,Limber,Unburden,Prankster,1 Spe,Neutral,Field,N/A,255,N/A
+510,Liepard,64,88,50,88,50,106,446.0,Dark,N/A,Limber,Unburden,Prankster,2 Spe,Neutral,Field,N/A,90,Lv. 20
+511,Pansage,50,53,48,53,48,64,316.0,Grass,N/A,Gluttony,N/A,Overgrowth,1 Spe,M (87.5%),Field,N/A,190,N/A
+512,Simisage,75,98,63,98,63,101,498.0,Grass,N/A,Gluttony,N/A,Overgrowth,2 Spe,M (87.5%),Field,N/A,75,Leaf Stone
+513,Pansear,50,53,48,53,48,64,316.0,Fire,N/A,Gluttony,N/A,Blaze,1 Spe,M (87.5%),Field,N/A,190,N/A
+514,Simisear,75,98,63,98,63,101,498.0,Fire,N/A,Gluttony,N/A,Blaze,2 Spe,M (87.5%),Field,N/A,75,Fire Stone
+515,Panpour,50,53,48,53,48,64,316.0,Water,N/A,Gluttony,N/A,Torrent,1 Spe,M (87.5%),Field,N/A,190,N/A
+516,Simipour,75,98,63,98,63,101,498.0,Water,N/A,Gluttony,N/A,Torrent,2 Spe,M (87.5%),Field,N/A,75,Water Stone
+517,Munna,76,25,45,67,55,24,292.0,Psychic,N/A,Forewarn,Synchronize,Telepathy,1 HP,Neutral,Field,N/A,190,N/A
+518,Musharna,116,55,85,107,95,29,487.0,Psychic,N/A,Forewarn,Synchronize,Telepathy,2 HP,Neutral,Field,N/A,75,Moon Stone
+519,Pidove,50,55,50,36,30,43,264.0,Normal,Flying,Big Pecks,Super Luck,Rivalry,1 Atk,Neutral,Flying,N/A,255,N/A
+520,Tranquill,62,77,62,50,42,65,358.0,Normal,Flying,Big Pecks,Super Luck,Rivalry,2 Atk,Neutral,Flying,N/A,120,Lv. 21
+521,Unfezant,80,115,80,65,55,93,488.0,Normal,Flying,Big Pecks,Super Luck,Rivalry,3 Atk,Neutral,Flying,N/A,45,Lv. 32
+522,Blitzle,45,60,32,50,32,76,295.0,Electric,N/A,Lightningrod,Motor Drive,Sap Sipper,1 Spe,Neutral,Field,N/A,190,N/A
+523,Zebstrika,75,100,63,80,63,116,497.0,Electric,N/A,Lightningrod,Motor Drive,Sap Sipper,2 Spe,Neutral,Field,N/A,75,Lv. 27
+524,Roggenrola,55,75,85,25,25,15,280.0,Rock,N/A,Sturdy,N/A,Sand Force,1 Def,Neutral,Mineral,N/A,255,N/A
+525,Boldore,70,105,105,50,40,20,390.0,Rock,N/A,Sturdy,N/A,Sand Force,1 Atk/1 Def,Neutral,Mineral,N/A,120,Lv. 25
+526,Gigalith,85,135,130,60,80,25,515.0,Rock,N/A,Sturdy,N/A,Sand Force,3 Atk,Neutral,Mineral,N/A,45,Trade
+527,Woobat,65,45,43,55,43,72,323.0,Psychic,Flying,Unaware,Klutz,Simple,1 Spe,Neutral,Field,Flying,190,N/A
+528,Swoobat,67,57,55,77,55,114,425.0,Psychic,Flying,Unaware,Klutz,Simple,2 Spe,Neutral,Field,Flying,45,Friendship
+529,Drilbur,60,85,40,30,45,68,328.0,Ground,N/A,Sand Rush,Sand Force,Mold Breaker,1 Atk,Neutral,Field,N/A,120,N/A
+530,Mega Excadrill,110,165,100,65,65,103,608.0,Ground,Steel,Piercing Drill,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+530,Excadrill,110,135,60,50,65,88,508.0,Ground,Steel,Sand Rush,Sand Force,Mold Breaker,2 Atk,Neutral,Field,N/A,60,Lv. 31
+531,Mega Audino,103,60,126,80,126,50,545.0,Normal,Fairy,Healer,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+531,Audino,103,60,86,60,86,50,445.0,Normal,N/A,Healer,Regenerator,Klutz,2 HP,Neutral,Fairy,N/A,255,N
+532,Timburr,75,80,55,25,35,35,305.0,Fighting,N/A,Guts,Sheer Force,Iron Fist,1 Atk,M (75%),Human-Like,N/A,180,N/A
+533,Gurdurr,85,105,85,40,50,40,405.0,Fighting,N/A,Guts,Sheer Force,Iron Fist,2 Atk,M (75%),Human-Like,N/A,90,Lv. 25
+534,Conkeldurr,105,140,95,55,65,45,505.0,Fighting,N/A,Guts,Sheer Force,Iron Fist,3 Atk,M (75%),Human-Like,N/A,45,Trade
+535,Tympole,50,50,40,50,40,64,294.0,Water,N/A,Swift Swim,Hydration,Water Absorb,1 Spe,Neutral,Water 1,N/A,255,N/A
+536,Palpitoad,75,65,55,65,55,69,384.0,Water,Ground,Swift Swim,Hydration,Water Absorb,2 HP,Neutral,Water 1,N/A,120,Lv. 25
+537,Seismitoad,105,95,75,85,75,74,509.0,Water,Ground,Swift Swim,Poison Touch,Water Absorb,3 HP,Neutral,Water 1,N/A,45,Lv. 36
+538,Throh,120,100,85,30,85,45,465.0,Fighting,N/A,Guts,Inner Focus,Mold Breaker,2 HP,M (100%),Human-Like,N/A,45,N/A
+539,Sawk,75,125,75,30,75,85,465.0,Fighting,N/A,Sturdy,Inner Focus,Mold Breaker,2 Atk,M (100%),Human-Like,N/A,45,N/A
+540,Sewaddle,45,53,70,40,60,42,310.0,Bug,Grass,Swarm,Chlorophyll,Overcoat,1 Def,Neutral,Bug,N/A,255,N/A
+541,Swadloon,55,63,90,50,80,42,380.0,Bug,Grass,Leaf Guard,Chlorophyll,Overcoat,2 Def,Neutral,Bug,N/A,120,Lv. 20
+542,Leavanny,75,103,80,70,80,92,500.0,Bug,Grass,Swarm,Chlorophyll,Overcoat,3 Atk,Neutral,Bug,N/A,45,Friendship
+543,Venipede,30,45,59,30,39,57,260.0,Bug,Poison,Poison Point,Swarm,Speed Boost,1 Def,Neutral,Bug,N/A,255,N/A
+544,Whirlipede,40,55,99,40,79,47,360.0,Bug,Poison,Poison Point,Swarm,Speed Boost,2 Def,Neutral,Bug,N/A,120,Lv. 22
+545,Mega Scolipede,60,140,149,75,99,62,585.0,Bug,Poison,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+545,Scolipede,60,100,89,55,69,112,485.0,Bug,Poison,Poison Point,Swarm,Speed Boost,3 Spe,Neutral,Bug,N/A,45,Lv. 30
+546,Cottonee,40,27,60,37,50,66,280.0,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,1 Spe,Neutral,Grass,Fairy,190,N/A
+547,Whimsicott,60,67,85,77,75,116,480.0,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,2 Spe,Neutral,Grass,Fairy,75,Sun Stone
+548,Petilil,45,35,50,70,50,30,280.0,Grass,N/A,Chlorophyll,Own Tempo,Leaf Guard,1 SpA,F (100%),Grass,N/A,190,N/A
+549,Lilligant,70,60,75,110,75,90,480.0,Grass,N/A,Chlorophyll,Own Tempo,Leaf Guard,2 SpA,F (100%),Grass,N/A,75,Sun Stone
+549,Lilligant-Hisuian,70,105,75,50,75,105,480.0,Grass,Fighting,Chlorophyll,Hustle,Leaf Guard,2 SpA,F (100%),N/A,N/A,N/A,Sun Stone (Hisui Only)
+550,Basculin-Blue,70,92,65,80,55,98,460.0,Water,N/A,Rock Head,Adaptability,Mold Breaker,2 Spd,Neutral,N/A,N/A,N/A,N
+550,Basculin-Red,70,92,65,80,55,98,460.0,Water,N/A,Reckless,Adaptability,Mold Breaker,2 Spe,Neutral,Water 2,N/A,25,N
+550,Basculin-White,70,92,65,80,55,98,460.0,Water,N/A,Rattled,Adaptability,Mold Breaker,2 Spd,Neutral,N/A,N/A,N/A,N/A
+551,Sandile,50,72,35,35,35,65,292.0,Ground,Dark,Intimidate,Moxie,Anger Point,1 Atk,Neutral,Field,N/A,180,N/A
+552,Krokorok,60,82,45,45,45,74,351.0,Ground,Dark,Intimidate,Moxie,Anger Point,2 Atk,Neutral,Field,N/A,90,Lv. 29
+553,Krookodile,95,117,80,65,70,92,519.0,Ground,Dark,Intimidate,Moxie,Anger Point,3 Atk,Neutral,Field,N/A,45,Lv. 40
+554,Darumaka,70,90,45,15,45,50,315.0,Fire,N/A,Hustle,N/A,Inner Focus,1 Atk,Neutral,Field,N/A,120,N/A
+554,Darumaka-Galarian,70,90,45,15,45,50,315.0,Ice,N/A,Hustle,N/A,Inner Focus,1 Atk,Neutral,N/A,N/A,N/A,N/A
+555,Darmanitan,105,140,55,30,55,95,480.0,Fire,N/A,Sheer Force,N/A,Zen Mode,2 Atk,Neutral,Field,N/A,60,Lv. 35
+555,Darmanitan-Galarian,105,140,55,30,55,95,480.0,Ice,N/A,Gorilla Tactics,N/A,Zen Mode,2 Atk,Neutral,N/A,N/A,N/A,Ice Stone
+555.1,Darmanitan (Z),105,30,105,140,105,55,540.0,Fire,Psychic,-,N/A,Zen Mode,2 SpA,Neutral,N/A,N/A,N/A,N
+555.1,Darmanitan-Galarian (Z),105,160,55,30,55,135,540.0,Ice,Fire,N/A,N/A,Zen Mode,2 SpA,Neutral,N/A,N/A,N/A,Ice Stone
+556,Maractus,75,86,67,106,67,60,461.0,Grass,N/A,Water Absorb,Chlorophyll,Storm Drain,2 SpA,Neutral,Grass,N/A,255,N
+557,Dwebble,50,65,85,35,35,55,325.0,Bug,Rock,Sturdy,Shell Armor,Weak Armor,1 Def,Neutral,Bug,Mineral,190,N/A
+558,Crustle,70,105,125,65,75,45,485.0,Bug,Rock,Sturdy,Shell Armor,Weak Armor,2 Def,Neutral,Bug,Mineral,75,Lv. 34
+559,Scraggy,50,75,70,35,70,48,348.0,Dark,Fighting,Shed Skin,Moxie,Intimidate,1 Atk,Neutral,Field,Dragon,180,N/A
+560,Mega Scrafty,65,130,135,55,135,68,588.0,Dark,Fighting,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+560,Scrafty,65,90,115,45,115,58,488.0,Dark,Fighting,Shed Skin,Moxie,Intimidate,1 Def/1 SpD,Neutral,Field,Dragon,90,N/A
+561,Sigilyph,72,58,80,103,80,97,490.0,Psychic,Flying,Wonder Skin,Magic Guard,Tinted Lenses,2 SpA,Neutral,Flying,N/A,45,N/A
+562,Yamask,38,30,85,55,65,30,303.0,Ghost,N/A,Mummy,N/A,N/A,1 Def,Neutral,Mineral,Amorphous,190,N/A
+562,Yamask-Galarian,38,55,85,30,65,30,303.0,Ground,Ghost,Wandering Spirit,N/A,N/A,1 Def,Neutral,N/A,N/A,N/A,N/A
+563,Cofagrigus,58,50,145,95,105,30,483.0,Ghost,N/A,Mummy,N/A,N/A,2 Def,Neutral,Mineral,Amorphous,90,Lv. 34
+564,Tirtouga,54,78,103,53,45,22,355.0,Water,Rock,Solid Rock,Sturdy,Swift Swim,1 Def,M (87.5%),Water 1,Water 3,45,N/A
+565,Carracosta,74,108,133,83,65,32,495.0,Water,Rock,Solid Rock,Sturdy,Swift Swim,2 Def,M (87.5%),Water 1,Water 3,45,Lv. 37
+566,Archen,55,112,45,74,45,70,401.0,Rock,Flying,Defeatist,N/A,N/A,1 Atk,M (87.5%),Flying,Water 3,45,N/A
+567,Archeops,75,140,65,112,65,110,567.0,Rock,Flying,Defeatist,N/A,N/A,2 Atk,M (87.5%),Flying,Water 3,45,Lv. 37
+568,Trubbish,50,50,62,40,62,65,329.0,Poison,N/A,Stench,Sticky Hold,Aftermath,1 Spe,Neutral,Mineral,N/A,190,N/A
+569,Garbodor,80,95,82,60,82,75,474.0,Poison,N/A,Stench,Weak Armor,Aftermath,2 Atk,Neutral,Mineral,N/A,60,Lv. 36
+570,Zorua,40,65,40,80,40,65,330.0,Dark,N/A,Illusion,N/A,N/A,1 SpA,M (87.5%),Field,N/A,75,N/A
+570,Zorua-Hisuian,35,60,40,85,40,70,330.0,Normal,Ghost,Illusion,N/A,N/A,1 SpA,M (87.5%),N/A,N/A,N/A,N/A
+571,Zoroark,60,105,60,120,60,105,510.0,Dark,N/A,Illusion,N/A,N/A,2 SpA,M (87.5%),Field,N/A,45,Lv. 30
+571,Zoroark-Hisuian,55,100,60,125,60,110,510.0,Normal,Ghost,Illusion,N/A,N/A,2 SpA,M (87.5%),N/A,N/A,N/A,Level 30
+572,Minccino,55,50,40,40,40,75,300.0,Normal,N/A,Cute Charm,Technician,Skill Link,1 Spe,F (75%),Field,N/A,255,N/A
+573,Ciccino,75,95,60,65,60,115,470.0,Normal,N/A,Cute Charm,Technician,Skill Link,2 Spe,F (75%),Field,N/A,60,Shiny Stone
+574,Gothita,45,30,50,55,65,45,290.0,Psychic,N/A,Frisk,Competitive,Shadow Tag,1 SpD,F (75%),Human-Like,N/A,200,N/A
+575,Gothorita,60,45,70,75,85,55,390.0,Psychic,N/A,Frisk,Competitive,Shadow Tag,2 SpD,F (75%),Human-Like,N/A,100,Lv. 32
+576,Gothitelle,70,55,95,95,110,65,490.0,Psychic,N/A,Frisk,Competitive,Shadow Tag,3 SpD,F (75%),Human-Like,N/A,50,Lv. 41
+577,Solosis,45,30,40,105,50,20,290.0,Psychic,N/A,Overcoat,Magic Guard,Regenerator,1 SpA,Neutral,Amorphous,N/A,200,N/A
+578,Duosion,65,40,50,125,60,30,370.0,Psychic,N/A,Overcoat,Magic Guard,Regenerator,2 SpA,Neutral,Amorphous,N/A,100,Lv. 32
+579,Reuniclus,110,65,75,125,85,30,490.0,Psychic,N/A,Overcoat,Magic Guard,Regenerator,3 SpA,Neutral,Amorphous,N/A,50,Lv. 41
+580,Ducklett,62,44,50,44,50,55,305.0,Water,Flying,Keen Eye,Big Pecks,Hydration,1 HP,Neutral,Water 1,Flying,190,N/A
+581,Swanna,75,87,63,87,63,98,473.0,Water,Flying,Keen Eye,Big Pecks,Hydration,2 Spe,Neutral,Water 1,Flying,45,Lv. 35
+582,Vanillite,36,50,50,65,60,44,305.0,Ice,N/A,Ice Body,N/A,Weak Armor,1 SpA,Neutral,Mineral,N/A,255,N/A
+583,Vanillish,51,65,65,80,75,59,395.0,Ice,N/A,Ice Body,N/A,Weak Armor,2 SpA,Neutral,Mineral,N/A,120,Lv. 35
+584,Vanilluxe,71,95,85,110,95,79,535.0,Ice,N/A,Ice Body,N/A,Weak Armor,3 SpA,Neutral,Mineral,N/A,45,Lv. 47
+585,Deerling,60,60,50,40,50,75,335.0,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,1 Spe,Neutral,Field,N/A,190,N/A
+586,Sawsbuck,80,100,70,60,70,95,475.0,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,2 Atk,Neutral,Field,N/A,75,Lv. 34
+587,Emolga,55,75,60,75,60,103,428.0,Electric,Flying,Static,N/A,Motor Drive,2 Spe,Neutral,Field,N/A,200,N/A
+588,Karrablast,50,75,45,40,45,60,315.0,Bug,N/A,Swarm,Shed Skin,No Guard,1 Atk,Neutral,Bug,N/A,200,N/A
+589,Escavalier,70,135,105,60,105,20,495.0,Bug,Steel,Swarm,Shell Armor,Overcoat,2 Atk,Neutral,Bug,N/A,75,Trade w/ Shelmet
+590,Foongus,69,55,45,55,55,15,294.0,Grass,Poison,Effect Spore,N/A,Regenerator,1 HP,Neutral,Grass,N/A,190,N/A
+591,Amoonguss,114,85,70,85,80,30,464.0,Grass,Poison,Effect Spore,N/A,Regenerator,2 HP,Neutral,Grass,N/A,75,Lv. 39
+592,Frillish,55,40,50,65,85,40,335.0,Water,Ghost,Water Absorb,Cursed Body,Damp,1 SpD,Neutral,Amorphous,N/A,190,N/A
+593,Jellicent,100,60,70,85,105,60,480.0,Water,Ghost,Water Absorb,Cursed Body,Damp,2 SpD,Neutral,Amorphous,N/A,60,Lv. 40
+594,Alomomola,165,75,80,40,45,65,470.0,Water,N/A,Healer,Hydration,Regenerator,2 HP,Neutral,Water 1,Water 2,75,N
+595,Joltik,50,47,50,57,50,65,319.0,Bug,Electric,Compoundeyes,Unnerve,Swarm,1 Spe,Neutral,Bug,N/A,190,N/A
+596,Galvantula,70,77,60,97,60,108,472.0,Bug,Electric,Compoundeyes,Unnerve,Swarm,2 Spe,Neutral,Bug,N/A,75,Lv. 36
+597,Ferroseed,44,50,91,24,86,10,305.0,Grass,Steel,Iron Barbs,N/A,N/A,1 Def,Neutral,Grass,Mineral,255,N/A
+598,Ferrothorn,74,94,131,54,116,20,489.0,Grass,Steel,Iron Barbs,N/A,Anticipation,2 Def,Neutral,Grass,Mineral,90,Lv. 40
+599,Klink,40,55,70,45,60,30,300.0,Steel,N/A,Plus,Minus,Clear Body,1 Def,N/A,Mineral,N/A,130,N/A
+600,Klang,60,80,95,70,85,50,440.0,Steel,N/A,Plus,Minus,Clear Body,2 Def,N/A,Mineral,N/A,60,Lv. 38
+601,Klinklang,60,100,115,70,85,90,520.0,Steel,N/A,Plus,Minus,Clear Body,3 Def,N/A,Mineral,N/A,30,Lv. 49
+602,Tynamo,35,55,40,45,40,60,275.0,Electric,N/A,Levitate,N/A,N/A,1 Spe,Neutral,Amorphous,N/A,190,N/A
+603,Eelektrik,65,85,70,75,70,40,405.0,Electric,N/A,Levitate,N/A,N/A,2 Atk,Neutral,Amorphous,N/A,60,Lv. 39
+604,Mega Eelektross,85,145,80,135,90,80,615.0,Electric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+604,Eelektross,85,115,80,105,80,50,515.0,Electric,N/A,Levitate,N/A,N/A,3 Atk,Neutral,Amorphous,N/A,30,Thunderstone
+605,Elgyem,55,55,55,85,55,30,335.0,Psychic,N/A,Telepathy,Synchronize,Analytic,1 SpA,Neutral,Human-Like,N/A,255,N/A
+606,Beheeyem,75,75,75,125,95,40,485.0,Psychic,N/A,Telepathy,Synchronize,Analytic,2 SpA,Neutral,Human-Like,N/A,90,Lv. 42
+607,Litwick,50,30,55,65,55,20,275.0,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,1 SpA,Neutral,Amorphous,N/A,190,N/A
+608,Lampent,60,40,60,95,60,55,370.0,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,2 SpA,Neutral,Amorphous,N/A,90,Lv. 41
+609,Mega Chandelure,60,75,110,175,110,90,620.0,Ghost,Fire,Infiltrator,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+609,Chandelure,60,55,90,145,90,80,520.0,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,3 SpA,Neutral,Amorphous,N/A,45,Dusk Stone
+610,Axew,46,87,60,30,40,57,320.0,Dragon,N/A,Rivalry,Mold Breaker,Unnerve,1 Atk,Neutral,Monster,Dragon,75,N/A
+611,Fraxure,66,117,70,40,50,67,410.0,Dragon,N/A,Rivalry,Mold Breaker,Unnerve,2 Atk,Neutral,Monster,Dragon,60,Lv. 38
+612,Haxorus,76,147,90,60,70,97,540.0,Dragon,N/A,Rivalry,Mold Breaker,Unnerve,3 Atk,Neutral,Monster,Dragon,45,Lv. 48
+613,Cubchoo,55,70,40,60,40,40,305.0,Ice,N/A,Snow Cloak,Slush Rush,Rattled,1 Atk,Neutral,Field,N/A,120,N/A
+614,Beartic,95,130,80,70,80,50,505.0,Ice,N/A,Snow Cloak,Slush Rush,Swift Swim,2 Atk,Neutral,Field,N/A,60,Lv. 37
+615,Cryogonal,80,50,50,95,135,105,515.0,Ice,N/A,Levitate,N/A,N/A,2 SpD,N/A,Mineral,N/A,25,N
+616,Shelmet,50,40,85,40,65,25,305.0,Bug,N/A,Hydration,Shell Armor,Overcoat,1 Def,Neutral,Bug,N/A,200,N/A
+617,Accelgor,80,70,40,100,60,145,495.0,Bug,N/A,Hydration,Sticky Hold,Unburden,2 Spe,Neutral,Bug,N/A,75,Trade w/ Karrablast
+618,Stunfisk,109,66,84,81,99,32,471.0,Ground,Electric,Static,Limber,Sand Viel,2 HP,Neutral,Water 1,Amorphous,75,N
+618,Stunfisk-Galarian,109,81,99,66,84,32,471.0,Ground,Steel,Mimicry,N/A,N/A,2 HP,Neutral,N/A,N/A,N/A,N
+619,Mienfoo,45,85,50,55,50,65,350.0,Fighting,N/A,Inner Focus,Regenerator,Reckless,1 Atk,Neutral,Field,Human-Like,180,N/A
+620,Mienshao,65,125,60,95,60,105,510.0,Fighting,N/A,Inner Focus,Regenerator,Reckless,2 Atk,Neutral,Field,Human-Like,45,Lv. 50
+621,Druddigon,77,120,90,60,90,48,485.0,Dragon,N/A,Rough Skin,Sheer Force,Mold Breaker,2 Atk,Neutral,Dragon,Monster,45,N
+622,Golett,59,74,50,35,50,35,303.0,Ground,Ghost,Iron Fist,Klutz,No Guard,1 Atk,N/A,Mineral,N/A,190,N/A
+623,Mega Golurk,89,159,105,70,105,55,583.0,Ground,Ghost,Unseen Fist,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+623,Golurk,89,124,80,55,80,55,483.0,Ground,Ghost,Iron Fist,Klutz,No Guard,2 Atk,N/A,Mineral,N/A,90,Lv. 43
+624,Pawniard,45,85,70,40,40,60,340.0,Dark,Steel,Defiant,Inner Focus,Pressure,1 Atk,Neutral,Human-Like,N/A,120,N/A
+625,Bisharp,65,125,100,60,70,70,490.0,Dark,Steel,Defiant,Inner Focus,Pressure,2 Atk,Neutral,Human-Like,N/A,45,Lv. 52
+626,Bouffalant,95,110,95,40,95,55,490.0,Normal,N/A,Reckless,Sap Sipper,Soundproof,2 Atk,Neutral,Field,N/A,45,N
+627,Rufflet,70,83,50,37,50,60,350.0,Normal,Flying,Keen Eye,Sheer Force,Hustle,1 Atk,M (100%),Flying,N/A,190,N/A
+628,Braviary,100,123,75,57,75,80,510.0,Normal,Flying,Keen Eye,Sheer Force,Defiant,2 Atk,M (100%),Flying,N/A,60,Lv. 54
+628,Braviary-Hisuian,110,83,70,112,70,65,510.0,Psychic,Flying,Keen Eye,Sheer Force,Defiant,2 Atk,M (100%),N/A,N/A,N/A,Level 54 (Hisui Only)
+629,Vullaby,70,55,75,45,65,60,370.0,Dark,Flying,Big Pecks,Overcoat,Weak Armor,1 Def,F (100%),Flying,N/A,190,N/A
+630,Mandibuzz,110,65,105,55,95,80,510.0,Dark,Flying,Big Pecks,Overcoat,Weak Armor,2 SpA,F (100%),Flying,N/A,60,Lv. 54
+631,Heatmor,85,97,66,105,66,65,484.0,Fire,N/A,Gluttony,Flash Fire,White Smoke,2 SpA,Neutral,Field,N/A,90,N
+632,Durant,58,109,112,48,48,109,484.0,Bug,Steel,Swarm,Hustle,Truant,2 Def,Neutral,Bug,N/A,90,N
+633,Deino,52,65,50,45,50,38,300.0,Dark,Dragon,Hustle,N/A,N/A,1 Atk,Neutral,Dragon,N/A,45,N/A
+634,Zweilous,72,85,70,65,70,58,420.0,Dark,Dragon,Hustle,N/A,N/A,2 Atk,Neutral,Dragon,N/A,45,Lv. 50
+635,Hydreigon,92,105,90,125,90,98,600.0,Dark,Dragon,Levitate,N/A,N/A,3 SpA,Neutral,Dragon,N/A,45,Lv. 64
+636,Larvesta,55,85,55,50,55,60,360.0,Bug,Fire,Flame Body,N/A,Swarm,1 Atk,Neutral,Bug,N/A,45,N/A
+637,Volcarona,85,60,65,135,105,100,550.0,Bug,Fire,Flame Body,N/A,Swarm,3 SpA,Neutral,Bug,N/A,15,Lv. 59
+638,Cobalion,91,90,129,90,72,108,580.0,Steel,Fighting,Justified,N/A,N/A,3 Def,N/A,-,N/A,3,N
+639,Terrakion,91,129,90,72,90,108,580.0,Rock,Fighting,Justified,N/A,N/A,3 Atk,N/A,-,N/A,3,N
+640,Virizion,91,90,72,90,129,108,580.0,Grass,Fighting,Justified,N/A,N/A,3 SpD,N/A,-,N/A,3,N
+641,Therian Tornadus,79,100,80,110,90,121,580.0,Flying,N/A,Regenerator,N/A,N/A,3 Spd,M (100%),N/A,N/A,N/A,N
+641,Tornadus,79,115,70,125,80,111,580.0,Flying,N/A,Prankster,N/A,Defiant,3 Atk,M (100%),-,N/A,3,N
+642,Therian Thundurus,79,105,70,145,80,101,580.0,Electric,Flying,Volt Absorb,N/A,N/A,3 SpA,M (100%),N/A,N/A,N/A,N
+642,Thundurus,79,115,70,125,80,111,580.0,Electric,Flying,Prankster,N/A,Defiant,3 Atk,M (100%),-,N/A,3,N
+643,Reshiram,100,120,100,150,120,90,680.0,Dragon,Fire,Turboblaze,N/A,N/A,3 SpA,N/A,-,N/A,3,N
+644,Zekrom,100,150,120,120,100,90,680.0,Dragon,Electric,Teravolt,N/A,N/A,3 Atk,N/A,-,N/A,3,N
+645,Landorus,89,125,90,115,80,101,600.0,Ground,Flying,Sand Force,N/A,Sheer Force,3 SpA,M (100%),-,N/A,3,N
+645,Therian Landorus,89,145,90,105,80,91,600.0,Ground,Flying,Intimidate,N/A,N/A,3 Atk,M (100%),N/A,N/A,N/A,N
+646,Black Kyurem,125,170,100,120,90,95,700.0,Dragon,Ice,Turboblaze,N/A,N/A,3 SpA,N/A,N/A,N/A,N/A,N
+646,White Kyurem,125,120,90,170,100,95,700.0,Dragon,Ice,Teravolt,N/A,N/A,3 Atk,N/A,N/A,N/A,N/A,N
+646,Kyurem,125,130,90,130,90,95,660.0,Dragon,Ice,Pressure,N/A,N/A,"1 HP, 1 Atk, 1 SpA",N/A,-,N/A,3,N
+647,Keldeo,91,72,90,129,90,108,580.0,Water,Fighting,Justified,N/A,N/A,3 SpA,N/A,-,N/A,3,N
+648,Meloetta (A),100,77,77,128,128,90,600.0,Normal,Psychic,Serene Grace,N/A,N/A,"1 Spe, 1 SpA, 1 SpD",N/A,-,N/A,3,N
+648.1,Meloetta (P),100,128,90,77,77,128,600.0,Normal,Fighting,Serene Grace,N/A,N/A,"1 Atk, 1 Def, 1 Spd",N/A,N/A,N/A,N/A,N
+649,Genesect,71,120,95,120,95,99,600.0,Bug,Steel,Download,N/A,N/A,"1 Atk, 1 Spe, 1 SpA",N/A,-,N/A,3,N
+650,Chespin,56,61,65,48,45,38,313.0,Grass,N/A,Overgrow,N/A,Bulletproof,1 Def,M (87.5%),Field,N/A,45,N/A
+651,Quilladin,61,78,95,56,58,57,405.0,Grass,N/A,Overgrow,N/A,Bulletproof,2 Def,M (87.5%),Field,N/A,45,Level 16
+652,Chesnaught,88,107,122,74,75,64,530.0,Grass,Fighting,Overgrow,N/A,Bulletproof,3 Def,M (87.5%),Field,N/A,45,Level 36
+653,Mega Chesnaught,88,137,172,74,115,44,630.0,Grass,Fighting,Bulletproof,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+653,Fennekin,40,45,40,62,60,60,307.0,Fire,N/A,Blaze,N/A,Magician,1 SpA,M (87.5%),Field,N/A,45,N/A
+654,Braixen,59,59,58,90,70,73,409.0,Fire,N/A,Blaze,N/A,Magician,2 SpA,M (87.5%),Field,N/A,45,Level 16
+655,Mega Delphox,75,69,72,159,125,134,634.0,Fire,Psychic,Levitate,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+655,Delphox,75,69,72,114,100,104,534.0,Fire,Psychic,Blaze,N/A,Magician,3 SpA,M (87.5%),Field,N/A,45,Level 36
+656,Froakie,41,56,40,62,44,71,314.0,Water,N/A,Torrent,N/A,Protean,1 Spd,M (87.5%),Water 1,N/A,45,N/A
+657,Frogadier,54,63,52,83,56,97,405.0,Water,N/A,Torrent,N/A,Protean,2 Spd,M (87.5%),Water 1,N/A,45,Level 16
+658,Ash Greninja,72,145,67,153,71,132,640.0,Water,Dark,Battle Bond,N/A,N/A,3 Spd,M (100%),N/A,N/A,N/A,N
+658,Mega Greninja,72,125,77,133,81,142,630.0,Water,Dark,Protean,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+658,BB Greninja,72,95,67,103,71,122,530.0,Water,Dark,Battle Bond,N/A,N/A,3 Spd,M (100%),N/A,N/A,N/A,N
+658,Greninja,72,95,67,103,71,122,530.0,Water,Dark,Torrent,N/A,Protean,3 Spd,M (87.5%),Water 1,N/A,45,Level 36
+659,Bunnelby,38,36,38,32,36,57,237.0,Normal,N/A,Pickup,Cheek Pouch,Huge Power,1 Spd,Neutral,Field,N/A,255,N/A
+660,Diggersby,85,56,77,50,77,78,423.0,Normal,Ground,Pickup,Cheek Pouch,Huge Power,2 HP,Neutral,Field,N/A,127,Level 20
+661,Fletchling,45,50,43,40,38,62,278.0,Normal,Flying,Big Pecks,N/A,Gale Wings,1 Spd,Neutral,Flying,N/A,255,N/A
+662,Fletchinder,62,73,55,56,52,84,382.0,Fire,Flying,Flame Body,N/A,Gale Wings,2 Spd,Neutral,Flying,N/A,120,Level 17
+663,Talonflame,78,81,71,74,69,126,499.0,Fire,Flying,Flame Body,N/A,Gale Wings,3 Spd,Neutral,Flying,N/A,45,Level 35
+664,Scatterbug,38,35,40,27,25,35,200.0,Bug,N/A,Shield Dust,Compound Eyes,Friend Guard,1 Def,Neutral,Bug,N/A,255,N/A
+665,Spewpa,45,22,60,27,30,29,213.0,Bug,N/A,Shed Skin,N/A,Friend Guard,2 Def,Neutral,Bug,N/A,120,Level 9
+666,Vivillon,80,52,50,90,50,89,411.0,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,"1 HP, 1 SpA, 1 Spd",Neutral,Bug,N/A,45,Level 12
+667,Litleo,62,50,58,73,54,72,369.0,Fire,Normal,Rivalry,Unnerve,Moxie,1 SpA,F (87.5%),Field,N/A,220,N/A
+668,Mega Pyroar,86,88,92,129,86,126,607.0,Fire,Normal,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+668,Pyroar,86,68,72,109,66,106,507.0,Fire,Normal,Rivalry,Unnerve,Moxie,2 SpA,F (87.5%),Field,N/A,65,Level 35
+669,Flabébé,44,38,39,61,79,42,303.0,Fairy,N/A,Flower Veil,N/A,Symbiosis,1 SpD,F (100%),Fairy,N/A,255,N/A
+670,Mega Eternal Floette,74,85,87,155,148,102,651.0,Fairy,N/A,Fairy Aura,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+670,Eternal Floette,74,65,67,125,128,92,551.0,Fairy,N/A,Flower Veil,N/A,N/A,2 SpD,F (100%),N/A,N/A,N/A,N
+670,Floette,54,45,47,75,98,52,371.0,Fairy,N/A,Flower Veil,N/A,Symbiosis,2 SpD,F (100%),Fairy,N/A,120,Level 19
+671,Florges,78,65,68,112,154,75,552.0,Fairy,N/A,Flower Veil,N/A,Symbiosis,3 SpD,F (100%),Fairy,N/A,45,Shiny Stone
+672,Skiddo,66,65,48,62,57,52,350.0,Grass,N/A,Sap Sipper,N/A,Grass Pelt,1 HP,Neutral,Field,N/A,220,N/A
+673,Gogoat,123,100,62,97,81,68,531.0,Grass,N/A,Sap Sipper,N/A,Grass Pelt,2 HP,Neutral,Field,N/A,45,Level 32
+674,Pancham,67,82,62,46,48,43,348.0,Fighting,N/A,Iron Fist,Mold Breaker,Scrappy,1 Atk,Neutral,Field,Human-like,220,N/A
+675,Pangoro,95,124,78,69,71,58,495.0,Fighting,Dark,Iron Fist,Mold Breaker,Scrappy,2 Atk,Neutral,Field,Human-like,65,32 w/ Dark-type in Party
+676,Furfrou,75,80,60,65,90,102,472.0,Normal,N/A,Fur Coat,N/A,N/A,1 Spd,Neutral,Field,N/A,160,N
+677,Espurr,62,48,54,63,60,68,355.0,Psychic,N/A,Keen Eye,Infiltrator,Own Tempo,1 Spd,Neutral,Field,N/A,190,N/A
+678,Mega Meowstic,74,48,76,143,101,124,566.0,Psychic,N/A,Trace,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+678,F Meowstic,74,48,76,83,81,104,466.0,Psychic,N/A,Keen Eye,Infiltrator,Competitive,2 Spd,F (100%),N/A,N/A,N/A,Level 25 Female
+678,Male Meowstic,74,48,76,83,81,104,466.0,Psychic,N/A,Keen Eye,Infiltrator,Prankster,2 Spd,M (100%),Field,N/A,75,Level 25
+679,Honedge,45,80,100,35,37,28,325.0,Steel,Ghost,No Guard,N/A,N/A,1 Def,Neutral,Mineral,N/A,180,N/A
+680,Doublade,59,110,150,45,49,35,448.0,Steel,Ghost,No Guard,N/A,N/A,2 Def,Neutral,Mineral,N/A,90,Level 35
+681,B Aegislash,60,140,50,140,50,60,500.0,Ghost,Steel,Strance Change,N/A,N/A,"2 Atk, 1 SpA",Neutral,N/A,N/A,N/A,N
+681,S Aegislash,60,50,140,50,140,60,500.0,Steel,Ghost,Stance Change,N/A,N/A,"2 Def, 1 SpD",Neutral,Mineral,N/A,45,Dusk Stone
+682,Spritzee,78,52,60,63,65,23,341.0,Fairy,N/A,Healer,N/A,Aroma Veil,1 HP,Neutral,Fairy,N/A,200,N/A
+683,Aromatisse,101,72,72,99,89,29,462.0,Fairy,N/A,Healer,N/A,Aroma Veil,2 HP,Neutral,Fairy,N/A,140,Trade w/ Satchet
+684,Swirlix,62,48,66,59,57,49,341.0,Fairy,N/A,Sweet Veil,N/A,Unburden,1 Def,Neutral,Fairy,N/A,200,N/A
+685,Slurpuff,82,80,86,85,75,72,480.0,Fairy,N/A,Sweet Veil,N/A,Unburden,2 Def,Neutral,Fairy,N/A,140,Trade w/ Whipped Dream
+686,Inkay,53,54,53,37,46,45,288.0,Dark,Psychic,Contrary,Suction Cups,Infiltrator,1 Atk,Neutral,Water 1,Water 2,190,N/A
+687,Malamar,86,92,88,68,75,73,482.0,Dark,Psychic,Contrary,Suction Cups,Infiltrator,2 Atk,Neutral,Water 1,Water 2,80,"Level 30, Console upside-down"
+688,Mega Malamar,86,102,88,98,120,88,582.0,Dark,Psychic,Contrary,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+688,Binacle,42,52,67,39,56,50,306.0,Rock,Water,Tough Claws,Sniper,Pickpocket,1 Atk,Neutral,Water 3,N/A,120,N/A
+689,Barbaracle,72,105,115,54,86,68,500.0,Rock,Water,Tough Claws,Sniper,Pickpocket,2 Atk,Neutral,Water 3,N/A,45,Level 39
+690,Mega Barbaracle,72,140,130,64,106,88,600.0,Rock,Fighting,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+690,Skrelp,50,60,60,60,60,30,320.0,Poison,Water,Poison Point,Poison Touch,Adaptability,1 SpD,Neutral,Water 1,Dragon,225,N/A
+691,Dragalge,65,75,90,97,123,44,494.0,Poison,Dragon,Poison Point,Poison Touch,Adaptability,2 SpD,Neutral,Water 1,Dragon,55,Level 48
+692,Mega Dragalge,65,85,105,132,163,44,594.0,Poison,Dragon,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+692,Clauncher,50,53,62,58,63,44,330.0,Water,N/A,Mega Launcher,N/A,N/A,1 SpA,Neutral,Water 1,Water 3,225,N/A
+693,Clawitzer,71,73,88,120,89,59,500.0,Water,N/A,Mega Launcher,N/A,N/A,2 SpA,Neutral,Water 1,Water 3,55,Level 37
+694,Helioptile,44,38,33,61,43,70,289.0,Electric,Normal,Dry Skin,Sand Veil,Solar Power,1 Spd,Neutral,Monster,Dragon,190,N/A
+695,Heliolisk,62,55,52,109,94,109,481.0,Electric,Normal,Dry Skin,Sand Veil,Solar Power,"1 SpA, 1 Spd",Neutral,Monster,Dragon,75,Sun Stone
+696,Tyrunt,58,89,77,45,45,48,362.0,Rock,Dragon,Strong Jaw,N/A,Sturdy,1 Atk,M (87.5%),Monster,Dragon,45,N/A
+697,Tyrantrum,82,121,119,69,59,71,521.0,Rock,Dragon,Strong Jaw,N/A,Rock Head,2 Atk,M (87.5%),Monster,Dragon,45,"Level 39, Day"
+698,Amaura,77,59,50,67,63,46,362.0,Rock,Ice,Refrigerate,N/A,Snow Warning,1 HP,M (87.5%),Monster,N/A,45,N/A
+699,Aurorus,123,77,72,99,92,58,521.0,Rock,Ice,Refrigerate,N/A,Snow Warning,2 HP,M (87.5%),Monster,N/A,45,"Level 39, Night"
+700,Sylveon,95,65,65,110,130,60,525.0,Fairy,N/A,Cute Charm,N/A,Pixilate,2 SpD,M (87.5%),Field,N/A,45,"High Friendship, Fairy Move Known"
+701,Hawlucha,78,92,75,74,63,118,500.0,Fighting,Flying,Limber,N/A,Mold Breaker,2 Atk,Neutral,Flying,Human-like,100,N
+702,Mega Hawlucha,78,137,100,74,93,118,600.0,Fighting,Flying,No Guard,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+702,Dedenne,67,58,57,81,67,101,431.0,Electric,Fairy,Unburden,N/A,Plus,2 Spd,Neutral,Field,Fairy,180,N
+703,Carbink,50,50,150,50,150,50,500.0,Rock,Fairy,Clear Body,N/A,Sturdy,"1 Def, 1 SpD",N/A,Fairy,Mineral,60,N
+704,Goomy,45,50,35,55,75,40,300.0,Dragon,N/A,Sap Sipper,Hydration,Gooey,1 SpD,Neutral,Dragon,N/A,45,N/A
+705,Sliggoo,68,75,53,83,113,60,452.0,Dragon,N/A,Sap Sipper,Hydration,Gooey,2 SpD,Neutral,Dragon,N/A,45,Level 40
+705,Sliggoo-Hisuian,58,75,83,83,113,40,452.0,Dragon,Steel,Sap Sipper,Overcoat,Gooey,2 SpD,Neutral,N/A,N/A,N/A,Level 40 (Hisui Only)
+706,Goodra,90,100,70,110,150,80,600.0,Dragon,N/A,Sap Sipper,Hydration,Gooey,3 SpD,Neutral,N/A,N/A,45,"Level 50, Overworld Rain"
+706,Goodra-Hisuian,80,100,100,110,150,60,600.0,Dragon,Steel,Sap Sipper,Overcoat,Gooey,3 SpD,Neutral,N/A,N/A,N/A,Level 50 (Rain or Fog)
+707,Klefki,57,80,91,80,87,75,470.0,Steel,Fairy,Prankster,N/A,Magician,1 Def,Neutral,Mineral,N/A,75,N
+708,Phantump,43,70,48,50,60,38,309.0,Grass,Ghost,Natural Cure,Frisk,Harvest,1 Atk,Neutral,Grass,Amorphous,120,N/A
+709,Trevenant,85,110,76,65,82,56,474.0,Grass,Ghost,Natural Cure,Frisk,Harvest,2 Atk,Neutral,Grass,Amorphous,60,Trade
+710,Pumpkaboo,49,66,70,44,55,51,335.0,Ghost,Grass,Pickup,Frisk,Insomnia,1 Def,Neutral,N/A,N/A,N/A,N/A
+710,L Pumpkaboo,54,66,70,44,55,46,335.0,Ghost,Grass,Pickup,Frisk,Insomnia,1 Def,Neutral,N/A,N/A,N/A,N/A
+710,S Pumpkaboo,44,66,70,44,55,56,335.0,Grass,Ghost,Pickup,Frisk,Insomnia,1 Def,Neutral,Amorphous,N/A,120,N/A
+710,SS Pumpkaboo,59,66,70,44,55,41,335.0,Ghost,Grass,Pickup,Frisk,Insomnia,1 Def,Neutral,N/A,N/A,N/A,N/A
+711,Gourgeist,65,90,122,58,75,84,494.0,Ghost,Grass,Pickup,Frisk,Insomnia,2 Def,Neutral,N/A,N/A,N/A,Trade
+711,L Gourgeist,75,95,122,58,75,69,494.0,Ghost,Grass,Pickup,Frisk,Insomnia,2 Def,Neutral,N/A,N/A,N/A,Trade
+711,Sm Gourgeist,55,85,122,58,75,99,494.0,Grass,Ghost,Pickup,Frisk,Insomnia,2 Def,Neutral,Amorphous,N/A,60,Trade
+711,SS Gourgeist,85,100,122,58,75,54,494.0,Ghost,Grass,Pickup,Frisk,Insomnia,2 Def,Neutral,N/A,N/A,N/A,Trade
+712,Bergmite,55,69,85,32,35,28,304.0,Ice,N/A,Own Tempo,Ice Body,Sturdy,1 Def,Neutral,Monster,Mineral,190,N/A
+713,Avalugg,95,117,184,44,46,28,514.0,Ice,N/A,Own Tempo,Ice Body,Sturdy,2 Def,Neutral,Monster,Mineral,55,Level 37
+713,Avalugg-Hisuian,95,127,184,34,36,38,514.0,Ice,Rock,Strong Jaw,Sturdy,Ice Body,2 Def,Neutral,N/A,N/A,N/A,Level 37 (Hisui Only)
+714,Noibat,40,30,35,45,40,55,245.0,Flying,Dragon,Frisk,Infiltrator,Telepathy,1 Spd,Neutral,Flying,Dragon,190,N/A
+715,Noivern,85,70,80,97,80,123,535.0,Flying,Dragon,Frisk,Infiltrator,Telepathy,2 Spd,Neutral,Flying,Dragon,45,Level 48
+716,Xerneas,126,131,95,131,98,99,680.0,Fairy,N/A,Fairy Aura,N/A,N/A,3 HP,N/A,-,N/A,45,N
+717,Yveltal,126,131,95,131,98,99,680.0,Dark,Flying,Dark Aura,N/A,N/A,3 HP,N/A,-,N/A,45,N
+718,Mega Zygarde,216,70,91,216,85,100,778.0,Ground,Dragon,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+718,Zygarde 100%,216,100,121,91,95,85,708.0,Ground,Dragon,Power Construct,N/A,N/A,3 Hp,Neutral,N/A,N/A,N/A,N
+718,Zygarde 50%,108,100,121,81,95,95,600.0,Dragon,Ground,Aura Break,Power Construct,N/A,3 HP,N/A,-,N/A,3,N
+718,Zygarde 10%,54,100,71,61,85,115,486.0,Ground,Dragon,Aura Break,P. Construct,N/A,3 HP,Neutral,N/A,N/A,N/A,N
+719,Mega Diance,50,160,110,160,110,110,700.0,Rock,Fairy,Magic Bounce,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+719,Diancie,50,100,150,100,150,50,600.0,Rock,Fairy,Clear Body,N/A,N/A,"1 Def, 2 SpD",N/A,-,N/A,3,N
+720,Hoopa (U),80,160,60,170,130,80,680.0,Psychic,Dark,Magician,N/A,N/A,3 SpA,Neutral,N/A,N/A,N/A,N
+720,Hoopa (C),80,110,60,150,130,70,600.0,Psychic,Ghost,Magician,N/A,N/A,3 SpA,N/A,-,N/A,3,N
+721,Volcanion,80,110,120,130,90,70,600.0,Fire,Water,Water Absorb,N/A,N/A,3 SpA,N/A,-,N/A,3,N
+722,Rowlet,68,55,55,50,50,42,320.0,Grass,Flying,Overgrow,N/A,Long Reach,1 HP,M (87.5%),Flying,N/A,45,N/A
+723,Dartrix,78,75,75,70,70,52,420.0,Grass,Flying,Overgrow,N/A,Long Reach,2 HP,M (87.5%),Flying,N/A,45,Level 17
+724,Decidueye,78,107,75,100,100,70,530.0,Grass,Ghost,Overgrow,N/A,Long Reach,3 Atk,M (87.5%),Flying,N/A,45,Level 34
+724,Decidueye-Hisuian,88,112,80,95,95,60,530.0,Grass,Fighting,Overgrow,N/A,Long Reach,3 Atk,M (87.5%),Flying,N/A,N/A,Level 36 (Hisui Only)
+725,Litten,45,65,40,60,40,70,320.0,Fire,N/A,Blaze,N/A,Intimidate,1 Spd,M (87.5%),Field,N/A,45,N/A
+726,Torracat,65,85,50,80,50,90,420.0,Fire,N/A,Blaze,N/A,Intimidate,2 Spd,M (87.5%),Field,N/A,45,Level 17
+727,Incineroar,95,115,90,80,90,60,530.0,Fire,Dark,Blaze,N/A,Intimidate,3 Atk,M (87.5%),Field,N/A,45,Level 34
+728,Popplio,50,54,54,66,56,40,320.0,Water,N/A,Torrent,N/A,Liquid Voice,1 SpA,M (87.5%),Water 1,Field,45,N/A
+729,Brionne,60,69,69,91,81,50,420.0,Water,N/A,Torrent,N/A,Liquid Voice,2 SpA,M (87.5%),Water 1,Field,45,Level 17
+730,Primarina,80,74,74,126,116,60,530.0,Water,Fairy,Torrent,N/A,Liquid Voice,3 SpA,M (87.5%),Water 1,Field,45,Level 34
+731,Pikipek,35,75,30,30,30,65,265.0,Normal,Flying,Keen Eye,Skill Link,Pickup,1 Atk,Neutral,Flying,N/A,255,N/A
+732,Trumbeak,55,85,50,40,50,75,355.0,Normal,Flying,Keen Eye,Skill Link,Pickup,2 Atk,Neutral,Flying,N/A,120,Level 14
+733,Toucannon,80,120,75,75,75,60,485.0,Normal,Flying,Keen Eye,Skill Link,Sheer Force,3 Atk,Neutral,Flying,N/A,45,Level 28
+734,Yungoos,48,70,30,30,30,45,253.0,Normal,N/A,Stakeout,Strong Jaw,Adaptability,1 Atk,Neutral,Field,N/A,255,N/A
+735,Gumshoos,88,110,60,55,60,45,418.0,Normal,N/A,Stakeout,Strong Jaw,Adaptability,2 Atk,Neutral,Field,N/A,127,"Level 20, Day"
+736,Grubbin,47,62,45,55,45,46,300.0,Bug,N/A,Swarm,N/A,N/A,1 Atk,Neutral,Bug,N/A,255,N/A
+737,Charjabug,57,82,95,55,75,36,400.0,Bug,N/A,Battery,N/A,N/A,2 Def,Neutral,Bug,N/A,120,Level 20
+738,Vikavolt,77,70,90,145,75,43,500.0,Bug,Electric,Levitate,N/A,N/A,3 SpA,Neutral,Bug,N/A,45,Magnet Field or Thunderstone
+739,Crabrawler,47,82,57,42,47,63,338.0,Fighting,N/A,Hyper Cutter,Iron Fist,Anger Point,1 Atk,Neutral,Water 3,N/A,255,N/A
+740,Mega Crabominable,97,157,122,62,107,33,578.0,Fighting,Ice,Iron Fist,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+740,Crabominable,97,132,77,62,67,43,478.0,Fighting,Ice,Hyper Cutter,Iron Fist,Anger Point,2 Atk,Neutral,Water 3,N/A,60,Level up in Mount Lanakila
+741,Baile Oricorio,75,70,70,98,70,93,476.0,Fire,Flying,Dancer,N/A,N/A,2 SpA,F (75%),N/A,N/A,N/A,N
+741,Pa'u Oricorio,75,70,70,98,70,93,476.0,Psychic,Flying,Dancer,N/A,N/A,2 SpA,F (75%),N/A,N/A,N/A,N
+741,Pom Oricorio,75,70,70,98,70,93,476.0,Electric,Flying,Dancer,N/A,N/A,2 SpA,F (75%),Flying,N/A,45,N
+741,Sen. Oricorio,75,70,70,98,70,93,476.0,Ghost,Flying,Dancer,N/A,N/A,2 SpA,F (75%),N/A,N/A,N/A,N
+742,Cutiefly,40,45,40,55,40,84,304.0,Bug,Fairy,Honey Gather,Sheild Dust,Sweet Veil,1 Spd,Neutral,Bug,Fairy,190,N/A
+743,Ribombee,60,55,60,95,70,124,464.0,Bug,Fairy,Honey Gather,Sheild Dust,Sweet Veil,2 Spd,Neutral,Bug,Fairy,75,Level 25
+744,Dusk Rockruff,45,65,40,30,40,60,280.0,Rock,N/A,Own Tempo,N/A,N/A,1 Atk,Neutral,N/A,N/A,N/A,N/A
+744,Rockruff,45,65,40,30,40,60,280.0,Rock,N/A,Keen Eye,Vital Spirit,Steadfast,1 Atk,Neutral,Field,N/A,190,N/A
+745,Day Lycanroc,75,115,65,55,65,112,487.0,Rock,N/A,Keen Eye,Sand Rush,Steadfast,2 Atk,Neutral,Field,N/A,90,"Level 25, Day"
+745,Dusk Lycanroc,75,117,65,55,65,110,487.0,Rock,N/A,Tough Claws,N/A,N/A,2 Atk,Neutral,N/A,N/A,N/A,"Own Tempo Level 25, 7-7:59pm"
+745,Midnight Lycanroc,85,115,75,55,75,82,487.0,Rock,N/A,Keen Eye,Vital Spirit,No Guard,2 Atk,Neutral,N/A,N/A,N/A,Level 25 Night
+746,S Wishiwashi,45,140,130,140,135,30,620.0,Water,N/A,Schooling,N/A,N/A,1 HP,Neutral,N/A,N/A,N/A,N
+746,Wishiwashi,45,20,20,25,25,40,175.0,Water,N/A,Schooling,N/A,N/A,1 HP,Neutral,Water 2,N/A,60,N
+747,Mareanie,50,53,62,43,52,45,305.0,Poison,Water,Merciless,Limber,Regenerator,1 Def,Neutral,Water 1,N/A,190,N/A
+748,Toxapex,50,63,152,53,142,35,495.0,Poison,Water,Merciless,Limber,Regenerator,2 Def,Neutral,Water 1,N/A,75,Level 38
+749,Mudbray,70,100,70,45,55,45,385.0,Ground,N/A,Own Tempo,Stamina,Inner Focus,1 Atk,Neutral,Field,N/A,190,N/A
+750,Mudsdale,100,125,100,55,85,35,500.0,Ground,N/A,Own Tempo,Stamina,Inner Focus,2 Atk,Neutral,Field,N/A,60,Level 30
+751,Dewpider,38,40,52,40,72,27,269.0,Water,Bug,Water Bubble,N/A,Water Absorb,1 SpD,Neutral,Water 1,Bug,200,N/A
+752,Araquanid,68,70,92,50,132,42,454.0,Water,Bug,Water Bubble,N/A,Water Absorb,2 SpD,Neutral,Water 1,Bug,100,Level 22
+753,Fomantis,40,55,35,50,35,35,250.0,Grass,N/A,Leaf Guard,N/A,Contrary,1 Atk,Neutral,Grass,N/A,190,N/A
+754,Lurantis,70,105,90,80,90,45,480.0,Grass,N/A,Leaf Guard,N/A,Contrary,2 Atk,Neutral,Grass,N/A,75,"Level 34, Day"
+755,Morelull,40,35,55,65,75,15,285.0,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,1 SpD,Neutral,Grass,N/A,190,N/A
+756,Shiinotic,60,45,80,90,100,30,405.0,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,2 SpD,Neutral,Grass,N/A,75,Level 24
+757,Salandit,48,44,40,71,40,77,320.0,Poison,Fire,Corrosion,N/A,Oblivious,1 Spd,M (87.5%),Monster,Dragon,120,N/A
+758,Salazzle,68,64,60,111,60,117,480.0,Poison,Fire,Corrosion,N/A,Oblivious,2 Spd,F (100%),Monster,Dragon,45,"Level 33, Female Only"
+759,Stufful,70,75,50,45,50,50,340.0,Normal,Fighting,Fluffy,Klutz,Cute Charm,1 Atk,Neutral,Field,N/A,140,N/A
+760,Bewear,120,125,80,55,60,60,500.0,Normal,Fighting,Fluffy,Klutz,Unnerve,2 Atk,Neutral,Field,N/A,70,Level 27
+761,Bounsweet,42,30,38,30,38,32,210.0,Grass,N/A,Leaf Guard,Oblivious,Sweet Veil,1 HP,F (100%),Grass,N/A,235,N/A
+762,Steenee,52,40,48,40,48,62,290.0,Grass,N/A,Leaf Guard,Oblivious,Sweet Veil,2 Spd,F (100%),Grass,N/A,120,Level 18
+763,Tsareena,72,120,98,50,98,72,510.0,Grass,N/A,Leaf Guard,Queenly Majesty,Sweet Veil,3 Atk,F (100%),Grass,N/A,45,"Level Up, knows Stomo"
+764,Comfey,51,52,90,82,110,100,485.0,Fairy,N/A,Flower Veil,Triage,Natural Cure,2 SpD,F (75%),Grass,N/A,60,N
+765,Oranguru,90,60,80,90,110,60,490.0,Normal,Psychic,Inner Focus,Telepathy,Symbiosis,2 SpD,Neutral,Field,N/A,45,N
+766,Passimian,100,120,90,40,60,80,490.0,Fighting,N/A,Receiver,N/A,Defiant,2 Atk,Neutral,Field,N/A,45,N
+767,Wimpod,25,35,40,20,30,80,230.0,Bug,Water,Wimp Out,N/A,N/A,1 Spd,Neutral,Bug,Water 3,90,N/A
+768,Mega Golisopod,75,150,175,70,120,40,630.0,Bug,Steel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+768,Golisopod,75,125,140,60,90,40,530.0,Bug,Water,Emergency Exit,N/A,N/A,2 Def,Neutral,Bug,Water 3,45,Level 30
+769,Sandygast,55,55,80,70,45,15,320.0,Ghost,Ground,Water Compaction,N/A,Sand Veil,1 Def,Neutral,Amorphous,N/A,140,N/A
+770,Palossand,85,75,110,100,75,35,480.0,Ghost,Ground,Water Compaction,N/A,Sand Veil,2 Def,Neutral,Amorphous,N/A,60,Level 42
+771,Pyukumuku,55,60,130,30,130,5,410.0,Water,N/A,Innards Out,N/A,Unaware,2 SpD,Neutral,Water 1,N/A,60,N
+772,Type: Null,95,95,95,95,95,59,534.0,Normal,N/A,Battle Armor,N/A,N/A,2 HP,Neutral,-,N/A,3,N/A
+773,Silvally,95,95,95,95,95,95,570.0,Normal,N/A,RKS System,N/A,N/A,3 HP,Neutral,-,N/A,3,High Friendship
+774,Minior Core,60,100,60,100,60,120,500.0,Rock,Flying,Shields Down,N/A,N/A,"1 Atk, 1 SpA",N/A,N/A,N/A,N/A,N
+774,Minior,60,60,100,60,100,60,440.0,Rock,Flying,Shields Down,N/A,N/A,"1 Def, 1 SpD",Neutral,Mineral,N/A,30,N
+775,Komala,65,115,65,75,95,65,480.0,Normal,N/A,Comatose,N/A,N/A,2 Atk,Neutral,Field,N/A,45,N
+776,Turtonator,60,78,135,91,85,36,485.0,Fire,Dragon,Shell Armor,N/A,N/A,2 Def,Neutral,Monster,Dragon,70,N
+777,Togedemaru,65,98,63,40,73,96,435.0,Electric,Steel,Iron Barbs,Lightning Rod,Sturdy,2 Atk,Neutral,Field,Fairy,180,N
+778,Mimikyu,55,90,80,50,105,96,476.0,Ghost,Fairy,DIsguise,N/A,N/A,2 SpD,Neutral,Amorphous,N/A,45,N
+779,Bruxish,68,105,70,70,70,92,475.0,Water,Psychic,Dazzling,Strong Jaw,Wonder Skin,2 Atk,Neutral,Water 2,N/A,80,N
+780,Mega Drampa,78,85,110,160,116,36,585.0,Normal,Dragon,Berserk,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+780,Drampa,78,60,85,135,91,36,485.0,Normal,Dragon,Berserk,Sap Sipper,Cloud Nine,2 SpA,Neutral,Monster,Dragon,70,N
+781,Dhelmise,70,131,100,86,90,40,517.0,Ghost,Grass,Steelworker,N/A,N/A,2 Atk,N/A,Mineral,N/A,25,N
+782,Jangmo-o,45,55,65,45,45,45,300.0,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,1 Def,Neutral,Dragon,N/A,45,N/A
+783,Hakamo-o,55,75,90,65,70,65,420.0,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,2 Def,Neutral,Dragon,N/A,45,Level 35
+784,Kommo-o,75,110,125,100,105,85,600.0,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,3 Def,Neutral,Dragon,N/A,45,Level 45
+785,Tapu Koko,70,115,85,95,75,130,570.0,Electric,Fairy,Electric Surge,N/A,Telepathy,3 Spd,N/A,-,N/A,3,N
+786,Tapu Lele,70,85,75,130,115,95,570.0,Psychic,Fairy,Psychic Surge,N/A,Telepathy,3 SpA,N/A,-,N/A,3,N
+787,Tapu Bulu,70,130,115,85,95,75,570.0,Grass,Fairy,Grassy Surge,N/A,Telepathy,3 Atk,N/A,-,N/A,3,N
+788,Tapu Fini,70,75,115,95,130,85,570.0,Water,Fairy,Misty Surge,N/A,Telepathy,3 SpD,N/A,-,N/A,3,N
+789,Cosmog,43,29,31,29,31,37,200.0,Psychic,N/A,Unaware,N/A,N/A,1 HP,N/A,-,N/A,45,N/A
+790,Cosmoem,43,29,131,29,131,37,400.0,Psychic,N/A,Sturdy,N/A,N/A,"1 Def, 1 SpD",N/A,-,N/A,45,Level 43
+791,Solgaleo,137,137,107,113,89,97,680.0,Psychic,Steel,Full Metal Body,N/A,N/A,3 Atk,N/A,-,N/A,45,"Level 53 (Sun, U-Sun, Sword)"
+792,Lunala,137,113,89,137,107,97,680.0,Psychic,Ghost,Shadow Shield,N/A,N/A,3 SpA,N/A,-,N/A,45,"Level 53 (Moon, U-Moon, Shield)"
+793,Nihilego,109,53,47,127,131,103,570.0,Rock,Poison,Beast Boost,N/A,N/A,3 SpD,N/A,-,N/A,45,N
+794,Buzzwole,107,139,139,53,53,79,570.0,Bug,Fighting,Beast Boost,N/A,N/A,"1 Atk, 2 Def",N/A,-,N/A,45,N
+795,Pheromosa,71,137,37,137,37,151,570.0,Bug,Fighting,Beast Boost,N/A,N/A,3 Spd,N/A,-,N/A,45,N
+796,Xurkitree,83,89,71,173,71,83,570.0,Electric,N/A,Beast Boost,N/A,N/A,3 SpA,N/A,-,N/A,45,N
+797,Celesteela,97,101,103,107,101,61,570.0,Steel,Flying,Beast Boost,N/A,N/A,"1 Atk, 1 Def, 1 SpA",N/A,-,N/A,45,N
+798,Kartana,59,181,131,59,31,109,570.0,Grass,Steel,Beast Boost,N/A,N/A,3 Atk,N/A,-,N/A,45,N
+799,Guzzlord,223,101,53,97,53,43,570.0,Dragon,Dark,Beast Boost,N/A,N/A,3 HP,N/A,-,N/A,45,N
+800,U Necrozma,97,167,97,167,97,129,754.0,Psychic,Dragon,Neuroforce,N/A,N/A,"1 Atk, 1 SpA, 1 Spd",N/A,N/A,N/A,N/A,N
+800,DM Necrozma,97,157,127,113,109,77,680.0,Psychic,Steel,Prism Armor,N/A,N/A,3 Atk,N/A,N/A,N/A,N/A,N
+800,DW Necrozma,97,113,109,157,127,77,680.0,Psychic,Ghost,Prism Armor,N/A,N/A,3 SpA,N/A,N/A,N/A,N/A,N
+800,Necrozma,97,107,101,127,89,79,600.0,Psychic,N/A,Prisim Armor,N/A,N/A,"1 Atk, 2 SpA",N/A,-,N/A,255,N
+801,Mega Magearna,80,125,115,170,115,95,700.0,Steel,Fairy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+801,Magearna,80,95,115,130,115,65,600.0,Steel,Fairy,Soul Heart,N/A,N/A,3 SpA,N/A,-,N/A,3,N
+802,Marshadow,90,125,80,90,90,125,600.0,Fighting,Ghost,Technician,N/A,N/A,2 Atk,N/A,-,N/A,3,N
+803,Poipole,67,73,67,73,67,73,420.0,Poison,N/A,Beast Boost,N/A,N/A,1 Spd,N/A,-,N/A,45,N/A
+804,Naganadel,73,73,73,127,73,121,540.0,Poison,Dragon,Beast Boost,N/A,N/A,3 SpA,N/A,-,N/A,45,"Level Up, Knows Dragon Pulse"
+805,Stakataka,61,131,211,53,101,13,570.0,Rock,Steel,Beast Boost,N/A,N/A,3 Def,N/A,-,N/A,30,N
+806,Blacephalon,53,127,53,151,79,107,570.0,Fire,Ghost,Beast Boost,N/A,N/A,3 SpA,N/A,-,N/A,30,N
+807,Mega Zeraora,88,157,75,147,80,153,700.0,Electric,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+807,Zeraora,88,112,75,102,80,143,600.0,Electric,N/A,Volt Absorb,N/A,N/A,3 Spd,N/A,-,N/A,3,N
+808,Meltan,46,65,65,55,35,34,300.0,Steel,N/A,Magnet Pull,N/A,N/A,1 Atk,N/A,-,N/A,3,N/A
+809,Melmetal,135,143,143,80,65,34,600.0,Steel,N/A,Iron Fist,N/A,N/A,3 Atk,N/A,-,N/A,3,400 Meltan Candy (GO Only)
+810,Grookey,50,65,50,40,40,65,310.0,Grass,N/A,Overgrow,N/A,Grassy Surge,1 Atk,M (87.5%),Field,Grass,45,N/A
+811,Thwackey,70,85,70,55,60,80,420.0,Grass,N/A,Overgrow,N/A,Grassy Surge,2 Atk,M (87.5%),Field,Grass,45,Level 16
+812,Rillaboom,100,125,90,60,70,85,530.0,Grass,N/A,Overgrow,N/A,Grassy Surge,3 Atk,M (87.5%),Field,Grass,45,Level 35
+813,Scorbunny,50,71,40,40,40,69,310.0,Fire,N/A,Blaze,N/A,Libero,1 Spd,M (87.5%),Field,Human-like,45,N/A
+814,Raboot,65,86,60,55,60,94,420.0,Fire,N/A,Blaze,N/A,Libero,2 Spd,M (87.5%),Field,Human-like,45,Level 16
+815,Cinderace,80,116,75,65,75,119,530.0,Fire,N/A,Blaze,N/A,Libero,3 Spd,M (87.5%),Field,Human-like,45,Level 35
+816,Sobble,50,40,40,70,40,70,310.0,Water,N/A,Torrent,N/A,Sniper,"1 SpD, 1 Spd",M (87.5%),Water 1,Field,45,N/A
+817,Drizzile,65,60,55,95,55,90,420.0,Water,N/A,Torrent,N/A,Sniper,2 SpA,M (87.5%),Water 1,Field,45,Level 16
+818,Inteleon,70,85,65,125,65,120,530.0,Water,N/A,Torrent,N/A,Sniper,3 Spd,M (87.5%),Water 1,Field,45,Level 35
+819,Skwovet,70,55,55,35,35,25,275.0,Normal,N/A,Cheek Pouch,N/A,Gluttony,1 HP,Neutral,Field,N/A,255,N/A
+820,Greedent,120,95,95,55,75,20,460.0,Normal,N/A,Cheek Pouch,N/A,Gluttony,2 HP,Neutral,Field,N/A,90,Level 24
+821,Rookidee,38,47,35,33,35,57,245.0,Flying,N/A,Keen Eye,Unnerve,Big Pecks,1 Spd,Neutral,Flying,N/A,255,N/A
+822,Corvisquire,68,67,55,43,55,77,365.0,Flying,N/A,Keen Eye,Unnerve,Big Pecks,2 Spd,Neutral,Flying,N/A,120,Level 18
+823,Corviknight,98,87,105,53,85,67,495.0,Flying,Steel,Pressure,Unnerve,Mirror Armor,3 Def,Neutral,Flying,N/A,45,Level 38
+824,Blipibug,25,20,20,25,45,45,180.0,Bug,N/A,Swarm,Compound Eyes,Telepathy,1 SpD,Neutral,Bug,N/A,255,N/A
+825,Dottler,50,35,80,50,90,30,335.0,Bug,N/A,Swarm,Compound Eyes,Telepathy,2 SpD,Neutral,Bug,N/A,120,Level 10
+826,Orbeetle,60,45,110,80,120,90,505.0,Bug,Psychic,Swarm,Frisk,Telepathy,3 SpD,Neutral,Bug,N/A,45,Level 30
+827,Nickit,40,28,28,47,52,50,245.0,Dark,N/A,Run Away,Unburden,Stakeout,1 SpD,Neutral,Field,N/A,255,N/A
+828,Theivul,70,58,58,87,92,90,455.0,Dark,N/A,Run Away,Unburden,Stakeout,2 SpD,Neutral,Field,N/A,127,Level 18
+829,Gossifleur,40,40,60,40,60,10,250.0,Grass,N/A,Cotton Down,Regenerator,Effect Spore,1 SpD,Neutral,Grass,N/A,190,N/A
+830,Eldegoss,60,50,90,80,120,60,460.0,Grass,N/A,Cotton Down,Regenerator,Effect Spore,2 SpD,Neutral,Grass,N/A,75,Level 20
+831,Wooloo,42,40,55,40,45,48,270.0,Normal,N/A,Fluffy,Run Away,Bulletproof,1 Def,Neutral,Field,N/A,255,N/A
+832,Dubwool,72,80,100,60,90,88,490.0,Normal,N/A,Fluffy,Steadfast,Bulletproof,2 Def,Neutral,Field,N/A,127,Level 24
+833,Chewtle,50,64,50,38,38,44,284.0,Water,N/A,Strong Jaw,Shell Armor,Swift Swim,1 Atk,Neutral,Monster,Water 1,255,N/A
+834,Drednaw,90,115,90,48,68,74,485.0,Water,Rock,Strong Jaw,Shell Armor,Swift Swim,2 Atk,Neutral,Monster,Water 1,75,Level 22
+835,Yamper,59,45,50,40,50,26,270.0,Electric,N/A,Ball Fetch,N/A,Rattled,1 HP,Neutral,Field,N/A,255,N/A
+836,Boltund,69,90,60,90,60,121,490.0,Electric,N/A,Strong Jaw,N/A,Competitive,2 Spd,Neutral,Field,N/A,45,Level 25
+837,Rolycoly,30,40,50,40,50,30,240.0,Rock,N/A,Steam Engine,Heatproof,Flash Fire,1 Def,Neutral,Mineral,N/A,255,N/A
+838,Carkol,80,60,90,60,70,50,410.0,Rock,Fire,Steam Engine,Flame Body,Flash Fire,2 Def,Neutral,Mineral,N/A,120,Level 18
+839,Coalossal,110,80,120,80,90,30,510.0,Rock,Fire,Steam Engine,Flame Body,Flash Fire,3 Def,Neutral,Mineral,N/A,45,Level 34
+840,Applin,40,40,80,40,40,20,260.0,Grass,Dragon,Ripen,Gluttony,Bulletproof,1 Def,Neutral,Grass,Dragon,255,N/A
+841,Flapple,70,110,80,95,60,70,485.0,Grass,Dragon,Ripen,Gluttony,Hustle,2 Atk,Neutral,Grass,Dragon,45,Tart Apple
+842,Applerun,110,85,80,100,80,30,485.0,Grass,Dragon,Ripen,Gluttony,Thick Fat,2 HP,Neutral,Grass,Dragon,45,Sweet Apple
+843,Silicobra,52,57,75,35,50,46,315.0,Ground,N/A,Sand Spit,Shed Skin,Sand Veil,1 Def,Neutral,Field,Dragon,255,N/A
+844,Sandaconda,72,107,125,65,70,71,510.0,Ground,N/A,Sand Spit,Shed Skin,Sand Veil,2 Def,Neutral,Field,Dragon,120,Level 36
+845,Cramorant,70,85,55,85,95,85,475.0,Flying,Water,Gulp Missile,N/A,N/A,2 SpD,Neutral,Water 1,Flying,45,N
+846,Arrokuda,41,63,40,40,30,66,280.0,Water,N/A,Swift Swim,N/A,Propeller Tail,1 Spd,Neutral,Water 2,N/A,255,N/A
+847,Barraskewda,61,123,60,60,50,136,490.0,Water,N/A,Swift Swim,N/A,Propeller Tail,2 Spd,Neutral,Water 2,N/A,60,Level 26
+848,Toxel,40,38,35,54,35,40,242.0,Electric,Poison,Rattled,Static,Klutz,1 SpA,Neutral,-,N/A,75,N/A
+849,Toxtricity A,75,98,70,114,70,75,502.0,Electric,Poison,Punk Rock,Plus,Flame Body,2 SpA,Neutral,Human-like,N/A,45,"Level 30, Hardy, Brave, Adamant, Naughty, Docile, Impish, Lax, Hasty, Jolly, Naive, Rash, Sassy, or Quirky."
+849,Toxtricity Low,75,98,70,114,70,75,502.0,Poison,Electric,Punk Rock,Minus,Technician,2 SpA,Neutral,N/A,N/A,N/A,"Level 30, Lonely, Bold, Relaxed, Timid, Serious, Modest, Mild, Quiet, Bashful, Calm, Gentle, or Careful."
+850,Sizzlipede,50,65,45,50,50,45,305.0,Fire,Bug,Flash Fire,White Smoke,Flame Body,1 Atk,Neutral,Bug,N/A,190,N/A
+851,Centiskorch,100,115,65,90,90,65,525.0,Fire,Bug,Flash Fire,White Smoke,Flame Body,2 Atk,Neutral,Bug,N/A,75,Level 28
+852,Clobbopus,50,68,60,50,50,32,310.0,Fighting,N/A,Limber,N/A,Technician,1 Atk,Neutral,Water 1,Human-like,180,N/A
+853,Grapploct,80,118,90,70,80,42,480.0,Fighting,N/A,Limber,N/A,Technician,2 Atk,Neutral,Water 1,Human-like,45,"Level Up, Knows Taunt"
+854,Sinistea,40,45,45,74,54,50,308.0,Ghost,N/A,Weak Armor,N/A,Cursed Body,1 SpA,N/A,Mineral,Amorphous,120,N/A
+855,Polteageist,60,65,65,134,114,70,508.0,Ghost,N/A,Weak Armor,N/A,Cursed Body,2 SpA,N/A,Mineral,Amorphous,60,Cracked or Chipped Pot
+856,Hatenna,42,30,45,56,53,39,265.0,Psychic,N/A,Healer,Anticipation,Magic Bounce,1 SpA,F (100%),Fairy,N/A,235,N/A
+857,Hattrem,57,40,65,86,73,49,370.0,Psychic,N/A,Healer,Anticipation,Magic Bounce,2 SpA,F (100%),Fairy,N/A,120,Level 32
+858,Hatterene,57,90,95,136,103,29,510.0,Psychic,Fairy,Healer,Anticipation,Magic Bounce,3 SpA,F (100%),Fairy,N/A,45,Level 42
+859,Impidimp,45,45,30,55,40,50,265.0,Dark,Fairy,Prankster,Frisk,Pickpocket,1 SpA,M (100%),Fairy,Human-like,255,N/A
+860,Morgrem,65,60,45,75,55,70,370.0,Dark,Fairy,Prankster,Frisk,Pickpocket,2 SpA,M (100%),Fairy,Human-like,120,Level 32
+861,Grimmsnarl,95,120,65,95,75,60,510.0,Dark,Fairy,Prankster,Frisk,Pickpocket,3 Atk,M (100%),Fairy,Human-like,45,Level 42
+862,Obstagoon,93,90,101,60,81,95,520.0,Dark,Normal,Reckless,Guts,Defiant,3 Def,Neutral,Field,N/A,45,"Level 35, Night"
+863,Perrserker,70,110,100,50,60,50,440.0,Steel,N/A,Battle Armor,Tough Claws,Steely Spirit,2 Atk,Neutral,Field,N/A,90,Level 28
+864,Cursola,60,95,50,145,130,30,510.0,Ghost,N/A,Weak Armor,N/A,Perish Body,2 SpA,F (75%),Water 1,Water 3,30,Level 38
+865,Sirfetch'd,62,135,95,68,82,65,507.0,Fighting,N/A,Steadfast,N/A,Scrappy,2 Atk,Neutral,Flying,Field,45,Land 3 Criticals in a battle
+866,Mr. Rime,80,85,75,110,100,70,520.0,Ice,Fairy,Tangled Feet,Screen Cleaner,Ice Body,3 SpA,Neutral,Human-like,N/A,45,Level 42
+867,Runerigus,58,95,145,50,105,30,483.0,Ground,Ghost,Wandering Spirit,N/A,N/A,2 Def,Neutral,Mineral,Amorphous,90,"-49 HP w/out Faint, Dusty Bowl"
+868,Milcrey,45,40,40,50,61,34,270.0,Fairy,N/A,Sweet Veil,N/A,Aroma Veil,1 SpD,F (100%),Fairy,Amorphous,200,N/A
+869,Alcremie,65,60,75,110,121,64,495.0,Fairy,N/A,Sweet Veil,N/A,Aroma Veil,2 SpD,F (100%),Fairy,Amorphous,100,"Spin Time, Time of Day, Item Dependant"
+870,Falinks,65,100,100,70,60,75,470.0,Fighting,N/A,Battle Armor,N/A,Defiant,"2 Atk, 1 SpD",N/A,Fairy,Mineral,45,N
+871,Mega Falinks,65,135,135,70,65,100,570.0,Fighting,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+871,Pinurchin,48,101,95,91,85,15,435.0,Electric,N/A,Lightning Rod,N/A,Electric Surge,2 Atk,Neutral,Water 1,Amorphous,75,N
+872,Snom,30,25,35,45,30,20,185.0,Ice,Bug,Shield Dust,N/A,Ice Scales,1 SpA,Neutral,Bug,N/A,190,N/A
+873,Frosmoth,70,65,60,125,90,65,475.0,Ice,Bug,Shield Dust,N/A,Ice Scales,2 SpA,Neutral,Bug,N/A,75,"High Friendship, Night"
+874,Stonjourner,100,125,135,20,20,70,470.0,Rock,N/A,Power Spot,N/A,N/A,2 Def,Neutral,Mineral,N/A,60,N
+875,Eiscue,75,80,110,65,90,50,470.0,Ice,N/A,Ice Face,N/A,N/A,2 Def,Neutral,Water 1,Field,60,N
+875,Eiscue No Ice,75,80,70,65,50,130,470.0,Ice,N/A,Ice Face,N/A,N/A,2 Def,Neutral,N/A,N/A,N/A,N
+876,F Indeedee,70,55,65,95,105,85,475.0,Psychic,Normal,Own Tempo,Synchronize,Psychic Surge,2 SpD,M (100%),N/A,N/A,N/A,N
+876,M Indeedee,60,65,55,105,95,95,475.0,Psychic,N/A,Inner Focus,Synchronize,Psychic Surge,2 SpA,M (100%),Fairy,N/A,30,N
+877,Morpeko,58,95,58,70,58,97,436.0,Electric,Dark,Hunger Switch,N/A,N/A,2 Spd,Neutral,Field,Fairy,180,N
+878,Cufant,72,80,49,40,49,40,330.0,Steel,N/A,Sheer Force,N/A,Heavy Metal,1 Atk,Neutral,Field,Mineral,190,N/A
+879,Copperajah,122,130,69,80,69,30,500.0,Steel,N/A,Sheer Force,N/A,Heavy Metal,2 Atk,Neutral,Field,Mineral,90,Level 34
+880,Dracozolt,90,100,90,80,70,75,505.0,Electric,Dragon,Volt Absorb,Hustle,Sand Rush,2 Atk,N/A,-,N/A,45,N
+881,Arctozolt,90,100,90,90,80,55,505.0,Electric,Ice,Volt Absorb,Static,Slush Rush,2 Atk,N/A,-,N/A,45,N
+882,Dracovish,90,90,100,70,80,75,505.0,Water,Dragon,Water Absorb,Strong Jaw,Sand Rush,2 Def,N/A,-,N/A,45,N
+883,Arctovish,90,90,100,80,90,55,505.0,Water,Ice,Water Absorb,Ice Body,Slush Rush,2 Def,N/A,-,N/A,45,N
+884,Duraludon,70,95,115,120,50,85,535.0,Steel,Dragon,Light Metal,Heavy Metal,Stalwart,2 SpA,Neutral,Mineral,Dragon,45,N
+885,Dreepy,28,60,30,40,30,82,270.0,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,1 Spd,Neutral,Amorphous,Dragon,45,N/A
+886,Drakloak,68,80,50,60,50,102,410.0,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,2 Spd,Neutral,Amorphous,Dragon,45,Level 50
+887,Dragapult,88,120,75,100,75,142,600.0,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,3 Spd,Neutral,Amorphous,Dragon,45,Level 60
+888,Zacian Crowned,92,150,115,80,115,148,700.0,Fairy,Steel,Intrepid Sword,N/A,N/A,3 Spd,F (100%),N/A,N/A,N/A,N
+888,Zacian (H),92,120,115,80,115,138,660.0,Fairy,N/A,Intrepid Sword,N/A,N/A,3 Spd,N/A,-,N/A,10,N
+889,Zamazenta Crowned,92,120,140,80,140,128,700.0,Fighting,Steel,Dauntless Shield,N/A,N/A,3 Spd,N/A,N/A,N/A,N/A,N
+889,Zamazenta (H),92,120,115,80,115,138,660.0,Fighting,N/A,Dauntless Shield,N/A,N/A,3 Spd,N/A,-,N/A,10,N
+890,Eternamax,255,115,250,125,250,130,1125.0,Poison,Dragon,Pressure,N/A,N/A,3 HP,N/A,N/A,N/A,N/A,N
+890,Eternatus,140,85,95,145,95,130,690.0,Poison,Dragon,Pressure,N/A,N/A,3 HP,N/A,-,N/A,255,N
+891,Kubfu,60,90,60,53,50,72,385.0,Fighting,N/A,Inner Focus,N/A,N/A,1 Atk,M (87.5%),-,N/A,3,N/A
+892,RS Urshifu,100,130,100,63,60,97,550.0,Water,Fighting,Unseen Fist,N/A,N/A,3 Atk,N/A,N/A,N/A,N/A,"Level 30, Water Scroll"
+892,Urshifu SS,100,130,100,63,60,97,550.0,Fighting,Dark,Unseen Fist,N/A,N/A,3 Atk,M (87.5%),-,N/A,3,"Level 30, Darkness Scroll"
+893,Zarude,105,120,105,70,95,105,600.0,Grass,N/A,Leaf Guard,N/A,N/A,3 Atk,N/A,-,N/A,3,N
+894,Regieleki,80,100,50,100,50,200,580.0,Electric,N/A,Transistor,N/A,N/A,3 Spd,N/A,-,N/A,3,N
+895,Regidrago,200,100,50,100,50,80,580.0,Dragon,N/A,Dragon's Maw,N/A,N/A,3 HP,N/A,-,N/A,3,N
+896,Glastrier,100,145,130,65,110,30,580.0,Ice,N/A,Chilling Neigh,N/A,N/A,3 Atk,N/A,-,N/A,3,N
+897,Spectrier,100,65,60,145,80,130,580.0,Ghost,N/A,Grim Neigh,N/A,N/A,3 SpA,N/A,-,N/A,3,N
+898,IR Calyrex,100,165,150,85,130,50,680.0,Psychic,Ice,As One,N/A,N/A,3 Atk,N/A,N/A,N/A,N/A,N
+898,SR Calyrex,100,85,80,165,100,150,680.0,Psychic,Ghost,As One,N/A,N/A,3 SpA,N/A,N/A,N/A,N/A,N
+898,Calyrex,100,80,80,80,80,80,500.0,Grass,Psychic,Unnerve,N/A,N/A,3 HP,N/A,-,N/A,3,N
+899,Wyrdeer,103,105,72,105,75,65,525.0,Normal,Psychic,Intimidate,Frisk,Sap Sipper,1 Atk,Neutral,Field,N/A,?,Agile Psyshield Bash x20
+900,Kleavor,70,130,95,45,75,85,500.0,Bug,Rock,Swarm,Sheer Force,Sharpness,2 Atk,Neutral,Bug,N/A,?,Black Augerite
+901,Ursaluna,130,140,105,45,80,50,550.0,Normal,Ground,Guts,Bulletproof,Unnerve,3 Atk,Neutral,Field,N/A,?,"Peat Block, Full Moon"
+902,FBasculegion,120,92,65,100,75,78,530.0,Water,Ghost,Rattled,Adaptability,Mold Breaker,2 HP,F (100%),N/A,N/A,N/A,"F, Recoil 294 HP w/out Faint"
+902,MBasculegion,120,112,65,80,75,78,530.0,Water,Ghost,Rattled,Adaptability,Mold Breaker,2 HP,M (100%),Water 2,N/A,?,"M, Recoil 294 HP w/out Faint"
+903,Sneasler,80,130,60,40,80,120,510.0,Poison,Fighting,Pressure,N/A,Poison Touch,"1 Atk, 1 Spd",Neutral,Field,N/A,?,Razor Claw during the Day
+904,Overqwil,85,115,95,65,65,85,510.0,Poison,Dark,Poison Point,Swift Swim,Intimidate,1 Atk,Neutral,Water 2,N/A,?,Strong Barb Barrage x20
+905,Enamorus,74,115,70,135,80,106,580.0,Fairy,Flying,Healer,N/A,Contrary,3 Spa,F (100%),-,N/A,?,N
+905,T Enamorous,74,115,110,135,100,46,580.0,Fairy,Flying,Overcoat,N/A,N/A,3 Atk,F (100%),N/A,N/A,N/A,N
+906,Sprigatito,40,61,54,45,45,65,310.0,Grass,N/A,Overgrow,N/A,Protean,1 Spd,M (87.5%),Field,Grass,45,N/A
+907,Floragato,61,80,63,60,63,83,410.0,Grass,N/A,Overgrow,N/A,Protean,2 Spd,M (87.5%),Field,Grass,45,Level 16
+908,Meowscarada,76,110,70,81,70,123,530.0,Grass,Dark,Overgrow,N/A,Protean,3 Spd,M (87.5%),Field,Grass,45,Level 36
+909,Fuecoco,67,45,59,63,43,36,313.0,Fire,N/A,Blaze,N/A,Unaware,1 HP,M (87.5%),Field,N/A,45,N/A
+910,Crocalor,81,55,78,90,58,49,411.0,Fire,N/A,Blaze,N/A,Unaware,2 SpA,M (87.5%),Field,N/A,45,Level 16
+911,Skeledirge,104,75,100,100,76,66,521.0,Fire,Ghost,Blaze,N/A,Unaware,3 SpA,M (87.5%),Field,N/A,45,Level 36
+912,Quaxly,55,65,45,50,45,50,310.0,Water,N/A,Torrent,N/A,Moxie,1 Atk,M (87.5%),Flying,Water 1,45,N/A
+913,Quaxwell,70,85,65,65,60,65,410.0,Water,N/A,Torrent,N/A,Moxie,2 Atk,M (87.5%),Flying,Water 1,45,Level 16
+914,Quaquaval,85,120,80,85,75,85,530.0,Water,Fighting,Torrent,N/A,Moxie,3 Atk,M (87.5%),Flying,Water 1,45,Level 36
+915,Lechonk,54,45,40,35,45,35,254.0,Normal,N/A,Aroma Veil,Gluttony,Thick Fat,1 HP,Neutral,Field,N/A,255,N/A
+916,Oinkologne-F,115,90,70,59,90,65,489.0,Normal,N/A,Aroma Veil,Gluttony,Thick Fat,2 HP,F (100%),N/A,N/A,N/A,"Level 18, Female"
+916,Oinkologne-M,110,100,75,59,80,65,489.0,Normal,N/A,Lingering Aroma,Gluttony,Thick Fat,2 HP,M (100%),Field,N/A,100,"Level 18, Male"
+917,Tarountula,35,41,45,29,40,20,210.0,Bug,N/A,Insomnia,N/A,Stakeout,1 Def,Neutral,Bug,N/A,255,N/A
+918,Spidops,60,79,92,52,86,35,404.0,Bug,N/A,Insomnia,N/A,Stakeout,2 Def,Neutral,Bug,N/A,120,Level 15
+919,Nymble,33,46,40,21,25,45,210.0,Bug,N/A,Swarm,N/A,Tinted Lens,1 Atk,Neutral,Bug,N/A,190,N/A
+920,Lokix,71,102,78,52,55,92,450.0,Bug,Dark,Swarm,N/A,Tinted Lens,2 Atk,Neutral,Bug,N/A,30,Level 24
+921,Pawmi,45,50,20,40,25,60,240.0,Electric,N/A,Static,Natural Cure,Iron Fist,1 Spd,Neutral,Field,N/A,190,N/A
+922,Pawmo,60,75,40,50,40,85,350.0,Electric,Fighting,Volt Absorb,Natural Cure,Iron Fist,2 Spd,Neutral,Field,N/A,80,Level 18
+923,Pawmot,70,115,70,70,60,105,490.0,Electric,Fighting,Volt Absorb,Natural Cure,Iron Fist,3 Atk,Neutral,Field,N/A,45,"Let's Go, 1000 Steps"
+924,Tandemaus,50,50,45,40,45,75,305.0,Normal,N/A,Run Away,Pickup,Own Tempo,1 Spd,N/A,Field,Fairy,150,N/A
+925,Maushold,74,75,70,65,75,111,470.0,Normal,N/A,Friend Huard,Cheek Pouch,Technician,2 Spd,N/A,Field,Fairy,75,Level 25
+926,Fidough,37,55,70,30,55,65,312.0,Fairy,N/A,Own Tempo,N/A,Klutz,1 Spd,Neutral,Field,Mineral,190,N/A
+927,Dashbun,57,80,115,50,80,95,477.0,Fairy,N/A,Well-Baked Body,N/A,Aroma Veil,2 Spd,Neutral,Field,Mineral,90,Level 26
+928,Smoliv,41,35,45,58,51,30,260.0,Grass,Normal,Early Bird,N/A,Harvest,1 SpA,Neutral,Grass,N/A,255,N/A
+929,Dolliv,52,53,60,78,78,33,354.0,Grass,Normal,Early Bird,N/A,Harvest,2 SpA,Neutral,Grass,N/A,120,Level 25
+931,Squawkabilly,82,96,51,45,51,92,417.0,Normal,Flying,Intimidate,Hustle,Sheer Force,1 Atk,Neutral,Flying,N/A,190,N
+932,Nacli,55,55,75,35,35,28,283.0,Rock,N/A,Purifying Salt,Sturdy,Clear Body,1 Def,Neutral,Mineral,N/A,255,N/A
+933,Naclstack,60,60,100,35,65,35,355.0,Rock,N/A,Purifying Salt,Sturdy,Clear Body,2 Def,Neutral,Mineral,N/A,120,Level 24
+934,Palafin - Hero,100,160,97,106,87,100,650.0,Water,N/A,Zero to Hero,N/A,N/A,2 HP,Neutral,N/A,N/A,N/A,"Multiplayer, Following, level out while other player has Finizen out."
+934,Gargancl,100,100,130,45,90,35,500.0,Rock,N/A,Purifying Salt,Sturdy,Clear Body,3 Def,Neutral,Mineral,N/A,45,Level 38
+935,Charcadet,40,50,40,50,40,35,255.0,Fire,N/A,Flash Fire,N/A,Flame Body,1 SpA,Neutral,Human-Like,N/A,90,N/A
+936,Armarouge,85,60,100,125,80,75,525.0,Fire,Psychic,Flash Fire,N/A,Flame Body,2 SpA,Neutral,Human-Like,N/A,25,Auspicious Armor
+937,Ceruledge,75,125,80,60,100,85,525.0,Fire,Ghost,Flash Fire,N/A,Flame Body,2 Atk,Neutral,Human-Like,N/A,25,Malicious Armor
+938,Tadbulb,61,31,41,59,35,45,272.0,Electric,N/A,Own Tempo,Static,Damp,1 HP,Neutral,Water 1,N/A,190,N/A
+939,Bellibolt,109,64,91,103,83,45,495.0,Electric,N/A,Electromorphosis,Static,Damp,2 HP,Neutral,Water 1,N/A,50,Thunder Stone
+940,Wattrel,40,40,35,55,40,70,280.0,Flying,Electric,Wind Power,Volt Absorb,Competitive,1 Spd,Neutral,Water 1,Flying,180,N/A
+941,Kilowattrel,70,70,60,105,60,125,490.0,Flying,Electric,Wind Power,Volt Absorb,Competitive,2 Spd,Neutral,Water 1,Flying,90,Level 25
+942,Maschiff,60,78,60,40,51,51,340.0,Dark,N/A,Intimidate,Run Away,Stakeout,1 Atk,Neutral,Field,N/A,150,N/A
+943,Mabosstiff,80,120,90,60,70,85,505.0,Dark,N/A,Intimidate,Guard Dog,Stakeout,2 Atk,Neutral,Field,N/A,75,Level 30
+944,Shroodle,40,65,35,40,35,75,290.0,Poison,Normal,Unburden,Pickpocket,Prankster,1 Spd,Neutral,Field,N/A,190,N/A
+945,Grafaiai,63,95,65,80,72,110,485.0,Poison,Normal,Unburden,Pickpocket,Prankster,2 Spd,Neutral,Field,N/A,90,Level 28
+946,Bramblin,40,65,30,45,35,60,275.0,Grass,Ghost,Wind Rider,N/A,Infiltrator,1 Atk,Neutral,Grass,N/A,190,N/A
+947,Brambleghast,55,115,70,80,70,90,480.0,Grass,Ghost,Wind Rider,N/A,Infiltrator,2 Atk,Neutral,Grass,N/A,45,"Let's Go, 1000 Steps"
+948,Toedscool,40,40,35,50,100,70,335.0,Grass,Ground,Mycelium Might,N/A,N/A,1 SpD,Neutral,Grass,N/A,190,N/A
+949,Toedscruel,80,70,65,80,120,100,515.0,Grass,Ground,Mycelium Might,N/A,N/A,2 SpD,Neutral,Grass,N/A,90,Level 30
+950,Klawf,70,100,115,35,35,25,380.0,Rock,N/A,Anger Shell,Shell Armor,Regenerator,2 Def,Neutral,Water 3,N/A,120,N
+951,Capsakid,50,62,40,62,40,50,304.0,Grass,Fire,Chlorophyll,Insomnia,Klutz,1 Atk,Neutral,Grass,N/A,190,N/A
+952,Mega Scovillain,65,138,85,138,85,75,586.0,Grass,Fire,Spicy Spray,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+952,Scovillain,65,108,65,108,65,75,486.0,Grass,Fire,Chlorophyll,Insomnia,Moody,2 Atk,Neutral,Grass,N/A,75,Fire Stone
+953,Rellor,41,50,60,31,58,30,270.0,Bug,N/A,Compound Eyes,N/A,Shed Skin,1 Def,Neutral,Bug,N/A,190,N/A
+954,Rabsca,75,50,85,115,100,45,470.0,Bug,Psychic,Synchronize,N/A,Telepathy,2 SpA,Neutral,Bug,N/A,45,"Level, Let's Go 1000 Steps"
+955,Flittle,30,35,30,55,30,75,255.0,Psychic,N/A,Anticipation,Frisk,Speed Boost,1 Spd,Neutral,Flying,N/A,120,N/A
+956,Espathra,75,60,60,101,60,105,461.0,Psychic,N/A,Opportunist,Frisk,Speed Boost,2 Spd,Neutral,Flying,N/A,60,Level 35
+957,Tinkatink,50,45,45,35,64,58,297.0,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,1 SpD,F (100%),Fairy,N/A,190,N/A
+958,Tinkatuff,65,55,55,45,82,78,380.0,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,2 SpD,F (100%),Fairy,N/A,90,Level 24
+959,Tinkaton,85,75,77,70,105,94,506.0,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,3 SpD,F (100%),Fairy,N/A,45,Level 38
+960,Wiglett,10,55,25,35,25,95,245.0,Water,N/A,Gooey,Rattled,Sand Veil,1 Spd,Neutral,Water 3,N/A,255,N/A
+961,Wugtrio,35,100,50,50,70,120,425.0,Water,N/A,Gooey,Rattled,Sand Veil,2 Spd,Neutral,Water 3,N/A,50,Level 26
+962,Bombirdier,70,103,85,60,85,82,485.0,Flying,Dark,Big Pecks,Keen Eye,Rocky Payload,2 Atk,Neutral,Flying,N/A,25,N
+963,Finizen,70,45,40,45,40,75,315.0,Water,N/A,Water Veil,N/A,N/A,1 Spd,Neutral,Field,Water 2,200,N/A
+964,Palafin,100,70,72,53,62,100,457.0,Water,N/A,Zero to Hero,N/A,N/A,2 HP,Neutral,Field,Water 2,45,"Level 38, Multiplayer"
+965,Varoom,45,70,63,30,45,47,300.0,Poison,Steel,Overcoat,N/A,Slow Start,1 Atk,Neutral,Mineral,N/A,190,N/A
+966,Revaroom,80,119,90,54,67,90,500.0,Poison,Steel,Overcoat,N/A,Filter,2 Atk,Neutral,Mineral,N/A,75,Level 40
+967,Cyclizar,70,95,65,85,65,121,501.0,Dragon,Normal,Shed Skin,N/A,Regenerator,2 Spd,Neutral,Field,N/A,190,N
+968,Orthworm,70,85,145,60,55,65,480.0,Steel,N/A,Earth Eater,N/A,Sand Veil,2 Def,Neutral,Field,N/A,25,N
+969,Glimmet,48,35,42,105,60,60,350.0,Poison,Rock,Toxic Debris,N/A,Corrosion,1 SpA,Neutral,Mineral,N/A,70,N/A
+970,Mega Glimmora,83,90,105,150,96,101,625.0,Poison,Rock,Adaptability,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+970,Glimmora,83,55,90,130,81,86,525.0,Poison,Rock,Toxic Debris,N/A,Corrosion,2 SpA,Neutral,Mineral,N/A,25,Level 35
+971,Greavard,50,61,60,30,55,34,290.0,Ghost,N/A,Pickup,N/A,Fluffy,1 Atk,Neutral,Field,N/A,120,N/A
+972,Houndstone,72,101,100,50,97,68,488.0,Ghost,N/A,Sand Rush,N/A,Fluffy,2 Atk,Neutral,Field,N/A,60,"Level 30, Night"
+973,Flamigo,82,115,74,75,64,90,500.0,Flying,Fighting,Scrappy,Tangled Feet,Costar,2 Atk,Neutral,Flying,N/A,100,N
+974,Cetoddle,108,68,45,30,40,43,334.0,Ice,N/A,Thick Fat,Snow Cloak,Sheer Force,1 HP,Neutral,Field,N/A,150,N/A
+975,Cetitan,170,113,65,45,55,73,521.0,Ice,N/A,Thick Fat,Slush Rush,Sheer Force,2 HP,Neutral,Field,N/A,50,Ice Stone
+976,Veluza,90,102,73,78,65,70,478.0,Water,Psychic,Mold Breaker,N/A,Sharpness,2 Atk,Neutral,Water 2,N/A,100,N
+977,Dondozo,150,100,115,65,65,35,530.0,Water,N/A,Unaware,Oblivious,Water Veil,3 HP,Neutral,Water 2,N/A,25,N
+977,Gimmighoul - Roaming,45,30,25,75,45,80,300.0,Ghost,N/A,Run Away,N/A,N/A,???,N/A,N/A,N/A,N/A,???
+978,Mega Tatsugiri,68,65,90,135,125,92,575.0,Dragon,Water,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+978,Tatsugiri,68,50,60,120,95,82,475.0,Dragon,Water,Commander,N/A,Storm Drain,2 SpA,Neutral,Water 2,N/A,100,N
+979,Annihilape,110,115,80,50,90,90,535.0,Fighting,Ghost,Vital Spirit,Inner Focus,Defiant,3 Atk,Neutral,Field,N/A,45,Use Rage Fist 20 times
+980,Clodsire,130,75,60,45,100,20,430.0,Poison,Ground,Poison Point,Water Absorb,Unaware,2 HP,Neutral,Water 1,Field,90,Level 20
+981,Farigaraf,120,90,70,110,70,60,520.0,Normal,Psychic,Cud Chew,Armor Tail,Sap Sipper,3 HP,Neutral,Field,N/A,45,"Level, knows Twin Beam"
+982,Dudunsparce,125,100,80,85,75,55,520.0,Normal,N/A,Serene Grace,Run Away,Rattled,2 HP,Neutral,Field,N/A,45,"Level, knows Hyper Drill"
+983,Kingambit,100,135,120,60,85,50,550.0,Dark,Steel,Defiant,Supreme Overlord,Pressure,3 Atk,Neutral,Human-Like,N/A,25,"Level, Defeat 3 Bisharp packs"
+984,Great Tusk,115,131,131,53,53,87,570.0,Ground,Fighting,Protosynthesis,N/A,N/A,3 Atk,N/A,-,N/A,30,N
+985,Scream Tail,115,65,99,65,115,111,570.0,Fairy,Psychic,Protosynthesis,N/A,N/A,3 HP,N/A,-,N/A,50,N
+986,Brute Bonnet,111,127,99,79,99,55,570.0,Grass,Dark,Protosynthesis,N/A,N/A,3 Atk,N/A,-,N/A,50,N
+987,Flutter Mane,55,55,55,135,135,135,570.0,Ghost,Fairy,Protosynthesis,N/A,N/A,"1 SpA, 1 SpD, 1 Spd",N/A,-,N/A,30,N
+988,Slither Wing,85,135,79,85,105,81,570.0,Bug,Fighting,Protosynthesis,N/A,N/A,3 Atk,N/A,-,N/A,30,N
+989,Sandy Shocks,85,81,97,121,85,101,570.0,Electric,Ground,Protosynthesis,N/A,N/A,3 SpA,N/A,-,N/A,30,N
+990,Iron Treads,90,112,120,72,70,106,570.0,Ground,Steel,Quark Drive,N/A,N/A,3 Def,N/A,-,N/A,30,N
+991,Iron Bundle,56,80,114,124,60,136,570.0,Ice,Water,Quark Drive,N/A,N/A,3 Spd,N/A,-,N/A,50,N
+992,Iron Hands,154,140,108,50,68,50,570.0,Fighting,Electric,Quark Drive,N/A,N/A,3 Atk,N/A,-,N/A,50,N
+993,Iron Jugulis,94,80,86,122,80,108,570.0,Dark,Flying,Quark Drive,N/A,N/A,3 SpA,N/A,-,N/A,30,N
+994,Iron Moth,80,70,60,140,110,110,570.0,Fire,Poison,Quark Drive,N/A,N/A,3 SpA,N/A,-,N/A,30,N
+995,Iron Thorns,100,134,110,70,84,72,570.0,Rock,Electric,Quark Drive,N/A,N/A,3 Atk,N/A,-,N/A,30,N
+996,Frigibax,65,75,45,35,45,55,320.0,Dragon,Ice,Thermal Exchange,N/A,Ice Body,1 Atk,Neutral,Dragon,Mineral,45,N/A
+997,Arctibax,90,95,66,45,65,62,423.0,Dragon,Ice,Thermal Exchange,N/A,Ice Body,2 Atk,Neutral,Dragon,Mineral,25,Level 35
+998,Mega Baxcalibur,115,175,117,105,101,87,700.0,Dragon,Ice,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+998,Baxcalibur,115,145,92,75,86,87,600.0,Dragon,Ice,Thermal Exchange,N/A,Ice Body,3 Atk,Neutral,Dragon,Mineral,10,Level 54
+999,Gimmighoul (Chest),45,30,70,75,70,10,300.0,Ghost,N/A,Rattled,N/A,N/A,1 SpA,N/A,-,N/A,45,N/A
+"1,000",Gholdengo,87,60,95,133,91,84,550.0,Ghost,Steel,Good as Gold,N/A,N/A,2 SpA,N/A,-,N/A,45,"Level, 999 Gimmighoul Coins"
+"1,001",Wo-Chien,85,85,100,95,165,70,600.0,Dark,Grass,Tablets of Ruin,N/A,N/A,3 SpD,N/A,-,N/A,6,N
+"1,002",Chien-Pao,80,120,80,90,65,135,570.0,Dark,Ice,Sword of Ruin,N/A,N/A,3 Spd,N/A,-,N/A,6,N
+"1,003",Ting-Lu,155,110,125,55,80,45,570.0,Dark,Ground,Vessel of Ruin,N/A,N/A,3 Def,N/A,-,N/A,6,N
+"1,004",Chi-Yu,55,80,80,135,120,100,570.0,Dark,Fire,Beads of Ruin,N/A,N/A,3 SpA,N/A,-,N/A,6,N
+"1,005",Roaring Moon,105,139,71,55,101,119,590.0,Dragon,Dark,Protosynthesis,N/A,N/A,3 Atk,N/A,-,N/A,10,N
+"1,006",Iron Valiant,74,130,90,120,60,116,590.0,Fighting,Fairy,Quark Drive,N/A,N/A,3 Atk,N/A,-,N/A,10,N
+"1,007",Koraidon,100,135,115,85,100,135,670.0,Fighting,Dragon,Orichalcum Pulse,N/A,N/A,3 Atk,N/A,-,N/A,3,N
+"1,008",Miraidon,100,85,100,135,115,135,670.0,Electric,Dragon,Hadron Engine,N/A,N/A,3 SpA,N/A,-,N/A,3,N
+"1,009",Walking Wake,99,83,91,125,83,109,590.0,Water,Dragon,Protosynthesis,N/A,N/A,3 SpA,N/A,-,N/A,5,N
+"1,010",Iron Leaves,90,130,88,70,108,104,590.0,Grass,Psychic,Quark Drive,N/A,N/A,3 Atk,N/A,-,N/A,5,N
+"1,011",Dipplin,80,80,110,95,80,40,485.0,Grass,Dragon,Supersweet Syrup,Gluttony,Sticky Hold,2 Def,Neutral,Grass,Dragon,45,N/A
+"1,012",Poltchageist,40,45,45,74,54,50,308.0,Grass,Ghost,Hospitality,N/A,Heatproof,1 SpA,N/A,Mineral,Amorphous,120,N/A
+"1,013",Sinistcha,71,60,106,121,80,70,508.0,Grass,Ghost,Hospitality,N/A,Heatproof,2 SpA,N/A,Mineral,Amorphous,60,Unremarkable or Master Piece Teacup
+"1,014",Okidogi,88,128,115,58,86,80,555.0,Poison,Fighting,Toxic Chain,N/A,Guard Dog,3 Atk,M (100%),-,N/A,3,N
+"1,015",Munkidori,88,75,66,130,90,106,555.0,Poison,Psychic,Toxic Chain,N/A,Frisk,3 SpA,M (100%),-,N/A,3,N
+"1,016",Fezandipiti,88,91,82,70,125,99,555.0,Poison,Fairy,Toxic Chain,N/A,Technician,3 SpD,M (100%),-,N/A,3,N
+"1,017",Ogerpon (CM),80,120,84,60,96,110,550.0,Grass,Rock,Sturdy,N/A,Embody Aspect,3 Atk,F (100%),-,N/A,N/A,-
+"1,017",Ogerpon (HM),80,120,84,60,96,110,550.0,Grass,Fire,Mold Breaker,N/A,Embody Aspect,3 Atk,F (100%),-,N/A,N/A,-
+"1,017",Ogerpon (TM),80,120,84,60,96,110,550.0,Grass,N/A,Defiant,N/A,Embody Aspect,3 Atk,F (100%),-,N/A,5,N
+"1,017",Ogerpon (WM),80,120,84,60,96,110,550.0,Grass,Water,Water Absorb,N/A,Embody Aspect,3 Atk,F (100%),-,N/A,N/A,-
